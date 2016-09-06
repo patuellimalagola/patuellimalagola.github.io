@@ -6,13 +6,13 @@ gems:
 permalink:         pretty
 
 # Setup
-url:               http://qwtel.com
+url:               "https://patuellimalagola.github.io"
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:           /hydejack
+baseurl:           ''
 
-title:             Hydejack
+title:             Test
 
 # Pagination
 paginate:          5
@@ -60,34 +60,15 @@ author:
     vk:            <username>
     youtube:       <string>_<string>_<string>
     # vimeo:         <username>
-    # vine:          <username>
-    # spotify:       user/<number>
-    # soundcloud:    <username>
     # lastfm:        <username>
     # instagram:     <username>
     # flickr:        <string>@<string>
-    # 500px:         <username>
-    # dribble:       <username>
-    # behance:       <username>
-    # deviantart:    <username>
     # ello:          <username>
     # twitch:        <username>
     # steam:         <number>
     # reddit:        <username>
     # tumblr:        <username>
-    # pinterest:     <username>
-    # foursquare:    <number>
-    # yelp:          <string>
-    # github:        <username>
-    # stackoverflow: <number>/<username>
-    # npm:           <username>
-    # hackernews:    <username>
-    # trello:        <firstname><lastname>
     # linkedin:      <firstname>-<lastname>-<string>
-    # xing:          <firstname>_<lastname><counter>
-    # blogger:       <number>
-    # delicious:     <username>
-    # stumbleupon:   <username>
     # paypal:        <username>
 
 # Setting a disqus subdomain will enable the comment section
