@@ -6,4 +6,4 @@ tags: [benvenuto]
 
 Sito in costruzione.  
 
-Are you an english speaker? Website is under construction, check back soon.  
+Are you an English speaker? This website is under construction, check back soon.  
