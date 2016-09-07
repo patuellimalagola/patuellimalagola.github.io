@@ -1,6 +1,7 @@
 ---
-2	layout: page
-3	title: Contatti
-4	---
+layout: page
+title: Contatti
+---
+
 
 Scrivi a info@aapatuellimalagola.com  
