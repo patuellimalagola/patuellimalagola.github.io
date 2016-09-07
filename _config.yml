@@ -23,7 +23,7 @@ description:       >
   Pagina in costruzione.
 
 # The tags listed as entries in the sidebar
-sidebar_tags:      [jekyll, hyde]
+sidebar_tags:      []
 
 # Fallback image and color if not overwritten for tag or post
 image:             /patuellimalagola.github.io/public/img/uva.jpg
