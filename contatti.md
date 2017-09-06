@@ -4,4 +4,4 @@ title: Contatti
 ---
 
 
-Scrivi a info@aapatuellimalagola.com  
+Scrivi a info@patuellimalagola.com  
