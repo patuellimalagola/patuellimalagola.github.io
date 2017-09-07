@@ -1,6 +1,6 @@
 ---
 layout: page
-image: /img/vigna.jpg
+image: /img/vigna2.jpg
 ---
 
 Benvenuti sul nostro sito!
