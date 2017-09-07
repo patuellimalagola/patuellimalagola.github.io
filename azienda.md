@@ -1,4 +1,5 @@
 ---
+title: L'azienda
 layout: page
 image: /img/sorgo.jpg
 ---
