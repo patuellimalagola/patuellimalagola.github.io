@@ -1,75 +1,77 @@
-# Dependencies
-gems:
-  - jekyll-paginate
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Permalinks
-permalink:         pretty
-
-# Setup
-url:               "https://patuellimalagola.github.io"
-
-# Set to '' in case of hosting on GitHub pages,
-# i.e. `http://<username>.github.io`
-baseurl:           ''
-
-title:             Azienda Agricola Patuelli-Malagola
-
-# Pagination
-paginate:          5
-paginate_path:     '/page-:num/'
-
-# Markdown enabled, however don't use more than one paragraph (enforced by `>`)
-description:       >
-  Pagina in costruzione.
-
-# The tags listed as entries in the sidebar
-sidebar_tags:      []
-
-# Fallback image and color if not overwritten for tag or post
-image:             /patuellimalagola.github.io/public/img/uva.jpg
-color:             '#A85641'
-
-# Fonts
-font:              '"PT Serif", Georgia, serif'
-font_accent:       '"Roboto Slab", "PT Serif", Georgia, serif'
-load_google_fonts: 'Roboto+Slab:700|PT+Serif:400,400italic,700,700italic'
-
-# About yourself
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+lang: it
+title: Società Agricola Patuelli Malagola
+email:
+description: 
+baseurl: # the optional subpath of your site, e.g. "/blog"
+url: http://wwww.patuellimalagola.com
 author:
-  name:            'Sandra Giuliani'
+  name:
+  twitter:
+  picture:
+twitter_username:
+github_username:
+logo: # path of site logo, e.g. "/assets/images/logo.png"
 
-  # This photo will be used in the about section, add url here
-  #photo:           
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-basically-basic
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+feed:
+  path: atom.xml
 
-  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:           |
-    Hi there.
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
 
-  # Social media icons in sidebar
-  # Comment/uncommet to show/hide
-  # Icons appear in order, can be rearranged:
-  social:
-    #facebook:      <username>
-    #twitter:       <username>
-    #google:        <number>
-   # vk:            <username>
-    #youtube:       <string>_<string>_<string>
-    # vimeo:         <username>
-    # lastfm:        <username>
-    # instagram:     <username>
-    # flickr:        <string>@<string>
-    # ello:          <username>
-    # twitch:        <username>
-    # steam:         <number>
-    # reddit:        <username>
-    # tumblr:        <username>
-    #linkedin:        https://www.linkedin.com/company/azienda-agricola-patuelli-malagola-di-giuliani-anna-e-sandra
-    # paypal:        <username>
+# Exclude from processing.
+exclude:
+  - .asset-cache
+  - .bundle
+  - .codeclimate.yml
+  - .editorconfig
+  - .gitattributes
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .scss-lint.yml
+  - CHANGELOG
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - node_modules
+  - Rakefile
+  - README
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - /docs # ignore Basically Basic sample site
+  - /example # ignore Basically Basic dev site
 
-# Setting a disqus subdomain will enable the comment section
-#disqus:            <username>
-
-kramdown:
-  math_engine: mathjax
-  math_engine_opts:
-    preview: true
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true

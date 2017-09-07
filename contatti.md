@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Contatti
+layout: page
+
 ---
 
 
-Scrivi a info@patuellimalagola.com  
+Contattaci a info@patuellimalagola.com
