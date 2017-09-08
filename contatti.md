@@ -1,7 +1,7 @@
 ---
 title: Contatti
 layout: page
-image: /img/ceci.jpg
+
 ---
 
 
