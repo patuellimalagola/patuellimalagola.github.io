@@ -1,77 +1,120 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+title: "Società Agricola Patuelli Malagola"
+#  en: "Tats and Tats"
+#  it: "Tast e Tats"
+tagline:          ""
+description:      ""
+canonical: https://patuellimalagola.github.io
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-lang: it
-title: Società Agricola Patuelli Malagola
-email:
-description: 
-baseurl: # the optional subpath of your site, e.g. "/blog"
-url: http://wwww.patuellimalagola.com
-author:
-  name:
-  twitter:
-  picture:
-twitter_username:
-github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: "https://patuellimalagola.github.io"
+baseurl: ""
 
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-basically-basic
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-feed:
-  path: atom.xml
 
-# Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
-paginate_path: /page:num/
 
-# Exclude from processing.
-exclude:
-  - .asset-cache
-  - .bundle
-  - .codeclimate.yml
-  - .editorconfig
-  - .gitattributes
-  - .jekyll-assets-cache
-  - .sass-cache
-  - .scss-lint.yml
-  - CHANGELOG
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - node_modules
-  - Rakefile
-  - README
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - /docs # ignore Basically Basic sample site
-  - /example # ignore Basically Basic dev site
+# Owner/author information
+owner:
+  name:           Società Agricola Patuelli Malagola
+  avatar:         avatar.png
+  bio:            ""
+  email:          info@patuellimalagola.com
+  #twitter:        twnsndco
+  #github:         coletownsend
+  #instagram:      ctrunsthis
+  #location:       "Buffalo, NY"
+  # Plug in your disqus shortname!
 
-# Front Matter Defaults
-defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      read_time: true
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Open Graph customization
+#opengraph:
+#  locale:           en_US
+
+
+languages:
+  en:
+    long: "English"
+    short: en
+    switch: "Italiano"
+    switchshort: it
+  it:
+    long: "Italiano"
+    short: it
+    switch: "English"
+    switchshort: en
+
+# Links to include in top navigation
+# For external links add external: true
+# might have to change this links to match multilingual site
+links:
+  en:
+    home:
+      title: Home
+      url: / 
+#    details:
+#      title: Details
+#      url: /details
+#    where:
+#      title: Where
+#      url: /where
+#    when:
+#      title: When
+#      url: /when
+    contact:
+      title: Contact
+      url: /contact
+  it:
+    home:
+      title: Homepage
+      url: /casa
+#    details:
+#      title: Dettagli
+#      url: /dettagli
+#    where:
+#      title: Dove
+#      url: /dove
+#    when:
+#      title: Quando
+#      url: /quando
+    contact:
+      title: Contatti
+      url: /contatti
+
+
+
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/London
+future:      true
+highlighter: rouge
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+sass:
+    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+
+
+fake_loop:
+  one: ''

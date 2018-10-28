@@ -1,14 +1,16 @@
 ---
 layout: page
-image: /img/vigna3.jpg
-alt_title: "Benvenuti!"
+title: "L'azienda"
+tags: []
+image:
+  feature: vigna3.jpg
+lang: en
+ref: home
 ---
 
-Benvenuti sul sito della Società Agricola Patuelli Malagola! Siamo un'azienda agricola operativa nel territorio ravennate da oltre 30 anni.
+"Società Agricola Patuelli Malagola di Giuliani Sandra Società Semplice" is a family run farm established in 1986. For over 30 years, we run two estates in the Ravenna municipality, in Emilia-Romagna.
 
-Per sapere di più, visita la sezione [Azienda](/azienda) 
+We produce wheat, chichpeas, green peas, sorghum, alfalfa, Trebbiano grapes.   
 
-Per qualunque esigenza, non esitate a [contattarci](/contatti)!
 
-Questo sito è in via di costruzione.
-
+This website is under construction, please [contact us](/contact) if you require further information.  
