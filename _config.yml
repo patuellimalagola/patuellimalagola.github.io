@@ -11,7 +11,7 @@ canonical: https://patuellimalagola.github.io
 url: "https://patuellimalagola.github.io"
 baseurl: ""
 
-
+logo-trasp: "/images/logo_trasp.png"
 
 # Owner/author information
 owner:
