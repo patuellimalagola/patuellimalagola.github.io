@@ -78,12 +78,12 @@
            var thing = document.getElementById("language"), pagelang;
            pagelang = thing.getAttribute("pagelang");
            if (pagelang === "it") {
-              reverse = "<a href='/'>[ENGLISH]</a>";
-              link = "/"
+              reverse = "<a href='/en'>[ENGLISH]</a>";
+              link = "/en"
               lang = "EN"
            } else {
-              reverse = "<a href='/casa'>[ITALIANO]</a>";
-              link = "/casa"
+              reverse = "<a href='/'>[ITALIANO]</a>";
+              link = "/"
               lang = "IT"
            }
            document.getElementById("demo").innerHTML = reverse;
