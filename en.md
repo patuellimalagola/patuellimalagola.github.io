@@ -3,7 +3,7 @@ layout: page
 title: "L'azienda"
 tags: []
 image:
-  feature: vigna3.jpg
+  feature: vigna4.jpg
 lang: en
 ref: home
 ---
