@@ -8,10 +8,9 @@ lang: it
 ref: home
 ---
 
-IT
-"Società Agricola Patuelli Malagola di Giuliani Sandra Società Semplice" is a family run farm established in 1986. For over 30 years, we run two estates in the Ravenna municipality, in Emilia-Romagna.
+La Società Agricola Patuelli Malagola di Giuliani Sandra Società Semplice è un'azienda a conduzione familiare costituita nel 1986. Da oltre 30 anni e da 3 generazioni, l'azienda conduce terreni agricoli a San Michele e a Santerno-Ammonite, nel ravennate (Emilia-Romagna).
 
-We produce wheat, chickpeas, green peas, sorghum, alfalfa, Trebbiano grapes.   
+Tra i nostri prodotti: grano tenero, ceci, piselli, sorgo, erba medica, uva Trebbiano.   
 
 
-This website is under construction, please [contact us](/contact) if you require further information.  
+Questo sito è in via di costruzione, [contattateci](/contatti) se desiderate ulteriori informazioni.   
