@@ -13,6 +13,8 @@ baseurl: ""
 
 logo-trasp: "/images/logo_trasp.png"
 
+farf-trasp-quad: "/images/farf_trasp_quad.png"
+
 # Owner/author information
 owner:
   name:           Società Agricola Patuelli Malagola
