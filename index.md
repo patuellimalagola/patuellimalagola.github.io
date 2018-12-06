@@ -13,4 +13,4 @@ La Società Agricola Patuelli Malagola di Giuliani Sandra Società Semplice è u
 Tra i nostri prodotti: grano tenero, ceci, piselli, sorgo, erba medica, uva Trebbiano.   
 
 
-Questo sito è in via di costruzione, [contattateci](/contatti) se desiderate ulteriori informazioni.   
+Questo sito è in via di costruzione, [contattateci](/contatti/) se desiderate ulteriori informazioni.   
