@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /contatti/index.html
+permalink: /contatti
 title: Contattaci
 description: ""
 tags: []
