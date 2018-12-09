@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "L'azienda"
+title: "Societa Agricola Patuelli Malagola"
 tags: []
 image:
   feature: vigna4.jpg
