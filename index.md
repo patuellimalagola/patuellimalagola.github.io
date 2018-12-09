@@ -17,4 +17,4 @@ Conduciamo i nostri terreni agricoli di proprietà a San Michele e a Santerno, p
 Produciamo grano tenero, ceci, piselli, erba medica, uva Trebbiano.
 
 
-Questo sito è in via di costruzione, nell'attesa che vengano aggiunti altri contenuti non esistate a [contattarci](/contatti) se desiderate ulteriori informazioni.   
+Questo sito è in via di costruzione, nell'attesa che vengano aggiunti altri contenuti non esistate a [contattarci](/contatti).
