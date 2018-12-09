@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /contact/index.html
+permalink: /contact
 title: Contact us
 description: ""
 tags: []
