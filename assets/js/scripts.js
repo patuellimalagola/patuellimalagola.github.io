@@ -12,9 +12,7 @@ $(document).ready(function() {
     }
   });
 
-
   $('article.post iframe').wrap('<div class="video-container" />');
-
 });
 
 $(document).ready(function() {
@@ -23,7 +21,6 @@ $(document).ready(function() {
     $('.overlay').css("height", vH);
     $('.featured-image').css("height", vH);
 });
-
 
 $(function(){
   $('<img>').attr('src',function(){
