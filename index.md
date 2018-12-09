@@ -10,9 +10,9 @@ ref: home
 
 Benvenuti sul sito della Società Agricola Patuelli Malagola di Giuliani Sandra S.s.!   
 
-Siamo un azienda agricola di Ravenna costituita nel 1986.   
+Siamo un azienda agricola di Ravenna (Emilia-Romagna), costituita nel 1986.   
 
-Conduciamo terreni agricoli a San Michele e a Santerno, nel ravennate (Emilia-Romagna)
+Conduciamo i nostri terreni agricoli di proprietà a San Michele e a Santerno, per un totale di 64 ettari.
 
 Produciamo grano tenero, ceci, piselli, sorgo, erba medica, uva Trebbiano.
 
