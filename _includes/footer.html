@@ -29,8 +29,14 @@
     </aside>
     -->
 
-    <small>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="https://jekyllrb.com">Jekyll</a> using the <a href="https://jekyll.gtat.me/about">Balzac</a> theme.  {{ site.languages.[page.lang].long }}</small>
+    <small>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="https://jekyllrb.com">Jekyll</a> using the <a href="https://jekyll.gtat.me/about">Balzac</a> theme. </small>
   </footer>
+
+<!--
+moved here this part of the footer
+{{ site.languages.[page.lang].long }}
+-->
+
 
   <!-- If they're out, get some from the cellar -->
   <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
