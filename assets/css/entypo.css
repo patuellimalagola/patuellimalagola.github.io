@@ -5,6 +5,7 @@
 
 @font-face {
     font-family: 'rampungregular';
+    font-display: swap;
     src: url('fonts/rampung-webfont.eot');
     src: url('fonts/rampung-webfont.eot?#iefix') format('embedded-opentype'),
          url('fonts/rampung-webfont.woff2') format('woff2'),
@@ -17,6 +18,7 @@
 
 @font-face {
     font-family: 'sertiglight';
+    font-display: swap;
     src: url('fonts/sertig-webfont.eot');
     src: url('fonts/sertig-webfont.eot?#iefix') format('embedded-opentype'),
          url('fonts/sertig-webfont.woff2') format('woff2'),
