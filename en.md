@@ -8,7 +8,7 @@ lang: en
 ref: home
 ---
 
-Welcome on the website of 'Società Agricola Patuelli Malagola di Giuliani Sandra S.s.' 
+Welcome to the website of 'Società Agricola Patuelli Malagola di Giuliani Sandra S.s.' 
 
 We are an agricultural estate business based in the Ravenna municipality, in Emilia-Romagna (Italy).
 
