@@ -31,7 +31,7 @@ Il piano colturale cambia ogni anno, a seconda delle esigenze del terreno e dell
 
 ### Grano tenero    
 <figure>
-	<img src="/images/wheat.png" style="width:150px;height:150px;" align="right">
+	<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;" align="right">
 </figure>
 
 Il grano...    
@@ -41,9 +41,6 @@ Il grano...
 
 ...
 
-
-    
-    
 
 
 
@@ -60,7 +57,7 @@ Il cece (Cicer arietinum) è un legume. I nostri ceci vengono conferiti a [Conse
 
 ### Piselli    
 <figure>
-	<img src="/images/peas.png" style="width:150px;height:150px;" align="right">
+	<img src="/images/peas.png" alt="Piselli" style="width:150px;height:150px;" align="right">
 </figure>  
 
 
