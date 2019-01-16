@@ -31,6 +31,9 @@ Ok
 </figure>
 
 
+Senza figure:
+<img src="/images/chickpeas.png">
+
 
 ## Piselli
 
@@ -38,6 +41,9 @@ Ok
 	<img src="/images/chickpeas1.png">
 	<figcaption>Ceci</figcaption>
 </figure>
+
+Senza figure:
+<img src="/images/chickpeas1.png">
 
 
 ## Erba medica
