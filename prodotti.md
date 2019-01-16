@@ -34,7 +34,7 @@ Il piano colturale cambia ogni anno, a seconda delle esigenze del terreno e dell
 	<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;" align="right">
 </figure>
 
-Il grano tenero ([Triticum aestivum](https://it.wikipedia.org/wiki/Triticum_aestivum)) è il cereale comunemente utilizzato per per ottenere la farina per la panificazione. Le varietà che coltiviamo sono Rebelde, Bologna, Rubisko. 
+Il grano tenero ([Triticum aestivum](https://it.wikipedia.org/wiki/Triticum_aestivum)) è il cereale comunemente utilizzato per ottenere la farina per la panificazione. Le varietà che coltiviamo sono Rebelde, Bologna, Rubisko. 
 
 Il nostro grano viene conferito al [Consorzio Agrario di Ravenna](https://www.consorzioagrarioravenna.it/).  
 
