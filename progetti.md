@@ -12,27 +12,28 @@ ref: projects
 
 Abbiamo tanti progetti per il futuro dell'azienda! In questa pagina ne sono elencati alcuni. Se siete interessati a saperne di più, [contattateci](/contatti).  
 
+Vorremmo..
 
 ### Ospitalità rurale    
  
-Progetto di recupero della casa colonica di proprietà dell'azienda per creare spazi di accoglienza.   
+.. restaurare la casa colonica di proprietà dell'azienda e creare di spazi di accoglienza rurale.  
 
 ---
 
 ### Mobilità sostenibile     
 
-Bicicletta e recupero della pista ciclabile.
+.. stimolare l'uso di mezzi di trasporto sostenibili, come la bicicletta, creando e supportando infrastrutture adeguate nel territorio.
 
 ---
 
 ### Vendita di prodotti    
 
-Creazione di uno spaccio aziendale per vendita dei nostri prodotti, trasformati e non, anche in collaborazione con altre aziende agricole locali.   
+.. costruire uno spaccio aziendale per vendita dei nostri prodotti, trasformati e non, anche in collaborazione con altre aziende agricole locali.   
 
 ---
 
 ### Divulgazione   
 
-Lancio di un blog, ospitato su questo sito, per fare divulgazione sia su temi del mondo agricolo di interesse per il pubblico ma anche per chi si sta approcciando a questo mestiere.   
+.. lanciare un blog, ospitato su questo sito, per fare divulgazione su temi del mondo agricolo di interesse per sia i consumatori che chi si sta approcciando al mestiere.
 
 ---
