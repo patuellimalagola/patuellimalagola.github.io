@@ -47,7 +47,7 @@ Ok
 align left img inline:
 <img src="/images/chickpeas.png" alt="Ceci" style="width:150px;height:150px;" align="right">    
 
-Il cece (_Cicer arietinum_) è un legume. I nostri ceci vengono conferiti a [Conserve Italia](https://www.conserveitalia.it/) che li lavora in giornata. Se comprate ceci in vasetto o barattolo della Valfrutta o di altre comuni marche potreste trovarci dentro proprio i nostri ceci!    
+Il cece (Cicer arietinum) è un legume. I nostri ceci vengono conferiti a [Conserve Italia](https://www.conserveitalia.it/) che li lavora in giornata. Se comprate ceci in vasetto o barattolo della Valfrutta o di altre comuni marche potreste trovarci dentro proprio i nostri ceci!    
 
 
 ### Piselli    
