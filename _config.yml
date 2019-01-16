@@ -58,9 +58,9 @@ links:
     products:
       title: Products
       url: /products
-#    where:
-#      title: Where
-#      url: /where
+    projects:
+      title: Goals
+      url: /goals
     contact:
       title: Contact
       url: /contact
@@ -71,9 +71,9 @@ links:
     products:
       title: Prodotti
       url: /prodotti
-#    where:
-#      title: Dove
-#      url: /dove
+    projects:
+      title: Progetti
+      url: /progetti
     contact:
       title: Contatti
       url: /contatti
