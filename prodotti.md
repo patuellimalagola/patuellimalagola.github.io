@@ -32,7 +32,7 @@ Ok
 
 
 Senza figure:
-<img src="/images/chickpeas.png">
+<img src="/images/chickpeas.png" alt="Ceci" width="100" height="100">
 
 
 ## Piselli
