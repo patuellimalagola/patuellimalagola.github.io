@@ -34,7 +34,10 @@ Il piano colturale cambia ogni anno, a seconda delle esigenze del terreno e dell
 	<img src="/images/wheat.png" style="width:150px;height:150px;" align="right">
 </figure>
 
-Ok    
+Il grano...    
+    
+    
+    
 
 
 
@@ -50,9 +53,9 @@ Il cece (Cicer arietinum) è un legume. I nostri ceci vengono conferiti a [Conse
 ---
 
 ### Piselli    
+...   
 
 
-test    
 ---   
     
 ### Erba medica    
@@ -61,10 +64,15 @@ L'erba medica è .......
 ...   
 ...   
 
+
 ---   
 
 ### Uva trebbiano
 <img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:150px;height:150px;" align="right">  
-
+Il trebbiano   
+La nostra uva viene conferita ad [Agrintesa](http://www.agrintesa.it/).   
+    
+    
+    
 
 ---    
