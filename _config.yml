@@ -55,9 +55,9 @@ links:
     home:
       title: Home
       url: /en 
-#    details:
-#      title: Details
-#      url: /details
+    products:
+      title: Products
+      url: /products
 #    where:
 #      title: Where
 #      url: /where
@@ -68,9 +68,9 @@ links:
     home:
       title: Homepage
       url: /
-#    details:
-#      title: Dettagli
-#      url: /dettagli
+    products:
+      title: Prodotti
+      url: /prodotti
 #    where:
 #      title: Dove
 #      url: /dove
