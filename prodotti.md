@@ -24,7 +24,7 @@ ref: products
 ---> 
 
 
-I nostri terreni sono prevalentemente coltivati a seminativo - ad eccezione del vigneto. Utilizziamo le classiche tecniche di rotazione delle colture per mantenere il terreno fertile e ottimizzare le rese, ad esempio sfruttando la capacita delle leguminose di fissare l'azoto.   
+I nostri terreni sono prevalentemente coltivati a seminativo - ad eccezione del vigneto. Utilizziamo le classiche tecniche di rotazione delle colture per mantenere il terreno fertile e ottimizzare le rese, ad esempio sfruttando la capacità delle leguminose di fissare l'azoto.   
 
 Il piano colturale cambia ogni anno, a seconda delle esigenze del terreno e della richiesta del mercato. Al momento, produciamo: 
 
@@ -76,10 +76,10 @@ Curiosità: l'erba medica non è tradizionalmente usata per l'alimentazione uman
 
 ### Uva trebbiano
 <img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:150px;height:150px;" align="right">  
-Il trebbiano è un vitigno da vino a bacca bianca molto diffuso. È componente di moltissimi vini DOC italiani, e da solo forma diversi vini DOC tra cui il [Trebbiano di Romagna DOC](http://www.consorziovinidiromagna.it/vini/trebbiano/).
+Il Trebbiano è un vitigno da vino a bacca bianca molto diffuso. È componente di moltissimi vini DOC italiani, e da solo forma diversi vini DOC tra cui il [Trebbiano di Romagna DOC](http://www.consorziovinidiromagna.it/vini/trebbiano/).
 
 La nostra uva viene conferita ad [Agrintesa](http://www.agrintesa.it/).   
 
-Curiosità: il nome 'trebbiano' deriva da 'trebulanum', nome che compare per la prima volta nella [Naturalis Historia di Plinio il Vecchio](https://la.wikisource.org/wiki/Naturalis_Historia/Liber_XIV), che sembra riferirsi all'insediamento Trebula Balliensis, l'attuale Treglia, in provincia di Caserta.  
+Curiosità: il nome 'Trebbiano' deriva da 'trebulanum', nome che compare per la prima volta nella [Naturalis Historia di Plinio il Vecchio](https://la.wikisource.org/wiki/Naturalis_Historia/Liber_XIV), che sembra riferirsi all'insediamento Trebula Balliensis, l'attuale Treglia, in provincia di Caserta.  
    
 ---    
