@@ -31,19 +31,17 @@ Ok
 </figure>
 
 
-100x100:
-<img src="/images/chickpeas.png" alt="Ceci" width="100" height="100">
+50x50:
+<img src="/images/chickpeas.png" alt="Ceci" width="50" height="50">
 
 
 ## Piselli
 
+50x50 figure w caption
 <figure>
-	<img src="/images/chickpeas1.png">
+	<img src="/images/chickpeas.png" alt="Ceci" width="50" height="50">
 	<figcaption>Ceci</figcaption>
 </figure>
-
-Senza figure:
-<img src="/images/chickpeas1.png">
 
 
 ## Erba medica
