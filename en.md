@@ -12,7 +12,7 @@ Welcome to the website of 'Società Agricola Patuelli Malagola di Giuliani Sandr
 
 We are an agricultural estate business based in the Ravenna municipality, in Emilia-Romagna (Italy).
 
-We produce wheat, chickpeas, green peas, alfaalfa, Trebbiano grapes.   
 
+On this website you can keep up to date with [what we produce](/products) and with our [future goals](/goals). 
 
-This website is under construction, please [contact us](/contact) if you require further information.   
+This website is currently under construction, please bear with us and [get in touch](/contact) if you require further information.   
