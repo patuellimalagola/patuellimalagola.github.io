@@ -31,7 +31,7 @@ Ok
 </figure>
 
 
-Senza figure:
+100x100:
 <img src="/images/chickpeas.png" alt="Ceci" width="100" height="100">
 
 
