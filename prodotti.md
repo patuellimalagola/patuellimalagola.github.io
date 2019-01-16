@@ -30,7 +30,7 @@ I nostri terreni sono prevalentemente coltivati a seminativo - ad eccezione del 
 Il piano colturale cambia ogni anno, a seconda delle esigenze del terreno e della richiesta del mercato. Al momento, produciamo: 
 
 ### Grano tenero    
-Il grano è:
+figure, float:
 <figure>
 	<img src="/images/wheat.png" style="width:150px;height:150px;" style="float: right;">
 </figure>
@@ -43,6 +43,7 @@ Ok
 
 
 ### Ceci    
+img, alig
 <img src="/images/chickpeas.png" alt="Ceci" style="width:150px;height:150px;" align="right">    
 
 Il cece (Cicer arietinum) è un legume. I nostri ceci vengono conferiti a [Conserve Italia](https://www.conserveitalia.it/) che li lavora in giornata. Se comprate ceci in vasetto o barattolo della Valfrutta o di altre comuni marche potreste trovarci dentro proprio i nostri ceci!     
@@ -56,6 +57,13 @@ Il cece (Cicer arietinum) è un legume. I nostri ceci vengono conferiti a [Conse
 test    
     
 ### Erba medica    
+img, float
+<img src="/images/alfalfa.png" alt="Erba medica" style="width:150px;height:150px;" style="float: right;">   
+L'erba medica è .......
+...   
+...   
+
+
 
 ### Uva trebbiano
 
