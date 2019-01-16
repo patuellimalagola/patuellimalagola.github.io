@@ -25,21 +25,16 @@ Ok
 
 ## Ceci
 
-<figure>
-	<img src="/images/chickpeas.png">
-	<figcaption>Ceci</figcaption>
-</figure>
 
-
-50x50 resize w style and align left:
-<img src="/images/chickpeas.png" alt="Ceci" style="width:50px;height:50px;" align="left">
+100x100 resize w style and align left img inline:
+<img src="/images/chickpeas.png" alt="Ceci" style="width:100px;height:100px;" align="left">
 
 
 ## Piselli
 
-50x50 figure w caption
+100x100 resize w style and align left img figure:
 <figure>
-	<img src="/images/chickpeas.png" alt="Ceci" width="50" height="50">
+	<img src="/images/chickpeas.png" alt="Ceci" style="width:100px;height:100px;" align="left">
 	<figcaption>Ceci</figcaption>
 </figure>
 
