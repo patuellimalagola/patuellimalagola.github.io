@@ -27,12 +27,18 @@ Ok
 
 <figure>
 	<img src="/images/chickpeas.png">
-	<figcaption>Grano</figcaption>
+	<figcaption>Ceci</figcaption>
 </figure>
 
 
 
 ## Piselli
+
+<figure>
+	<img src="/images/chickpeas1.png">
+	<figcaption>Ceci</figcaption>
+</figure>
+
 
 ## Erba medica
 
