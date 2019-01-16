@@ -47,7 +47,7 @@ Il cece ([Cicer arietinum](http://www.agraria.org/coltivazionierbacee/cece.htm))
 
 I nostri ceci, di varietà Pascià, vengono conferiti a [Conserve Italia](https://www.conserveitalia.it/) che li lavora in giornata. Se comprate ceci in vasetto o barattolo della Valfrutta o di altre comuni marche potreste trovarci dentro proprio i nostri ceci.      
 
-Curiosità: si dice che Marco Tullio Cicerone, il famoso oratore romano, debba il suo cognome al fatto che avesse [un porro sul naso a forma di cece!](https://www.etimo.it/?term=cicerone)
+Curiosità: si dice che Marco Tullio Cicerone, il famoso oratore romano, debba il suo cognome al fatto che avesse [un porro sul naso a forma di cece](https://www.etimo.it/?term=cicerone).
 
 ---
 
