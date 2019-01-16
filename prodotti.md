@@ -32,7 +32,7 @@ Il piano colturale cambia ogni anno, a seconda delle esigenze del terreno e dell
 ### Grano tenero    
 Il grano è:
 <figure>
-	<img src="/images/wheat.png" style="width:150px;height:150px;" align="right">
+	<img src="/images/wheat.png" style="width:150px;height:150px;" style="float: right;">
 </figure>
 
 Ok    
