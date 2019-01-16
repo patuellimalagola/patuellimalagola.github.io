@@ -14,12 +14,21 @@ I nostri terreni sono prevalentemente coltivati a seminativo - ad eccezione del 
 
 Il piano colturale cambia ogni anno, a seconda delle esigenze del terreno e della richiesta del mercato. Al momento, produciamo: 
 
-*Grano tenero*
+# Grano tenero
+Il grano è:
+<figure>
+	<img src="/images/wheat.png">
+	<figcaption>Grano</figcaption>
+</figure>
+Ok
 
 
-#Ceci
+# Ceci
 
-##Piselli
+## Piselli
 
 Erba medica
+
+
+
 
