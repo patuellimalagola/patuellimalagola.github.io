@@ -27,7 +27,9 @@ Ok
 
 
 100x100 resize w style and align left img inline:
-<img src="/images/chickpeas.png" alt="Ceci" style="width:100px;height:100px;" align="left">
+<img src="/images/chickpeas.png" alt="Ceci" style="width:100px;height:100px;" align="left">    
+
+test
 
 
 ## Piselli
@@ -36,8 +38,9 @@ Ok
 <figure>
 	<img src="/images/chickpeas.png" alt="Ceci" style="width:100px;height:100px;" align="left">
 	<figcaption>Ceci</figcaption>
-</figure>
+</figure>    
 
+test
 
 ## Erba medica
 
