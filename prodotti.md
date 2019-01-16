@@ -10,7 +10,20 @@ lang: it
 ref: products
 ---
 
-<!--- comment here ---> 
+<!--- 
+<figure>
+	<img src="/images/wheat.png" style="width:150px;height:150px;">
+</figure> 
+---> 
+
+<!--- 
+<figure>
+	<img src="/images/chickpeas.png" alt="Ceci" style="width:100px;height:100px;" align="left">
+	<figcaption>Ceci</figcaption>
+</figure>  
+---> 
+
+
 
 I nostri terreni sono prevalentemente coltivati a seminativo - ad eccezione del vigneto. Utilizziamo le classiche tecniche di rotazione delle colture per mantenere il terreno fertile e ottimizzare le rese, ad esempio sfruttando la capacita delle leguminose di fissare l'azoto.   
 
@@ -21,6 +34,11 @@ Il grano è:
 <figure>
 	<img src="/images/wheat.png" style="width:150px;height:150px;">
 </figure>
+
+<figure>
+	<img src="/images/chickpeas.png" style="width:150px;height:150px;">
+</figure>
+
 Ok
 
 
@@ -34,11 +52,6 @@ Il cece (_Cicer arietinum_) è un legume. I nostri ceci vengono conferiti a [Con
 
 ### Piselli    
 
-100x100 resize w style and align left img figure:    
-<figure>
-	<img src="/images/chickpeas.png" alt="Ceci" style="width:100px;height:100px;" align="left">
-	<figcaption>Ceci</figcaption>
-</figure>    
 
 test    
     
