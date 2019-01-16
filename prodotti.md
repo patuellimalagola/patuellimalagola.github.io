@@ -77,7 +77,7 @@ Curiosità: l'erba medica non è tradizionalmente usata per l'alimentazione uman
 ---   
 
 ### Uva trebbiano
-<img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:140px;height:140px;" align="right">  
+<img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:120px;height:120px;" align="right">  
 Il Trebbiano è un vitigno da vino a bacca bianca molto diffuso. È componente di moltissimi vini DOC italiani, e da solo forma diversi vini DOC tra cui il [Trebbiano di Romagna DOC](http://www.consorziovinidiromagna.it/vini/trebbiano/).
 
 La nostra uva viene conferita ad [Agrintesa](http://www.agrintesa.it/).   
