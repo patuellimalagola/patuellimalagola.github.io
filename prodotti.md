@@ -23,10 +23,7 @@ ref: products
 </figure>  
 ---> 
 
-
-I nostri terreni sono prevalentemente coltivati a seminativo - ad eccezione del vigneto. Utilizziamo le classiche tecniche di rotazione delle colture per mantenere il terreno fertile e ottimizzare le rese, ad esempio sfruttando la capacità delle leguminose di fissare l'azoto.   
-
-Il piano colturale cambia ogni anno, a seconda delle esigenze del terreno e della richiesta del mercato. I nostri prodotti al momento vengono tutti conferiti a cooperative, ma abbiamo in progetto di sviluppare la vendita diretta al pubblico sia di prodotti grezzi che trasformati.   
+Il nostro piano colturale cambia ogni anno, a seconda delle esigenze del terreno e della richiesta del mercato. I nostri prodotti al momento vengono tutti conferiti a cooperative, ma abbiamo in progetto di sviluppare la vendita diretta al pubblico sia di prodotti grezzi che trasformati.   
 
 Al momento, produciamo: 
 
