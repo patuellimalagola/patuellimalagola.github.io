@@ -33,7 +33,7 @@ Il piano colturale cambia ogni anno, a seconda delle esigenze del terreno e dell
 	<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;" align="right">
 </figure>
 
-Il grano tenero ([Triticum aestivum](http://www.agraria.org/coltivazionierbacee/granotenero.htm) è il cereale comunemente utilizzato per ottenere la farina per il pane. I chicchi di grano possono anche essere usati interi per preparare minestre, insalate oppure la buonissima pastiera napoletana.  
+Il grano tenero ([Triticum aestivum](http://www.agraria.org/coltivazionierbacee/granotenero.htm)) è il cereale comunemente utilizzato per ottenere la farina per il pane. I chicchi di grano possono anche essere usati interi per preparare minestre, insalate oppure la buonissima pastiera napoletana.  
 
 Le varietà che coltiviamo sono Rebelde, Bologna, Rubisko. Il nostro grano viene conferito al [Consorzio Agrario di Ravenna](https://www.consorzioagrarioravenna.it/).  
 
@@ -56,28 +56,28 @@ Curiosità: si dice che Marco Tullio Cicerone, il famoso oratore romano, debba i
 <figure>
 	<img src="/images/peas.png" alt="Piselli" style="width:150px;height:150px;" align="right">
 </figure>  
-Il pisello ([Pisum sativum](http://www.agraria.org/coltivazionierbacee/pisello.htm)) è un legume molto diffuso, usato sia per l'alimentazione umana che per il bestiame.  
-...  
-...  
-...  
-...  
+Il pisello ([Pisum sativum](http://www.agraria.org/coltivazionierbacee/pisello.htm)) è un legume usato sia per l'alimentazione umana che per il bestiame. Sia le varietà che le tecniche colturali sono diverse a seconda che sia per uso umano o mangime. Per quanto riguarda la nostra alimentazione, i piselli si sposano benissimo con la pasta, ma si prestano anche a tante altre diverse ricette tra cui è d'obbligo menzionare le seppie con i piselli.  
+  
+La varietà che coltiviamo è Wolf. Come per i ceci, conferiamo questo prodotto a [Conserve Italia](https://www.conserveitalia.it/).  
+
+Curiosità: i piselli erano [in gran voga alla corte del Re Sole](https://www.laterza.it/index.php?option=com_laterza&Itemid=97&task=schedalibro&isbn=9788842091011), al punto che le dame se ne facevano preparare in più da portarsi a casa dopo cena, rischiando l'indigestione.  
 
 ---   
     
 ### Erba medica    
 <img src="/images/alfalfa.png" alt="Erba medica" style="width:150px;height:150px;" align="right">   
-L'erba medica è .......
-...  
-...
-...   
-...  
-  
+L'erba medica ([Medicago sativa](http://www.agraria.org/coltivazionierbacee/erbamedica.htm)) o alfalfa è una delle più comuni piante da foraggio. L'Emilia-Romagna è un territorio particolarmente vocato per questa coltivazione. 
+
+Coltiviamo la varietà Gea. Il seme viene conferito a [Continental Semences](http://www.continentalsemences.com/)
+
+Curiosità: l'erba medica non è tradizionalmente usata per l'alimentazione umana, ma c'è chi non resiste e [si mangia i suoi germogli] (https://alivebynature.com/the-right-way-to-eat-alfalfa-sprouts/).
   
 ---   
 
 ### Uva trebbiano
 <img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:150px;height:150px;" align="right">  
-Il trebbiano   
+Il trebbiano è un vitigno da vino a bacca bianca molto diffuso. È componente di moltissimi vini DOC italiani, e da solo forma diversi vini DOC tra cui il [Trebbiano di Romagna DOC](http://www.consorziovinidiromagna.it/vini/trebbiano/).
+
 La nostra uva viene conferita ad [Agrintesa](http://www.agrintesa.it/).   
 ...   
 ...   
