@@ -25,6 +25,13 @@ Ok
 
 ## Ceci
 
+<figure>
+	<img src="/images/chickpeas.png">
+	<figcaption>Grano</figcaption>
+</figure>
+
+
+
 ## Piselli
 
 ## Erba medica
