@@ -34,15 +34,11 @@ Il piano colturale cambia ogni anno, a seconda delle esigenze del terreno e dell
 	<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;" align="right">
 </figure>
 
-Il grano...    
-...    
-....
+Il grano tenero ([Triticum aestivum](https://it.wikipedia.org/wiki/Triticum_aestivum)) è il cereale comunemente utilizzato per per ottenere la farina per la panificazione. Le varietà che coltiviamo sono Rebelde, Bologna, Rubisko. 
 
+Il nostro grano viene conferito al [Consorzio Agrario di Ravenna](https://www.consorzioagrarioravenna.it/).  
 
-...
-
-
-
+Curiosità: il grano è un mostro genetico! Puoi scoprirne di piuù leggendo [questo articolo](http://bressanini-lescienze.blogautore.espresso.repubblica.it/2016/03/24/quel-mostro-genetico-chiamato-frumento/).  
 
 ---
 
