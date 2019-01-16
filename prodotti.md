@@ -14,7 +14,7 @@ I nostri terreni sono prevalentemente coltivati a seminativo - ad eccezione del 
 
 Il piano colturale cambia ogni anno, a seconda delle esigenze del terreno e della richiesta del mercato. Al momento, produciamo: 
 
-## Grano tenero
+### Grano tenero
 Il grano è:
 <figure>
 	<img src="/images/wheat.png" style="width:100px;height:100px;">
@@ -23,7 +23,7 @@ Il grano è:
 Ok
 
 
-## Ceci
+### Ceci
 
 
 100x100 resize w style and align left img inline:
@@ -32,7 +32,7 @@ Ok
 test
 
 
-## Piselli
+### Piselli
 
 100x100 resize w style and align left img figure:
 <figure>
@@ -42,9 +42,9 @@ test
 
 test
 
-## Erba medica
+### Erba medica
 
-# Uva trebbiano
+### Uva trebbiano
 
 
 
