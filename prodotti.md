@@ -24,7 +24,6 @@ ref: products
 ---> 
 
 
-
 I nostri terreni sono prevalentemente coltivati a seminativo - ad eccezione del vigneto. Utilizziamo le classiche tecniche di rotazione delle colture per mantenere il terreno fertile e ottimizzare le rese, ad esempio sfruttando la capacita delle leguminose di fissare l'azoto.   
 
 Il piano colturale cambia ogni anno, a seconda delle esigenze del terreno e della richiesta del mercato. Al momento, produciamo: 
@@ -34,11 +33,11 @@ Il piano colturale cambia ogni anno, a seconda delle esigenze del terreno e dell
 	<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;" align="right">
 </figure>
 
-Il grano tenero ([Triticum aestivum](https://it.wikipedia.org/wiki/Triticum_aestivum)) è il cereale comunemente utilizzato per ottenere la farina per la panificazione. Le varietà che coltiviamo sono Rebelde, Bologna, Rubisko. 
+Il grano tenero ([Triticum aestivum](https://it.wikipedia.org/wiki/Triticum_aestivum)) è il cereale comunemente utilizzato per ottenere la farina per il pane. I chicchi di grano posso anche essere usati interi per preparare minestre, insalate oppure la buonissima pastiera napoletana.  
 
-Il nostro grano viene conferito al [Consorzio Agrario di Ravenna](https://www.consorzioagrarioravenna.it/).  
+Le varietà che coltiviamo sono Rebelde, Bologna, Rubisko. Il nostro grano viene conferito al [Consorzio Agrario di Ravenna](https://www.consorzioagrarioravenna.it/).  
 
-Curiosità: il grano è un mostro genetico! Puoi scoprirne di piuù leggendo [questo articolo](http://bressanini-lescienze.blogautore.espresso.repubblica.it/2016/03/24/quel-mostro-genetico-chiamato-frumento/).  
+Curiosità: il grano è un mostro genetico! Puoi scoprirne di più leggendo [questo articolo](http://bressanini-lescienze.blogautore.espresso.repubblica.it/2016/03/24/quel-mostro-genetico-chiamato-frumento/).  
 
 ---
 
@@ -46,7 +45,7 @@ Curiosità: il grano è un mostro genetico! Puoi scoprirne di piuù leggendo [qu
 ### Ceci    
 <img src="/images/chickpeas.png" alt="Ceci" style="width:150px;height:150px;" align="right">    
 
-Il cece (Cicer arietinum) è un legume. I nostri ceci vengono conferiti a [Conserve Italia](https://www.conserveitalia.it/) che li lavora in giornata. Se comprate ceci in vasetto o barattolo della Valfrutta o di altre comuni marche potreste trovarci dentro proprio i nostri ceci!     
+Il cece ([Cicer arietinum](https://it.wikipedia.org/wiki/Cicer_arietinum)) è il terzo legume piuú coltivato nel mondo. I nostri ceci vengono conferiti a [Conserve Italia](https://www.conserveitalia.it/) che li lavora in giornata. Se comprate ceci in vasetto o barattolo della Valfrutta o di altre comuni marche potreste trovarci dentro proprio i nostri ceci!     
 ...  
 
 ---
