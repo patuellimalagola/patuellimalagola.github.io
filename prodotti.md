@@ -33,7 +33,7 @@ Il piano colturale cambia ogni anno, a seconda delle esigenze del terreno e dell
 	<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;" align="right">
 </figure>
 
-Il grano tenero ([Triticum aestivum](http://www.agraria.org/coltivazionierbacee/granotenero.htm) è il cereale comunemente utilizzato per ottenere la farina per il pane. I chicchi di grano posso anche essere usati interi per preparare minestre, insalate oppure la buonissima pastiera napoletana.  
+Il grano tenero ([Triticum aestivum](http://www.agraria.org/coltivazionierbacee/granotenero.htm) è il cereale comunemente utilizzato per ottenere la farina per il pane. I chicchi di grano possono anche essere usati interi per preparare minestre, insalate oppure la buonissima pastiera napoletana.  
 
 Le varietà che coltiviamo sono Rebelde, Bologna, Rubisko. Il nostro grano viene conferito al [Consorzio Agrario di Ravenna](https://www.consorzioagrarioravenna.it/).  
 
@@ -44,7 +44,7 @@ Curiosità: il grano è un mostro genetico! Puoi scoprirne di più leggendo [que
 ### Ceci    
 <img src="/images/chickpeas.png" alt="Ceci" style="width:150px;height:150px;" align="right">    
 
-Il cece ([Cicer arietinum](http://www.agraria.org/coltivazionierbacee/cece.htm)) è il terzo legume più coltivato nel mondo. Il cece è un ottimo alimento ed è molto versatile in cucina. Con i ceci possiamo preparare zuppe, minestre, farinate ma anche hummus e falafel.  d
+Il cece ([Cicer arietinum](http://www.agraria.org/coltivazionierbacee/cece.htm)) è il terzo legume più coltivato nel mondo. Il cece è un ottimo alimento ed è molto versatile in cucina. Con i ceci possiamo preparare zuppe, minestre, farinate ma anche hummus e falafel.  
 
 I nostri ceci, di varietà Pascià, vengono conferiti a [Conserve Italia](https://www.conserveitalia.it/) che li lavora in giornata. Se comprate ceci in vasetto o barattolo della Valfrutta o di altre comuni marche potreste trovarci dentro proprio i nostri ceci.      
 
@@ -56,7 +56,7 @@ Curiosità: si dice che Marco Tullio Cicerone, il famoso oratore romano, debba i
 <figure>
 	<img src="/images/peas.png" alt="Piselli" style="width:150px;height:150px;" align="right">
 </figure>  
-...  
+Il pisello ([Pisum sativum](http://www.agraria.org/coltivazionierbacee/pisello.htm)) 
 ...  
 ...  
 ...  
