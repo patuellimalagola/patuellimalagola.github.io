@@ -68,9 +68,9 @@ Curiosità: i piselli erano [in gran voga alla corte del Re Sole](https://www.la
 <img src="/images/alfalfa.png" alt="Erba medica" style="width:150px;height:150px;" align="right">   
 L'erba medica ([Medicago sativa](http://www.agraria.org/coltivazionierbacee/erbamedica.htm)) o alfalfa è una delle più comuni piante da foraggio. L'Emilia-Romagna è un territorio particolarmente vocato per questa coltivazione. 
 
-Coltiviamo la varietà Gea. Il seme viene conferito a [Continental Semences](http://www.continentalsemences.com/)
+Coltiviamo la varietà Gea. Il seme viene conferito a [Continental Semences](http://www.continentalsemences.com/).
 
-Curiosità: l'erba medica non è tradizionalmente usata per l'alimentazione umana, ma c'è chi non resiste e [si mangia i suoi germogli] (https://alivebynature.com/the-right-way-to-eat-alfalfa-sprouts/).
+Curiosità: l'erba medica non è tradizionalmente usata per l'alimentazione umana, ma c'è chi non resiste e [si mangia i suoi germogli](https://alivebynature.com/the-right-way-to-eat-alfalfa-sprouts/).
   
 ---   
 
@@ -79,7 +79,7 @@ Curiosità: l'erba medica non è tradizionalmente usata per l'alimentazione uman
 Il trebbiano è un vitigno da vino a bacca bianca molto diffuso. È componente di moltissimi vini DOC italiani, e da solo forma diversi vini DOC tra cui il [Trebbiano di Romagna DOC](http://www.consorziovinidiromagna.it/vini/trebbiano/).
 
 La nostra uva viene conferita ad [Agrintesa](http://www.agrintesa.it/).   
-...   
-...   
 
+Curiosità: il nome 'trebbiano' deriva da 'trebulanum', nome che compare per la prima volta nella [Naturalis Historia di Plinio il Vecchio](https://la.wikisource.org/wiki/Naturalis_Historia/Liber_XIV), che sembra riferirsi all'insediamento Trebula Balliensis, l'attuale Treglia, in provincia di Caserta.  
+   
 ---    
