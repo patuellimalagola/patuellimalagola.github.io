@@ -5,7 +5,7 @@ title: I nostri prodotti
 description: ""
 tags: []
 image:
-  feature: lettere.jpg
+  feature: sorgo.jpg
 lang: it
 ref: products
 ---
