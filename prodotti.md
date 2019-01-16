@@ -59,7 +59,9 @@ Il cece (Cicer arietinum) è un legume. I nostri ceci vengono conferiti a [Conse
 ---
 
 ### Piselli    
-...   
+<figure>
+	<img src="/images/peas.png" style="width:150px;height:150px;" align="right">
+</figure>  
 
 
 ---   
