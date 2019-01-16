@@ -67,18 +67,13 @@ Il cece (Cicer arietinum) è un legume. I nostri ceci vengono conferiti a [Conse
 ### Erba medica    
 <img src="/images/alfalfa.png" alt="Erba medica" style="width:150px;height:150px;" align="right">   
 L'erba medica è .......
-...   
-page  
-break
-... 
-page\
-break
+...  
 ...
 ...   
 
-
-
-
+  
+  
+  
 ---   
 
 ### Uva trebbiano
@@ -87,8 +82,5 @@ Il trebbiano
 La nostra uva viene conferita ad [Agrintesa](http://www.agrintesa.it/).   
 ...   
 ...   
-
-    
-    
 
 ---    
