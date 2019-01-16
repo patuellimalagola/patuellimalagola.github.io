@@ -5,7 +5,7 @@ title: Progetti futuri
 description: ""
 tags: []
 image:
-  feature: sorgo.jpg
+  feature: sky.jpg
 lang: it
 ref: projects
 ---
