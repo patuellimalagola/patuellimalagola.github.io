@@ -31,8 +31,8 @@ Ok
 </figure>
 
 
-50x50 resize w style:
-<img src="/images/chickpeas.png" alt="Ceci" style="width:50px;height:50px;">
+50x50 resize w style and align left:
+<img src="/images/chickpeas.png" alt="Ceci" style="width:50px;height:50px;" align="left">
 
 
 ## Piselli
