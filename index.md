@@ -14,7 +14,6 @@ Siamo un azienda agricola basata a Ravenna, in Emilia-Romagna.
 
 Conduciamo terreni agricoli di proprietà a San Michele e a Santerno, per un totale di 64 ettari.
 
-Produciamo grano tenero, ceci, piselli, erba medica, uva Trebbiano.
-
+In questo sito potete trovare informazioni sui nostri [prodotti agricoli](/prodotti) e sui [progetti futuri](/progetti) dell'azienda.
 
 Questo sito è in via di costruzione, nell'attesa che vengano aggiunti altri contenuti non esitate a [contattarci](/contatti).
