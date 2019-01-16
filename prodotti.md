@@ -53,6 +53,7 @@ Il cece (Cicer arietinum) è un legume. I nostri ceci vengono conferiti a [Conse
 
 
 test    
+---   
     
 ### Erba medica    
 <img src="/images/alfalfa.png" alt="Erba medica" style="width:150px;height:150px;" align="right">   
@@ -60,10 +61,10 @@ L'erba medica è .......
 ...   
 ...   
 
-
+---   
 
 ### Uva trebbiano
+<img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:150px;height:150px;" align="right">  
 
 
-
-
+---    
