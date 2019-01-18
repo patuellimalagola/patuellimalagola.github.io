@@ -8,7 +8,7 @@ lang: it
 ref: home
 ---
 
-Benvenuti sul sito della Società Agricola Patuelli Malagola di Giuliani Sandra S.s.     
+Benvenuti sul sito della Società Agricola Patuelli Malagola.     
 
 Siamo un azienda agricola basata a Ravenna, in Emilia-Romagna. 
 
