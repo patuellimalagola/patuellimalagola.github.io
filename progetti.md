@@ -34,6 +34,6 @@ Vorremmo..
 
 ### Divulgazione   
 
-.. lanciare un blog, ospitato su questo sito, per fare divulgazione su temi del mondo agricolo di interesse per sia i consumatori che chi si sta approcciando al mestiere.
+.. lanciare un blog, ospitato su questo sito, per fare divulgazione su temi del mondo agricolo di interesse per sia i consumatori che per chi si sta approcciando al mestiere.
 
 ---
