@@ -23,14 +23,12 @@ ref: products
 </figure>  
 ---> 
 
-Il nostro piano colturale cambia ogni anno, a seconda delle esigenze del terreno e della richiesta del mercato. I nostri prodotti al momento vengono tutti conferiti a cooperative, ma abbiamo in progetto di sviluppare la vendita diretta al pubblico sia di prodotti grezzi che trasformati.   
+Il nostro piano colturale cambia ogni anno, a seconda delle esigenze del terreno e della richiesta del mercato. I nostri prodotti vengono tutti conferiti a cooperative, ma abbiamo in progetto di sviluppare la vendita diretta al pubblico sia di prodotti grezzi che trasformati.   
 
 Al momento, produciamo: 
 
 ### Grano tenero    
-<figure>
-	<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;" align="right">
-</figure>
+<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;" align="right">
 
 Il grano tenero ([Triticum aestivum](http://www.agraria.org/coltivazionierbacee/granotenero.htm)) è il cereale comunemente utilizzato per ottenere la farina per il pane. I chicchi di grano possono anche essere usati interi per preparare minestre, insalate oppure la buonissima pastiera napoletana.  
 
@@ -55,7 +53,7 @@ Curiosità: si dice che Marco Tullio Cicerone, il famoso oratore romano, debba i
 <figure>
 	<img src="/images/peas.png" alt="Piselli" style="width:150px;height:150px;" align="right">
 </figure>  
-Il pisello ([Pisum sativum](http://www.agraria.org/coltivazionierbacee/pisello.htm)) è un legume usato sia per l'alimentazione umana che per il bestiame. Sia le varietà che le tecniche colturali sono diverse a seconda che sia per uso umano o mangime. Per quanto riguarda la nostra alimentazione, i piselli si sposano benissimo con la pasta, ma si prestano anche a tante altre diverse ricette tra cui è d'obbligo menzionare le seppie con i piselli.  
+Il pisello ([Pisum sativum](http://www.agraria.org/coltivazionierbacee/pisello.htm)) è un legume usato sia per l'alimentazione umana che per il bestiame. Le varietà e le tecniche colturali variano a seconda dell'uso. Per quanto riguarda la nostra alimentazione, i piselli si sposano benissimo con la pasta, ma si prestano anche a tante altre diverse ricette tra cui è d'obbligo menzionare le seppie con i piselli.  
   
 La varietà che coltiviamo è Wolf. Come per i ceci, conferiamo questo prodotto a [Conserve Italia](https://www.conserveitalia.it/).  
 
