@@ -41,7 +41,7 @@ Curiosità: il grano è un mostro genetico! Puoi scoprirne di più leggendo [que
 ### Ceci    
 <img src="/images/chickpeas.png" alt="Ceci" style="width:150px;height:150px;" align="right">    
 
-Il cece ([Cicer arietinum](http://www.agraria.org/coltivazionierbacee/cece.htm)) è il terzo legume più coltivato nel mondo. Il cece è un ottimo alimento ed è molto versatile in cucina. Con i ceci possiamo preparare zuppe, minestre, farinate ma anche hummus e falafel.  
+Il cece ([Cicer arietinum](http://www.agraria.org/coltivazionierbacee/cece.htm)) è il terzo legume più coltivato nel mondo. Il cece è un ottimo alimento ed è molto versatile in cucina. Con i ceci possiamo preparare zuppe, minestre, farinate ma anche hummus, falafel e [chana masala](https://www.theguardian.com/lifeandstyle/2015/sep/24/how-to-make-the-perfect-chana-masala).  
 
 I nostri ceci, di varietà Pascià, vengono conferiti a [Conserve Italia](https://www.conserveitalia.it/) che li lavora in giornata. Se comprate ceci in vasetto o barattolo della Valfrutta o di altre comuni marche potreste trovarci dentro proprio i nostri ceci.      
 
@@ -57,7 +57,7 @@ Il pisello ([Pisum sativum](http://www.agraria.org/coltivazionierbacee/pisello.h
   
 La varietà che coltiviamo è Wolf. Come per i ceci, conferiamo questo prodotto a [Conserve Italia](https://www.conserveitalia.it/).  
 
-Curiosità: i piselli erano [in gran voga alla corte del Re Sole](https://www.laterza.it/index.php?option=com_laterza&Itemid=97&task=schedalibro&isbn=9788842091011), al punto che le dame se ne facevano preparare in più da portarsi a casa dopo cena, rischiando l'indigestione.  
+Curiosità: i piselli erano [in gran voga alla corte del Re Sole](https://www.laterza.it/index.php?option=com_laterza&Itemid=97&task=schedalibro&isbn=9788842091011), al punto che le dame se ne facevano preparare una porzione in più da mangiare anche dopo sontuose cene, rischiando l'indigestione.  
 
 ---   
     
