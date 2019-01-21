@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Our farm"
-tags: []
+description: Welcome to the website of Società Agricola Patuelli Malagola.
+tags: [farm, agriculture, farming, Ravenna, crops, produce, Emilia-Romagna, San Michele, Santerno, Manzone, hectares, fields]
 image:
   feature: vigna4.jpg
 lang: en
