@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "La nostra azienda"
-tags: []
+description: Benvenuti sul sito della Società Agricola Patuelli Malagola.
+tags: [azienda, agricola, Ravenna, coltivazioni, Emilia-Romagna, San Michele, Santerno, Manzone, ettari, campi]
 image:
   feature: vigna4.jpg
 lang: it
