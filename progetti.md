@@ -2,7 +2,7 @@
 layout: page
 permalink: /progetti
 title: Progetti futuri
-description: I nostri progetti per il futuro dell'azienda agricola.
+description:
 tags: [territorio, vendita, prodotti, ospitalità, mobilitaà, sostenibile, sostenibilità, bicicletta, divulgazione, blog, azienda, agricola, Ravenna, Emilia-Romagna]
 image:
   feature: sky.jpg
