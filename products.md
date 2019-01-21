@@ -2,7 +2,7 @@
 layout: page
 permalink: /products
 title: Our products
-description: Our produce.
+description:
 tags: [products, produce, farming, wheat, chickpeas, peas, alfalfa, grapes, vineyard, Ravenna, Emilia-Romagna]
 image:
   feature: sorgo.jpg
