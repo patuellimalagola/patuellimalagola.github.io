@@ -2,7 +2,7 @@
 layout: page
 permalink: /goals
 title: Our aspirations
-description: Our ideas for the future of our business.
+description:
 tags: [aspirations, ideas, future, landscape, products, produce, sales, shop, hospitality, mobility, sustainability, bicycle, blog, Ravenna, Emilia-Romagna]
 image:
   feature: sky.jpg
