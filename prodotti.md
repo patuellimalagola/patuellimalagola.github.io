@@ -2,8 +2,8 @@
 layout: page
 permalink: /prodotti
 title: I nostri prodotti
-description: ""
-tags: []
+description: I nostri prodotti agricoli.
+tags: [prodotti, produzioni, coltivazioni, grano, ceci, piselli, erba medica, uva, trebbiano, azienda, agricola, Ravenna, Emilia-Romagna]
 image:
   feature: sorgo.jpg
 lang: it
