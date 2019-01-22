@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contatti
-title: Contattaci
+title: Società Agricola Patuelli Malagola | Contattaci
 header: Contattaci
 description: Scopri come metterti in contatto con noi.
 tags: [contatti, email, contatto, azienda, agricola, Ravenna, Emilia-Romagna]
