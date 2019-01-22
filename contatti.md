@@ -2,10 +2,10 @@
 layout: page
 permalink: /contatti
 title: Contattaci
-description: Modi per mettersi in contatto con noi.
+header: Contattaci
+description: Scopri come metterti in contatto con noi.
 tags: [contatti, email, contatto, azienda, agricola, Ravenna, Emilia-Romagna]
 description: ""
-tags: []
 image:
   feature: lettere.jpg
 lang: it
