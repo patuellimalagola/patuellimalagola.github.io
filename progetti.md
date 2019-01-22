@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /progetti
-title: Progetti futuri
+title: Società Agricola Patuelli Malagola | Progetti futuri
 header: Progetti futuri
 description: Scopri quali progetti abbiamo per il futuro dell'azienda.
 tags: [territorio, vendita, prodotti, ospitalità, mobilitaà, sostenibile, sostenibilità, bicicletta, divulgazione, blog, azienda, agricola, Ravenna, Emilia-Romagna]
