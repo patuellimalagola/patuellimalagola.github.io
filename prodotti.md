@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /prodotti
-title: I nostri prodotti
-header: I nostri prodotti agricoli
+title: Società Agricola Patuelli Malagola | I nostri prodotti
+header: I nostri prodotti
 description: Scopri quali prodotti agricoli produciamo, le varietà e curiosità.
 tags: [prodotti, produzioni, coltivazioni, grano, ceci, piselli, erba medica, uva, trebbiano, azienda, agricola, Ravenna, Emilia-Romagna]
 image:
