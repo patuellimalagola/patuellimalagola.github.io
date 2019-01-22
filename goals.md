@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /goals
-title: Società Agricola Patuelli Malagola | Our aspirations
-header: Our aspirations
+title: Società Agricola Patuelli Malagola | Future plans
+header: Future plans
 description: Discover what we have planned for the future of our farm.
 tags: [aspirations, ideas, future, landscape, products, produce, sales, shop, hospitality, mobility, sustainability, bicycle, blog, Ravenna, Emilia-Romagna]
 image:
