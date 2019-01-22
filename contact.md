@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contact
-title: Contact us
+title: Società Agricola Patuelli Malagola | Contact us
 header: Contact us
 description: Find out how to get in touch with us
 tags: [contact, contacts, email, business, farm, Ravenna, Emilia-Romagna]
