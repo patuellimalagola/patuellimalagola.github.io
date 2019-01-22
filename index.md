@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "La nostra azienda"
-description: 
+header: La nostra azienda
+description: Benvenuti sul sito della nostra azienda agricola.
 tags: [azienda, agricola, Ravenna, coltivazioni, Emilia-Romagna, San Michele, Santerno, Manzone, ettari, campi]
 image:
   feature: vigna4.jpg
