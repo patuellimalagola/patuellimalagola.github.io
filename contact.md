@@ -2,6 +2,7 @@
 layout: page
 permalink: /contact
 title: Contact us
+header: Contact us
 description:
 tags: [contact, contacts, email, business, farm, Ravenna, Emilia-Romagna]
 image:
