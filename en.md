@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Our farm"
-description:
+header: Our farm
+description: Welcome to our website.
 tags: [farm, agriculture, farming, Ravenna, crops, produce, Emilia-Romagna, San Michele, Santerno, Manzone, hectares, fields]
 image:
   feature: vigna4.jpg
