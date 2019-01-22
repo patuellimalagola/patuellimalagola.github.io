@@ -3,7 +3,7 @@ layout: page
 permalink: /contact
 title: Contact us
 header: Contact us
-description:
+description: Find out how to get in touch with us
 tags: [contact, contacts, email, business, farm, Ravenna, Emilia-Romagna]
 image:
   feature: lettere.jpg
