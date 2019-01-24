@@ -649,50 +649,33 @@ $.fn.magnificPopup = function(options) {
 			if(mfp.isOpen)
 				mfp[options].apply(mfp, Array.prototype.slice.call(arguments, 1));
 		}
-
 	} else {
-
-		/*
-		 * As Zepto doesn't support .data() method for objects 
-		 * and it works only in normal browsers
-		 * we assign "options" object directly to the DOM element. FTW!
-		 */
+		/*As Zepto doesn't support .data() method for objects and it works only in normal browserswe assign "options" object directly to the DOM element. FTW! */
 		if(_isJQ) {
 			jqEl.data('magnificPopup', options);
 		} else {
 			jqEl[0].magnificPopup = options;
 		}
-
 		mfp.addGroup(jqEl, options);
-
 	}
 	return jqEl;
 };
-
 
 //Quick benchmark
 /*
 var start = performance.now(),
 	i,
 	rounds = 1000;
-
 for(i = 0; i < rounds; i++) {
-
 }
 console.log('Test #1:', performance.now() - start);
-
 start = performance.now();
 for(i = 0; i < rounds; i++) {
-
 }
 console.log('Test #2:', performance.now() - start);
 */
-
-
 /*>>core*/
-
 /*>>inline*/
-
 var INLINE_NS = 'inline',
 	_hiddenClass,
 	_inlinePlaceholder, 
@@ -703,7 +686,6 @@ var INLINE_NS = 'inline',
 			_lastInlineElement = null;
 		}
 	};
-
 $.magnificPopup.registerModule(INLINE_NS, {
 	options: {
 		hiddenClass: 'hide', // will be appended with `mfp-` prefix
@@ -711,25 +693,18 @@ $.magnificPopup.registerModule(INLINE_NS, {
 		tNotFound: 'Content not found'
 	},
 	proto: {
-
 		initInline: function() {
 			mfp.types.push(INLINE_NS);
-
 			_mfpOn(CLOSE_EVENT+'.'+INLINE_NS, function() {
 				_putInlineElementsBack();
 			});
 		},
-
 		getInline: function(item, template) {
-
 			_putInlineElementsBack();
-
 			if(item.src) {
 				var inlineSt = mfp.st.inline,
 					el = $(item.src);
-
 				if(el.length) {
-
 					// If target element has parent - we replace it with placeholder and put it back after popup is closed
 					var parent = el[0].parentNode;
 					if(parent && parent.tagName) {
@@ -741,26 +716,21 @@ $.magnificPopup.registerModule(INLINE_NS, {
 						// replace target inline element with placeholder
 						_lastInlineElement = el.after(_inlinePlaceholder).detach().removeClass(_hiddenClass);
 					}
-
 					mfp.updateStatus('ready');
 				} else {
 					mfp.updateStatus('error', inlineSt.tNotFound);
 					el = $('<div>');
 				}
-
 				item.inlineElement = el;
 				return el;
 			}
-
 			mfp.updateStatus('ready');
 			mfp._parseMarkup(template, {}, item);
 			return template;
 		}
 	}
 });
-
 /*>>inline*/
-
 /*>>ajax*/
 var AJAX_NS = 'ajax',
 	_ajaxCur,
@@ -769,20 +739,16 @@ var AJAX_NS = 'ajax',
 			_body.removeClass(_ajaxCur);
 		}
 	};
-
 $.magnificPopup.registerModule(AJAX_NS, {
-
 	options: {
 		settings: null,
 		cursor: 'mfp-ajax-cur',
 		tError: '<a href="%url%">The content</a> could not be loaded.'
 	},
-
 	proto: {
 		initAjax: function() {
 			mfp.types.push(AJAX_NS);
 			_ajaxCur = mfp.st.ajax.cursor;
-
 			_mfpOn(CLOSE_EVENT+'.'+AJAX_NS, function() {
 				_removeAjaxCursor();
 				if(mfp.req) {
@@ -790,14 +756,10 @@ $.magnificPopup.registerModule(AJAX_NS, {
 				}
 			});
 		},
-
 		getAjax: function(item) {
-
 			if(_ajaxCur)
 				_body.addClass(_ajaxCur);
-
 			mfp.updateStatus('loading');
-
 			var opts = $.extend({
 				url: item.src,
 				success: function(data, textStatus, jqXHR) {
@@ -805,23 +767,15 @@ $.magnificPopup.registerModule(AJAX_NS, {
 						data:data,
 						xhr:jqXHR
 					};
-
 					_mfpTrigger('ParseAjax', temp);
-
 					mfp.appendContent( $(temp.data), AJAX_NS );
-
 					item.finished = true;
-
 					_removeAjaxCursor();
-
 					_setFocus();
-
 					setTimeout(function() {
 						mfp.wrap.addClass(READY_CLASS);
 					}, 16);
-
 					mfp.updateStatus('ready');
-
 					_mfpTrigger('AjaxContentAdded');
 				},
 				error: function() {
@@ -830,30 +784,18 @@ $.magnificPopup.registerModule(AJAX_NS, {
 					mfp.updateStatus('error', mfp.st.ajax.tError.replace('%url%', item.src));
 				}
 			}, mfp.st.ajax.settings);
-
 			mfp.req = $.ajax(opts);
-
 			return '';
 		}
 	}
 });
-
-
-
-
-
-	
-
 /*>>ajax*/
-
 /*>>image*/
 var _imgInterval,
 	_getTitle = function(item) {
 		if(item.data && item.data.title !== undefined) 
 			return item.data.title;
-
 		var src = mfp.st.image.titleSrc;
-
 		if(src) {
 			if($.isFunction(src)) {
 				return src.call(mfp, item);
@@ -863,9 +805,7 @@ var _imgInterval,
 		}
 		return '';
 	};
-
 $.magnificPopup.registerModule('image', {
-
 	options: {
 		markup: '<div class="mfp-figure">'+
 					'<div class="mfp-close"></div>'+
@@ -880,27 +820,22 @@ $.magnificPopup.registerModule('image', {
 		verticalFit: true,
 		tError: '<a href="%url%">The image</a> could not be loaded.'
 	},
-
 	proto: {
 		initImage: function() {
 			var imgSt = mfp.st.image,
 				ns = '.image';
-
 			mfp.types.push('image');
-
 			_mfpOn(OPEN_EVENT+ns, function() {
 				if(mfp.currItem.type === 'image' && imgSt.cursor) {
 					_body.addClass(imgSt.cursor);
 				}
 			});
-
 			_mfpOn(CLOSE_EVENT+ns, function() {
 				if(imgSt.cursor) {
 					_body.removeClass(imgSt.cursor);
 				}
 				_window.off('resize' + EVENT_NS);
 			});
-
 			_mfpOn('Resize'+ns, mfp.resizeImage);
 			if(mfp.isLowIE) {
 				_mfpOn('AfterChange', mfp.resizeImage);
@@ -909,7 +844,6 @@ $.magnificPopup.registerModule('image', {
 		resizeImage: function() {
 			var item = mfp.currItem;
 			if(!item.img) return;
-
 			if(mfp.st.image.verticalFit) {
 				var decr = 0;
 				// fix box-sizing in ie7/8
@@ -921,36 +855,24 @@ $.magnificPopup.registerModule('image', {
 		},
 		_onImageHasSize: function(item) {
 			if(item.img) {
-				
 				item.hasSize = true;
-
 				if(_imgInterval) {
 					clearInterval(_imgInterval);
 				}
-				
 				item.isCheckingImgSize = false;
-
 				_mfpTrigger('ImageHasSize', item);
-
 				if(item.imgHidden) {
 					if(mfp.content)
 						mfp.content.removeClass('mfp-loading');
-					
 					item.imgHidden = false;
 				}
-
 			}
 		},
-
-		/**
-		 * Function that loops until the image has size to display elements that rely on it asap
-		 */
+		/**Function that loops until the image has size to display elements that rely on it asap */
 		findImageSize: function(item) {
-
 			var counter = 0,
 				img = item.img[0],
 				mfpSetInterval = function(delay) {
-
 					if(_imgInterval) {
 						clearInterval(_imgInterval);
 					}
@@ -960,11 +882,9 @@ $.magnificPopup.registerModule('image', {
 							mfp._onImageHasSize(item);
 							return;
 						}
-
 						if(counter > 200) {
 							clearInterval(_imgInterval);
 						}
-
 						counter++;
 						if(counter === 3) {
 							mfpSetInterval(10);
@@ -975,29 +895,21 @@ $.magnificPopup.registerModule('image', {
 						}
 					}, delay);
 				};
-
 			mfpSetInterval(1);
 		},
-
 		getImage: function(item, template) {
-
 			var guard = 0,
-
 				// image load complete handler
 				onLoadComplete = function() {
 					if(item) {
 						if (item.img[0].complete) {
 							item.img.off('.mfploader');
-							
 							if(item === mfp.currItem){
 								mfp._onImageHasSize(item);
-
 								mfp.updateStatus('ready');
 							}
-
 							item.hasSize = true;
 							item.loaded = true;
-							
 						}
 						else {
 							// if image complete check fails 200 times (20 sec), we assume that there was an error.
@@ -1010,7 +922,6 @@ $.magnificPopup.registerModule('image', {
 						}
 					}
 				},
-
 				// image error handler
 				onLoadError = function() {
 					if(item) {
@@ -1019,39 +930,31 @@ $.magnificPopup.registerModule('image', {
 							mfp._onImageHasSize(item);
 							mfp.updateStatus('error', imgSt.tError.replace('%url%', item.src) );
 						}
-
 						item.hasSize = true;
 						item.loaded = true;
 						item.loadError = true;
 					}
 				},
 				imgSt = mfp.st.image;
-
-
 			var el = template.find('.mfp-img');
 			if(el.length) {
 				var img = new Image();
 				img.className = 'mfp-img';
 				item.img = $(img).on('load.mfploader', onLoadComplete).on('error.mfploader', onLoadError);
 				img.src = item.src;
-
 				// without clone() "error" event is not firing when IMG is replaced by new IMG
 				// TODO: find a way to avoid such cloning
 				if(el.is('img')) {
 					item.img = item.img.clone();
 				}
 			}
-
 			mfp._parseMarkup(template, {
 				title: _getTitle(item),
 				img_replaceWith: item.img
 			}, item);
-
 			mfp.resizeImage();
-
 			if(item.hasSize) {
 				if(_imgInterval) clearInterval(_imgInterval);
-
 				if(item.loadError) {
 					template.addClass('mfp-loading');
 					mfp.updateStatus('error', imgSt.tError.replace('%url%', item.src) );
@@ -1061,30 +964,21 @@ $.magnificPopup.registerModule('image', {
 				}
 				return template;
 			}
-
 			mfp.updateStatus('loading');
 			item.loading = true;
-
 			if(!item.hasSize) {
 				item.imgHidden = true;
 				template.addClass('mfp-loading');
 				mfp.findImageSize(item);
 			} 
-
 			return template;
 		}
 	}
 });
-
-
-
 /*>>image*/
-
 /*>>iframe*/
-
 var IFRAME_NS = 'iframe',
 	_emptyPage = '//about:blank',
-	
 	_fixIframeBugs = function(isShowing) {
 		if(mfp.currTemplate[IFRAME_NS]) {
 			var el = mfp.currTemplate[IFRAME_NS].find('iframe');
@@ -1093,7 +987,6 @@ var IFRAME_NS = 'iframe',
 				if(!isShowing) {
 					el[0].src = _emptyPage;
 				}
-
 				// IE8 black screen bug fix
 				if(mfp.isIE8) {
 					el.css('display', isShowing ? 'block' : 'none');
@@ -1101,17 +994,13 @@ var IFRAME_NS = 'iframe',
 			}
 		}
 	};
-
 $.magnificPopup.registerModule(IFRAME_NS, {
-
 	options: {
 		markup: '<div class="mfp-iframe-scaler">'+
 					'<div class="mfp-close"></div>'+
 					'<iframe class="mfp-iframe" src="//about:blank" frameborder="0" allowfullscreen></iframe>'+
 				'</div>',
-
 		srcAction: 'iframe_src',
-
 		// we don't care and support only one default type of URL by default
 		patterns: {
 			youtube: {
@@ -1130,11 +1019,9 @@ $.magnificPopup.registerModule(IFRAME_NS, {
 			}
 		}
 	},
-
 	proto: {
 		initIframe: function() {
 			mfp.types.push(IFRAME_NS);
-
 			_mfpOn('BeforeChange', function(e, prevType, newType) {
 				if(prevType !== newType) {
 					if(prevType === IFRAME_NS) {
@@ -1146,16 +1033,13 @@ $.magnificPopup.registerModule(IFRAME_NS, {
 					// iframe source is switched, don't do anything
 				//}
 			});
-
 			_mfpOn(CLOSE_EVENT + '.' + IFRAME_NS, function() {
 				_fixIframeBugs();
 			});
 		},
-
 		getIframe: function(item, template) {
 			var embedSrc = item.src;
-			var iframeSt = mfp.st.iframe;
-				
+			var iframeSt = mfp.st.iframe;			
 			$.each(iframeSt.patterns, function() {
 				if(embedSrc.indexOf( this.index ) > -1) {
 					if(this.id) {
@@ -1168,29 +1052,20 @@ $.magnificPopup.registerModule(IFRAME_NS, {
 					embedSrc = this.src.replace('%id%', embedSrc );
 					return false; // break;
 				}
-			});
-			
+			});	
 			var dataObj = {};
 			if(iframeSt.srcAction) {
 				dataObj[iframeSt.srcAction] = embedSrc;
 			}
 			mfp._parseMarkup(template, dataObj, item);
-
 			mfp.updateStatus('ready');
-
 			return template;
 		}
 	}
 });
-
-
-
 /*>>iframe*/
-
 /*>>gallery*/
-/**
- * Get looped index depending on number of slides
- */
+/**Get looped index depending on number of slides */
 var _getLoopedId = function(index) {
 		var numSlides = mfp.items.length;
 		if(index > numSlides - 1) {
@@ -1203,36 +1078,26 @@ var _getLoopedId = function(index) {
 	_replaceCurrTotal = function(text, curr, total) {
 		return text.replace('%curr%', curr + 1).replace('%total%', total);
 	};
-
 $.magnificPopup.registerModule('gallery', {
-
 	options: {
 		enabled: false,
 		arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"></button>',
 		preload: [0,2],
 		navigateByImgClick: true,
 		arrows: true,
-
 		tPrev: 'Previous (Left arrow key)',
 		tNext: 'Next (Right arrow key)',
 		tCounter: '%curr% of %total%'
 	},
-
 	proto: {
 		initGallery: function() {
-
 			var gSt = mfp.st.gallery,
 				ns = '.mfp-gallery',
 				supportsFastClick = Boolean($.fn.mfpFastClick);
-
 			mfp.direction = true; // true - next, false - prev
-			
 			if(!gSt || !gSt.enabled ) return false;
-
 			_wrapClasses += ' mfp-gallery';
-
 			_mfpOn(OPEN_EVENT+ns, function() {
-
 				if(gSt.navigateByImgClick) {
 					mfp.wrap.on('click'+ns, '.mfp-img', function() {
 						if(mfp.items.length > 1) {
@@ -1241,7 +1106,6 @@ $.magnificPopup.registerModule('gallery', {
 						}
 					});
 				}
-
 				_document.on('keydown'+ns, function(e) {
 					if (e.keyCode === 37) {
 						mfp.prev();
@@ -1250,24 +1114,20 @@ $.magnificPopup.registerModule('gallery', {
 					}
 				});
 			});
-
 			_mfpOn('UpdateStatus'+ns, function(e, data) {
 				if(data.text) {
 					data.text = _replaceCurrTotal(data.text, mfp.currItem.index, mfp.items.length);
 				}
 			});
-
 			_mfpOn(MARKUP_PARSE_EVENT+ns, function(e, element, values, item) {
 				var l = mfp.items.length;
 				values.counter = l > 1 ? _replaceCurrTotal(gSt.tCounter, item.index, l) : '';
 			});
-
 			_mfpOn('BuildControls' + ns, function() {
 				if(mfp.items.length > 1 && gSt.arrows && !mfp.arrowLeft) {
 					var markup = gSt.arrowMarkup,
 						arrowLeft = mfp.arrowLeft = $( markup.replace('%title%', gSt.tPrev).replace('%dir%', 'left') ).addClass(PREVENT_CLOSE_CLASS),			
 						arrowRight = mfp.arrowRight = $( markup.replace('%title%', gSt.tNext).replace('%dir%', 'right') ).addClass(PREVENT_CLOSE_CLASS);
-
 					var eName = supportsFastClick ? 'mfpFastClick' : 'click';
 					arrowLeft[eName](function() {
 						mfp.prev();
@@ -1275,7 +1135,6 @@ $.magnificPopup.registerModule('gallery', {
 					arrowRight[eName](function() {
 						mfp.next();
 					});	
-
 					// Polyfill for :before and :after (adds elements with classes mfp-a and mfp-b)
 					if(mfp.isIE7) {
 						_getEl('b', arrowLeft[0], false, true);
@@ -1283,11 +1142,9 @@ $.magnificPopup.registerModule('gallery', {
 						_getEl('b', arrowRight[0], false, true);
 						_getEl('a', arrowRight[0], false, true);
 					}
-
 					mfp.container.append(arrowLeft.add(arrowRight));
 				}
 			});
-
 			_mfpOn(CHANGE_EVENT+ns, function() {
 				if(mfp._preloadTimeout) clearTimeout(mfp._preloadTimeout);
 
@@ -1296,18 +1153,14 @@ $.magnificPopup.registerModule('gallery', {
 					mfp._preloadTimeout = null;
 				}, 16);		
 			});
-
-
 			_mfpOn(CLOSE_EVENT+ns, function() {
 				_document.off(ns);
 				mfp.wrap.off('click'+ns);
-			
 				if(mfp.arrowLeft && supportsFastClick) {
 					mfp.arrowLeft.add(mfp.arrowRight).destroyMfpFastClick();
 				}
 				mfp.arrowRight = mfp.arrowLeft = null;
 			});
-
 		}, 
 		next: function() {
 			mfp.direction = true;
@@ -1329,7 +1182,6 @@ $.magnificPopup.registerModule('gallery', {
 				preloadBefore = Math.min(p[0], mfp.items.length),
 				preloadAfter = Math.min(p[1], mfp.items.length),
 				i;
-
 			for(i = 1; i <= (mfp.direction ? preloadAfter : preloadBefore); i++) {
 				mfp._preloadItem(mfp.index+i);
 			}
@@ -1339,18 +1191,14 @@ $.magnificPopup.registerModule('gallery', {
 		},
 		_preloadItem: function(index) {
 			index = _getLoopedId(index);
-
 			if(mfp.items[index].preloaded) {
 				return;
 			}
-
 			var item = mfp.items[index];
 			if(!item.parsed) {
 				item = mfp.parseEl( index );
 			}
-
 			_mfpTrigger('LazyLoad', item);
-
 			if(item.type === 'image') {
 				item.img = $('<img class="mfp-img" />').on('load.mfploader', function() {
 					item.hasSize = true;
@@ -1359,71 +1207,13 @@ $.magnificPopup.registerModule('gallery', {
 					item.loadError = true;
 				}).attr('src', item.src);
 			}
-
-
 			item.preloaded = true;
 		}
 	}
 });
-
-/*
-Touch Support that might be implemented some day
-
-addSwipeGesture: function() {
-	var startX,
-		moved,
-		multipleTouches;
-
-		return;
-
-	var namespace = '.mfp',
-		addEventNames = function(pref, down, move, up, cancel) {
-			mfp._tStart = pref + down + namespace;
-			mfp._tMove = pref + move + namespace;
-			mfp._tEnd = pref + up + namespace;
-			mfp._tCancel = pref + cancel + namespace;
-		};
-
-	if(window.navigator.msPointerEnabled) {
-		addEventNames('MSPointer', 'Down', 'Move', 'Up', 'Cancel');
-	} else if('ontouchstart' in window) {
-		addEventNames('touch', 'start', 'move', 'end', 'cancel');
-	} else {
-		return;
-	}
-	_window.on(mfp._tStart, function(e) {
-		var oE = e.originalEvent;
-		multipleTouches = moved = false;
-		startX = oE.pageX || oE.changedTouches[0].pageX;
-	}).on(mfp._tMove, function(e) {
-		if(e.originalEvent.touches.length > 1) {
-			multipleTouches = e.originalEvent.touches.length;
-		} else {
-			//e.preventDefault();
-			moved = true;
-		}
-	}).on(mfp._tEnd + ' ' + mfp._tCancel, function(e) {
-		if(moved && !multipleTouches) {
-			var oE = e.originalEvent,
-				diff = startX - (oE.pageX || oE.changedTouches[0].pageX);
-
-			if(diff > 20) {
-				mfp.next();
-			} else if(diff < -20) {
-				mfp.prev();
-			}
-		}
-	});
-},
-*/
-
-
 /*>>gallery*/
-
 /*>>retina*/
-
 var RETINA_NS = 'retina';
-
 $.magnificPopup.registerModule(RETINA_NS, {
 	options: {
 		replaceSrc: function(item) {
@@ -1434,12 +1224,9 @@ $.magnificPopup.registerModule(RETINA_NS, {
 	proto: {
 		initRetina: function() {
 			if(window.devicePixelRatio > 1) {
-
 				var st = mfp.st.retina,
 					ratio = st.ratio;
-
 				ratio = !isNaN(ratio) ? ratio : ratio();
-
 				if(ratio > 1) {
 					_mfpOn('ImageHasSize' + '.' + RETINA_NS, function(e, item) {
 						item.img.css({
@@ -1456,16 +1243,11 @@ $.magnificPopup.registerModule(RETINA_NS, {
 		}
 	}
 });
-
 /*>>retina*/
-
 /*>>fastclick*/
-/**
- * FastClick event implementation. (removes 300ms delay on touch devices)
+ /* FastClick event implementation. (removes 300ms delay on touch devices)
  * Based on https://developers.google.com/mobile/articles/fast_buttons
- *
  * You may use it outside the Magnific Popup by calling just:
- *
  * $('.your-el').mfpFastClick(function() {
  *     console.log('Clicked!');
  * });
@@ -1473,12 +1255,9 @@ $.magnificPopup.registerModule(RETINA_NS, {
  * To unbind:
  * $('.your-el').destroyMfpFastClick();
  * 
- * 
  * Note that it's a very basic and simple implementation, it blocks ghost click on the same element where it was bound.
  * If you need something more advanced, use plugin by FT Labs https://github.com/ftlabs/fastclick
- * 
  */
-
 (function() {
 	var ghostClickDelay = 1000,
 		supportsTouch = 'ontouchstart' in window,
@@ -1487,33 +1266,24 @@ $.magnificPopup.registerModule(RETINA_NS, {
 		},
 		eName = 'mfpFastClick',
 		ns = '.'+eName;
-
-
 	// As Zepto.js doesn't have an easy way to add custom events (like jQuery), so we implement it in this way
 	$.fn.mfpFastClick = function(callback) {
-
 		return $(this).each(function() {
-
 			var elem = $(this),
 				lock;
-
 			if( supportsTouch ) {
-
 				var timeout,
 					startX,
 					startY,
 					pointerMoved,
 					point,
 					numPointers;
-
 				elem.on('touchstart' + ns, function(e) {
 					pointerMoved = false;
 					numPointers = 1;
-
 					point = e.originalEvent ? e.originalEvent.touches[0] : e.touches[0];
 					startX = point.clientX;
 					startY = point.clientY;
-
 					_window.on('touchmove'+ns, function(e) {
 						point = e.originalEvent ? e.originalEvent.touches : e.touches;
 						numPointers = point.length;
@@ -1537,9 +1307,7 @@ $.magnificPopup.registerModule(RETINA_NS, {
 						callback();
 					});
 				});
-
 			}
-
 			elem.on('click' + ns, function() {
 				if(!lock) {
 					callback();
@@ -1547,12 +1315,10 @@ $.magnificPopup.registerModule(RETINA_NS, {
 			});
 		});
 	};
-
 	$.fn.destroyMfpFastClick = function() {
 		$(this).off('touchstart' + ns + ' click' + ns);
 		if(supportsTouch) _window.off('touchmove'+ns+' touchend'+ns);
 	};
 })();
-
 /*>>fastclick*/
 })(window.jQuery || window.Zepto);
