@@ -2,7 +2,6 @@
 ;(function($) {
 /*>>core*/
 /** Magnific Popup Core JS file */
-
 /**Private static constant */
 var CLOSE_EVENT = 'Close',
 	AFTER_CLOSE_EVENT = 'AfterClose',
@@ -15,7 +14,6 @@ var CLOSE_EVENT = 'Close',
 	READY_CLASS = 'mfp-ready',
 	REMOVING_CLASS = 'mfp-removing',
 	PREVENT_CLOSE_CLASS = 'mfp-prevent-close';
-
 /** Private vars */
 var mfp, // As we have only one instance of MagnificPopup object, we define it locally to not to use 'this'
 	MagnificPopup = function(){},
@@ -27,7 +25,6 @@ var mfp, // As we have only one instance of MagnificPopup object, we define it l
 	_prevContentType,
 	_wrapClasses,
 	_currPopupType;
-
 /** Private functions */
 var _mfpOn = function(name, f) {
 		mfp.ev.on(NS + name + EVENT_NS, f);
@@ -282,7 +279,6 @@ MagnificPopup.prototype = {
 					return false;
 				}
 			});
-
 		}, 16);
 		mfp.isOpen = true;
 		mfp.updateSize(windowHeight);
@@ -473,7 +469,6 @@ MagnificPopup.prototype = {
 		var midClick = options.midClick !== undefined ? options.midClick : $.magnificPopup.defaults.midClick;
 		if( midClick || e.which !== 2 ) {
 			var disableOn = options.disableOn !== undefined ? options.disableOn : $.magnificPopup.defaults.disableOn;
-
 			if(disableOn) {
 				if($.isFunction(disableOn)) {
 					if( !disableOn.call(mfp) ) {
@@ -485,7 +480,6 @@ MagnificPopup.prototype = {
 					}
 				}
 			}
-			
 			if(e.type) {
 				e.preventDefault();
 
@@ -494,8 +488,6 @@ MagnificPopup.prototype = {
 					e.stopPropagation();
 				}
 			}
-				
-
 			options.el = $(e.mfpEl);
 			if(options.delegate) {
 				options.items = el.find(options.delegate);
@@ -503,47 +495,33 @@ MagnificPopup.prototype = {
 			mfp.open(options);
 		}
 	},
-
-
-	/**
-	 * Updates text on preloader
-	 */
+	/**Updates text on preloader */
 	updateStatus: function(status, text) {
-
 		if(mfp.preloader) {
 			if(_prevStatus !== status) {
 				mfp.container.removeClass('mfp-s-'+_prevStatus);
 			}
-
 			if(!text && status === 'loading') {
 				text = mfp.st.tLoading;
 			}
-
 			var data = {
 				status: status,
 				text: text
 			};
 			// allows to modify status
 			_mfpTrigger('UpdateStatus', data);
-
 			status = data.status;
 			text = data.text;
-
 			mfp.preloader.html(text);
 
 			mfp.preloader.find('a').click(function(e) {
 				e.stopImmediatePropagation();
 			});
-
 			mfp.container.addClass('mfp-s-'+status);
 			_prevStatus = status;
 		}
 	},
-
-
-	/*
-		"Private" helpers that aren't private at all
-	 */
+	/*	"Private" helpers that aren't private at all*/
 	_addClassToMFP: function(cName) {
 		mfp.bgOverlay.addClass(cName);
 		mfp.wrap.addClass(cName);
@@ -561,7 +539,6 @@ MagnificPopup.prototype = {
 			values = $.extend(item.data, values);
 		}
 		_mfpTrigger(MARKUP_PARSE_EVENT, [template, values, item] );
-
 		$.each(values, function(key, value) {
 			if(value === undefined || value === false) {
 				return true;
@@ -569,7 +546,6 @@ MagnificPopup.prototype = {
 			arr = key.split('_');
 			if(arr.length > 1) {
 				var el = template.find(EVENT_NS + '-'+arr[0]);
-
 				if(el.length > 0) {
 					var attr = arr[1];
 					if(attr === 'replaceWith') {
@@ -586,13 +562,11 @@ MagnificPopup.prototype = {
 						el.attr(arr[1], value);
 					}
 				}
-
 			} else {
 				template.find(EVENT_NS + '-'+key).html(value);
 			}
 		});
 	},
-
 	_getScrollbarSize: function() {
 		// thx David
 		if(mfp.scrollbarSize === undefined) {
@@ -605,35 +579,24 @@ MagnificPopup.prototype = {
 		}
 		return mfp.scrollbarSize;
 	}
-
 }; /* MagnificPopup core prototype end */
 
-
-
-
-/**
- * Public static functions
- */
+/** Public static functions */
 $.magnificPopup = {
 	instance: null,
 	proto: MagnificPopup.prototype,
 	modules: [],
-
 	open: function(options, index) {
 		_checkInstance();	
-
 		if(!options) 
 			options = {};
-
 		options.isObj = true;
 		options.index = index || 0;
 		return this.instance.open(options);
 	},
-
 	close: function() {
 		return $.magnificPopup.instance.close();
 	},
-
 	registerModule: function(name, module) {
 		if(module.options) {
 			$.magnificPopup.defaults[name] = module.options;
