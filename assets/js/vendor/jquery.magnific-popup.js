@@ -604,59 +604,32 @@ $.magnificPopup = {
 		$.extend(this.proto, module.proto);			
 		this.modules.push(name);
 	},
-
 	defaults: {   
-
-		// Info about options is in docs:
-		// http://dimsemenov.com/plugins/magnific-popup/documentation.html#options
-		
+		// Info about options is in docs:http://dimsemenov.com/plugins/magnific-popup/documentation.html#options	
 		disableOn: 0,	
-
 		key: null,
-
 		midClick: false,
-
 		mainClass: '',
-
 		preloader: true,
-
 		focus: '', // CSS selector of input to focus after popup is opened
-		
 		closeOnContentClick: false,
-
 		closeOnBgClick: true,
-
 		closeBtnInside: true, 
-
 		alignTop: false,
-	
 		removalDelay: 0,
-		
 		fixedContentPos: 'auto', 
-	
 		fixedBgPos: 'auto',
-
 		overflowY: 'auto',
-
 		closeMarkup: '<button title="%title%" type="button" class="mfp-close">&times;</button>',
-
 		tClose: 'Close (Esc)',
-
 		tLoading: 'Loading...'
-
 	}
 };
-
-
-
 $.fn.magnificPopup = function(options) {
 	_checkInstance();
-
 	var jqEl = $(this);
-
 	// We call some API method of first param is a string
 	if (typeof options === "string" ) {
-
 		if(options === 'open') {
 			var items,
 				itemOpts = _isJQ ? jqEl.data('magnificPopup') : jqEl[0].magnificPopup,
