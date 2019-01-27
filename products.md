@@ -35,7 +35,7 @@ Chipeas ([Cicer arietinum](http://www.agraria.org/coltivazionierbacee/cece.htm))
 
 Our chickpeas, of the 'Pascià' variety, are processed on the day of harvesting and distributed by [Conserve Italia](https://www.conserveitalia.it/). If you have ever bought a can of chickpeas of the Valfrutta brand there's a chance you have already tried our chickpeas.      
 
-Odd fact: some say Marcus Tullius Cicero, the famous Roman orator, owes his second name to [a chickpea-shaped wart on his nose](https://www.etimo.it/?term=cicerone)('cicer' means chickpea in Latin).
+Odd fact: some say Marcus Tullius Cicero, the famous Roman orator, owes his second name to [a chickpea-shaped wart on his nose](https://www.etimo.it/?term=cicerone), as 'cicer' means chickpea in Latin.
 
 ---
 
