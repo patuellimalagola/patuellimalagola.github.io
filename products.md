@@ -11,18 +11,6 @@ lang: en
 ref: products
 ---
 
----
-layout: page
-permalink: /products
-title: Our products
-description: ""
-tags: []
-image:
-  feature: sorgo.jpg
-lang: en
-ref: products
----
-
 Our products are processed and sold via various cooperatives. We are planning to start selling part of our produce directly to the public.
 
 We currently produce:
