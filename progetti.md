@@ -4,7 +4,7 @@ permalink: /progetti
 title: Società Agricola Patuelli Malagola | Progetti futuri
 header: Progetti futuri
 description: Scopri quali progetti abbiamo per il futuro dell'azienda.
-tags: [territorio, vendita, prodotti, ospitalità, mobilitaà, sostenibile, sostenibilità, bicicletta, divulgazione, blog, azienda, agricola, Ravenna, Emilia-Romagna]
+tags: [territorio, vendita, prodotti, ospitalità, mobilità, sostenibile, sostenibilità, bicicletta, divulgazione, blog, azienda, agricola, Ravenna, Emilia-Romagna]
 image:
   feature: sky.jpg
 lang: it
@@ -17,7 +17,7 @@ Vorremmo..
 
 ### Ospitalità rurale    
  
-.. restaurare la casa colonica di proprietà dell'azienda e creare di spazi di accoglienza rurale.  
+.. restaurare la casa colonica di proprietà dell'azienda e creare spazi di accoglienza rurale.  
 
 ---
 
