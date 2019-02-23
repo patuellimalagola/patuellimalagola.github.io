@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Test Post
-Header: Another test
+title: titolo 2015
+header: header 2015
 description: "Just testing."
 categories: articles
 date: 2015-01-01
@@ -9,4 +9,4 @@ image:
         feature: lettere.jpg
 ---
 
-Test post
+Test post 2015
