@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: titolo 2016
 header: header 2016
 description: "Just testing."
