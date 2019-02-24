@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Titolo post del 2013
 description: "description 2013."
 tagline: test tagline
