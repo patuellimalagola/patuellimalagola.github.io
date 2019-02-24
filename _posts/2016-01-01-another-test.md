@@ -5,8 +5,7 @@ header: header 2016
 description: "Just testing."
 categories: articles
 date: 2016-01-01
-image: 
-        feature: lettere.jpg
+lang: it
 ---
 
 Test post 2016
