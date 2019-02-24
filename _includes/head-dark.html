@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en" prefix="og: https://ogp.me/ns#">
 <meta charset="utf-8">
-<title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
+<title>{{ site.title }}</title>
 <meta name="description" content="{{ page.description }}">
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
 
@@ -15,14 +15,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- Type -->
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
-<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="{{ site.url }}/assets/css/entypo.css" media="all">
-
-<!-- In order to use Calendas Plus, you must first purchase it. Then, create a font-face package using FontSquirrel.
-<link rel='stylesheet' href='{{ site.url }}/assets/cal.css' media='all' />
--->
-
 
 
 <!-- For all browsers -->
@@ -31,7 +24,6 @@
 <!-- Fresh Squeezed jQuery -->
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-
 <meta http-equiv="cleartype" content="on">
 
 <!-- Load Modernizr -->
@@ -51,18 +43,44 @@
     <header class="site-header darken">
       <div class="wrap">
         <hgroup>
-          <h1><a href="/">{{ site.title }}</a></h1>
+         <!-- <h1><a href="/"><img border="0" alt="Societa Agricola Patuelli Malagola" src="{{ site.farf-trasp-quad }}" width="80" height="80"></a></h1> --> 
+          <a href="/"><img border="0" alt="Societa Agricola Patuelli Malagola" src="{{ site.farf-trasp-quad }}" width="80" height="80"></a>
         </hgroup>
         <a href="#nav" class="menu"><span class='icons'>☰</span></a>
         <nav role="navigation">
           <ul>
-            <li>
-              <a href="/" title="{{ site.title }}">Home</a>
-            </li>
             
-            {% for link in site.links %}
-                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-            {% endfor %}
+           {% for item in site.links[page.lang] %}
+              <!--{{ item[1].title }} -->
+              <li><a href="{% if item[1].external %}{{ item[1].url }}{% else %}{{ site.url }}{{ item[1].url }}{% endif %}" {% if item[1].external %}target="_blank"{% endif %}>{{ item[1].title }}</a></li>
+           {% endfor %}
+  
+           
+           {% for things in site.fake_loop %} 
+              <li>  <p style="display:inline; font-size: 16px; border-style: solid" id="demo" ></p> </li>
+           {% endfor %}
+           
+           
+           <div id="language" pagelang="{{ page.lang }}" />
+           
+           <script>
+           var thing = document.getElementById("language"), pagelang;
+           pagelang = thing.getAttribute("pagelang");
+           if (pagelang === "it") {
+              reverse = "<a href='/en'>ENGLISH SITE</a>";
+              link = "/en"
+              lang = "EN"
+           } else {
+              reverse = "<a href='/'>SITO ITALIANO</a>";
+              link = "/"
+              lang = "IT"
+           }
+           document.getElementById("demo").innerHTML = reverse;
+           document.getElementById("switchlink").innerHTML = link;
+           document.getElementById("switchlang").innerHTML = lang;
+           </script>
+           
+           
 
           </ul>
         </nav>
