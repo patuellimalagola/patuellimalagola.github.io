@@ -65,45 +65,6 @@ blockquote, blockquote p {
 }
 
 
-/*   Code Formatting    */
-
-code {
-    color: $accent;
-    font-family: "Monaco", "Courier New", "Courier";
-    font-size: .75em;
-    font-weight: bold;
-}
-
-.highlight {
-    background: $black;
-    padding: 12px;
-    border-radius: 4px;
-    margin-bottom: $lh;
-    overflow-x: scroll;
-
-    code {
-        color: $white;
-        font-family: "Monaco", "Courier New", "Courier";
-        font-size: .9em;
-        .lineno {
-            margin-right: $lh/2;
-            color: $grey-light;
-            line-height: 2em;
-        }
-        .nt {
-            color: #c85b5c;
-        }
-        .na {
-            color: #f0e687;
-        }
-        .s {
-            color: #87ceeb;
-        }
-    }
-}
-
-
-
 hr {
     display: block;
     margin: 0 auto;
@@ -185,7 +146,6 @@ header.site-header {
   .wrap {
       max-width: 90vw;
   }
-
 }
 
 #bump .darken {
@@ -216,7 +176,6 @@ header.site-header {
         }
 
 }
-
 
 header.site-header a.menu {
   display: none;
@@ -273,9 +232,7 @@ header.site-header nav {
 }
 
 
-/* Article Stuff */
-
-   
+/* Article Stuff */ 
 .article {
     position: relative;
     margin-bottom: $lh;
@@ -335,6 +292,7 @@ header.site-header nav {
         
         .intro {
             text-align: center;
+	    font-style: italic;
         }
     }
 }
@@ -468,7 +426,6 @@ header.site-header nav {
         padding-top: ($lh * 1/2);
         margin-bottom: ($lh * 1/2);
         line-height: 1.25em
-
     }
     
     figure {
