@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Titolo post del 2013
-description: "tagline 2013."
+description: "description 2013."
+tagline: test tagline
 header: header del 2013
 categories: articles
 date: 2013-08-17
