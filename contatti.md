@@ -18,4 +18,5 @@ Contattateci a questo indirizzo email: info@patuellimalagola.com
 
 Ci trovate anche sui social media:    
 
-<div class="sharethis-inline-follow-buttons"></div>
+<div class="sharethis-inline-follow-buttons"></div>    
+
