@@ -10,6 +10,9 @@ lang: it
 ref: home
 ---
 
+<script src="//platform-api.sharethis.com/js/sharethis.js#property=5c73dd7fb073260011b18676&product=inline-follow-buttons"></script>
+
+
 Benvenuti sul sito della Società Agricola Patuelli Malagola.     
 
 Siamo un azienda agricola basata a Ravenna, in Emilia-Romagna. 
