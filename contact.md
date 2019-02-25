@@ -11,6 +11,8 @@ lang: en
 ref: contact
 ---
 
+<script src="//platform-api.sharethis.com/js/sharethis.js#property=5c73dd7fb073260011b18676&product=inline-follow-buttons"></script>
+
 Contact us via email at: info@patuellimalagola.com
 
 Follow us on social media:   
