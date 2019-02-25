@@ -12,3 +12,7 @@ ref: contact
 ---
 
 Contact us via email at: info@patuellimalagola.com
+
+Follow us on social media:   
+
+<div class="sharethis-inline-follow-buttons"></div>    
