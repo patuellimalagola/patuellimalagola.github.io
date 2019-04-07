@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     classifier (1.3.3)
       fast-stemmer (>= 1.0.0)
@@ -44,3 +44,6 @@ DEPENDENCIES
   jekyll
   jekyll-minibundle
   rake
+
+BUNDLED WITH
+   1.10.6
