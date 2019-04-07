@@ -65,6 +65,7 @@ Le seguenti colture torneranno (o potrebbero tornare) in produzione nei prossimi
 
 ### Uva trebbiano romagnolo    
 <img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:120px;height:120px;margin:0px 10px 0px 0px" align="right">  
+
 Il Trebbiano è un vitigno da vino a bacca bianca molto diffuso. A Ravenna il Trebbiano romagnolo può essere vinificato come ["Ravenna" Indicazione Geografica Tipica](https://agricoltura.regione.emilia-romagna.it/produzioni-agroalimentari/doc/disciplinari/produzione-vini-dop-e-igp/igt-ravenna/view).   
 
 Il nostro vigneto di Trebbiano Romagnolo è stato estirpato nel 2018 e verrà reimpiantato nel 2020 su circa 3 ettari. La nostra uva è sempre stata conferita ad [Agrintesa](http://www.agrintesa.it/). Quando il nuovo impianto sarà in produzione, siamo interessati a collaborare con una cantina locale per vinificare parte della nostra uva come Trebbiano di Ravenna IGT.   
