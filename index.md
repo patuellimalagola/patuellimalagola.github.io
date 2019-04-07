@@ -21,6 +21,6 @@ Conduciamo terreni agricoli di proprietà a San Michele e a Santerno, per un tot
 
 In questo sito potete trovare informazioni sui nostri [prodotti agricoli](/prodotti) e sui [progetti futuri](/progetti) dell'azienda.
 
-Questo sito è in via di costruzione, nell'attesa che vengano aggiunti altri contenuti non esitate a [contattarci](/contatti).   
+Non esitate a [contattarci](/contatti) per chiedere ulteriori informazioni.   
 
 If you don't speak any Italian, you may visit the [English version](/en) of this website.   
