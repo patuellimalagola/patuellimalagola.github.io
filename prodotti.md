@@ -16,7 +16,7 @@ Il nostro piano colturale cambia ogni anno, a seconda delle esigenze del terreno
 Nella campagna 2018-2019, abbiamo in produzione: 
 
 ### Grano tenero    
-<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;margin:0px 0px 0px 0px" align="right">
+<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;margin:0px 50px 0px 0px" align="right">
 
 Il grano tenero ([Triticum aestivum](http://www.agraria.org/coltivazionierbacee/granotenero.htm)) è il cereale comunemente utilizzato per ottenere la farina per il pane. I chicchi di grano possono anche essere usati interi per preparare minestre, insalate oppure la buonissima pastiera napoletana.  
 
