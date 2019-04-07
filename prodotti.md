@@ -74,9 +74,8 @@ Curiosità: il nome 'Trebbiano' deriva da 'trebulanum', nome che compare per la 
 ---   
 
 ### Piselli    
-<figure>
-	<img src="/images/peas.png" alt="Piselli" style="width:150px;height:150px;margin:10px 0px 0px 25px" align="right">
-</figure>  
+<img src="/images/peas.png" alt="Piselli" style="width:150px;height:150px;margin:10px 0px 0px 25px" align="right">
+
 Il pisello ([Pisum sativum](http://www.agraria.org/coltivazionierbacee/pisello.htm)) è un legume usato sia per l'alimentazione umana che per il bestiame. Le varietà e le tecniche colturali variano a seconda dell'uso. Per quanto riguarda la nostra alimentazione, i piselli si sposano benissimo con la pasta, ma si prestano anche a tante altre diverse ricette tra cui è d'obbligo menzionare le seppie con i piselli.  
   
 La varietà che abbiamo coltivato negli anni passati è Wolf. Come per i ceci, questo prodotto è conferito a [Conserve Italia](https://www.conserveitalia.it/).  

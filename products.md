@@ -65,7 +65,7 @@ These products will/might be in production again soon:
 ### Trebbiano grapes    
 <img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:110px;height:110px;margin:15px 0px 0px 25px" align="right">  
 
-Trebbiano is an Italian white grape, used for wine making. In Ravenna, "Trebbiano romagnolo" grapes can be turned into wine labelled as "["Ravenna", Indicazione Geografica Tipica](https://agricoltura.regione.emilia-romagna.it/produzioni-agroalimentari/doc/disciplinari/produzione-vini-dop-e-igp/igt-ravenna/view).   
+Trebbiano is an Italian white grape, used for wine making. In Ravenna, 'Trebbiano romagnolo' grapes can be turned into wine labelled as ['Ravenna', Indicazione Geografica Tipica](https://agricoltura.regione.emilia-romagna.it/produzioni-agroalimentari/doc/disciplinari/produzione-vini-dop-e-igp/igt-ravenna/view).   
 
 Our vineyard was uprooted in 2018 - a new one will be planted in 2020 over 3 hectars. Our grapes have been processed by [Agrintesa](http://www.agrintesa.it/). When the new vineyard will be in production, we will be looking into collaborating with a local winery to turn our grapes into Trebbiano di Ravenna IGT.   
 
@@ -74,9 +74,8 @@ Odd fact: the name 'Trebbiano' comes from 'trebulanum', which featured first in 
 ---    
 
 ### Green peas      
-<figure>
-	<img src="/images/peas.png" alt="Piselli" style="width:150px;height:150px;margin:10px 0px 0px 25px" align="right">
-</figure>  
+<img src="/images/peas.png" alt="Piselli" style="width:150px;height:150px;margin:10px 0px 0px 25px" align="right">
+ 
 Green peas ([Pisum sativum](http://www.agraria.org/coltivazionierbacee/pisello.htm)) are a pulse used for both human and cattle feed. As food for us humans, peas are great with pasta, steamed or boiled as a side dish or in the Italian classic 'seppie e piselli' (cuttlefish and peas). 
   
 We grow 'Wolf' peas, which are processed and distributed by [Conserve Italia](https://www.conserveitalia.it/en/).  
