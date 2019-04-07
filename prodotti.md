@@ -16,7 +16,7 @@ Il nostro piano colturale cambia ogni anno, a seconda delle esigenze del terreno
 Nella campagna 2018-2019, abbiamo in produzione: 
 
 ### Grano tenero    
-<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;margin:0px 50px 0px 0px" align="right">
+<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;margin:0px 0px 0px 50px" align="right">
 
 Il grano tenero ([Triticum aestivum](http://www.agraria.org/coltivazionierbacee/granotenero.htm)) è il cereale comunemente utilizzato per ottenere la farina per il pane. I chicchi di grano possono anche essere usati interi per preparare minestre, insalate oppure la buonissima pastiera napoletana.  
 
@@ -64,7 +64,7 @@ Le seguenti colture torneranno (o potrebbero tornare) in produzione nei prossimi
 
 
 ### Uva trebbiano romagnolo    
-<img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:120px;height:120px;margin:0px 10px 0px 0px" align="right">  
+<img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:120px;height:120px;margin:10px 0px 0px 50px" align="right">  
 
 Il Trebbiano è un vitigno da vino a bacca bianca molto diffuso. A Ravenna il Trebbiano romagnolo può essere vinificato come ["Ravenna" Indicazione Geografica Tipica](https://agricoltura.regione.emilia-romagna.it/produzioni-agroalimentari/doc/disciplinari/produzione-vini-dop-e-igp/igt-ravenna/view).   
 
