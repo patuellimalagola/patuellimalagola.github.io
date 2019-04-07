@@ -63,7 +63,7 @@ Odd fact: alfalfa is not meant to be eaten by humans, but some just can't resist
 These products will/might be in production again soon:
 
 
-### Trebbiano grapes
+### Trebbiano grapes    
 <img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:120px;height:120px;" align="right">  
 Trebbiano is an Italian white grape, used for wine making. In Ravenna, "Trebbiano romagnolo" grapes can be turned into wine labelled as "["Ravenna", Indicazione Geografica Tipica](https://agricoltura.regione.emilia-romagna.it/produzioni-agroalimentari/doc/disciplinari/produzione-vini-dop-e-igp/igt-ravenna/view).   
 
@@ -73,7 +73,7 @@ Odd fact: the name 'Trebbiano' comes from 'trebulanum', which featured first in 
    
 ---    
 
-### Green peas    
+### Green peas      
 <figure>
 	<img src="/images/peas.png" alt="Piselli" style="width:150px;height:150px;" align="right">
 </figure>  

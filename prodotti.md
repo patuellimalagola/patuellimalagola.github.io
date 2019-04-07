@@ -49,8 +49,9 @@ Curiosità: il girasole alto oleico è il risultato di un esperimento di uno sci
 
 ---   
     
-### Erba medica    
+### Erba medica      
 <img src="/images/alfalfa.png" alt="Erba medica" style="width:150px;height:150px;" align="right">   
+
 L'erba medica ([Medicago sativa](http://www.agraria.org/coltivazionierbacee/erbamedica.htm)) o alfalfa è una delle più comuni piante da foraggio. L'Emilia-Romagna è un territorio particolarmente vocato per questa coltivazione. 
 
 Coltiviamo la varietà Gea. Il seme viene conferito a [Continental Semences](http://www.continentalsemences.com/).
@@ -62,7 +63,7 @@ Curiosità: l'erba medica non è tradizionalmente usata per l'alimentazione uman
 Le seguenti colture torneranno (o potrebbero tornare) in produzione nei prossimi anni:
 
 
-### Uva trebbiano romagnolo
+### Uva trebbiano romagnolo    
 <img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:120px;height:120px;margin:0px 10px 0px 0px" align="right">  
 Il Trebbiano è un vitigno da vino a bacca bianca molto diffuso. A Ravenna il Trebbiano romagnolo può essere vinificato come ["Ravenna" Indicazione Geografica Tipica](https://agricoltura.regione.emilia-romagna.it/produzioni-agroalimentari/doc/disciplinari/produzione-vini-dop-e-igp/igt-ravenna/view).   
 
