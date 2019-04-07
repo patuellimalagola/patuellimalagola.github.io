@@ -17,7 +17,7 @@ We currently produce:
 
 ### Wheat    
 
-<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;" align="right">
+<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;margin:0px 0px 0px 25px" align="right">
 
 Common wheat ([Triticum aestivum](http://www.agraria.org/coltivazionierbacee/granotenero.htm)) is the cereal commonly used for bread making. Wheat grains can also be cooked whole to make soups, salads or the great 'pastiera napoletana', a traditional cake from Naples. 
 
@@ -28,7 +28,7 @@ Odd fact: wheat is a genetic monster! Learn more by watching [this video](https:
 ---
 
 ### Chickpeas    
-<img src="/images/chickpeas.png" alt="Ceci" style="width:150px;height:150px;" align="right">    
+<img src="/images/chickpeas.png" alt="Ceci" style="width:150px;height:150px;margin:0px 0px 0px 25px" align="right">    
 
 Chipeas ([Cicer arietinum](http://www.agraria.org/coltivazionierbacee/cece.htm)) are a commonly cultivated pulse. Chickpeas are a nutritious food and very versatile. You can use chickpeas in soups, salads, but also to make hummus, falafel or a delicious [chana masala](https://www.theguardian.com/lifeandstyle/2015/sep/24/how-to-make-the-perfect-chana-masala).  
 
@@ -39,9 +39,8 @@ Odd fact: some say Marcus Tullius Cicero, the famous Roman orator, owes his seco
 --- 
 
 ### Sunflowers    
-<figure>
-	<img src="/images/sunflower.png" alt="Girasole" style="width:150px;height:150px;" align="right">
-</figure>  
+<img src="/images/sunflower.png" alt="Girasole" style="width:150px;height:150px;margin:0px 0px 0px 25px" align="right">
+
 Sunflowers ([Helianthus annuus](http://www.agraria.org/coltivazionierbacee/girasole.htm)) are the annual plant that form the well-known yellow flowers. Sunflower seeds are mainly used for oil production, but they can also be consumed as a snack.   
   
 We grow P64HE118 sunflowers, a high oleic breed which produces an oil suitable for frying. The seeds are processed by the local [Consorzio Agrario](https://www.consorzioagrarioravenna.it/).  
@@ -51,7 +50,7 @@ Odd fact: high oleic sunflowers are the result of an experiment by a Russian sci
 ---   
     
 ### Alfalfa    
-<img src="/images/alfalfa.png" alt="Erba medica" style="width:150px;height:150px;" align="right">   
+<img src="/images/alfalfa.png" alt="Erba medica" style="width:150px;height:150px;margin:0px 0px 0px 25px" align="right">   
 Alfalfa ([Medicago sativa](http://www.agraria.org/coltivazionierbacee/erbamedica.htm)), also known ad lucerne, is one of the most important forage crops. Emilia-Romagna is particularly well suited for growing alfalfa. 
 
 We grow 'Gea' alfalfa. The seeds are processed by [Continental Semences](http://www.continentalsemences.com/Inglese/Index.html).
@@ -64,7 +63,7 @@ These products will/might be in production again soon:
 
 
 ### Trebbiano grapes    
-<img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:120px;height:120px;" align="right">  
+<img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:110px;height:110px;margin:15px 0px 0px 25px" align="right">  
 
 Trebbiano is an Italian white grape, used for wine making. In Ravenna, "Trebbiano romagnolo" grapes can be turned into wine labelled as "["Ravenna", Indicazione Geografica Tipica](https://agricoltura.regione.emilia-romagna.it/produzioni-agroalimentari/doc/disciplinari/produzione-vini-dop-e-igp/igt-ravenna/view).   
 
@@ -76,7 +75,7 @@ Odd fact: the name 'Trebbiano' comes from 'trebulanum', which featured first in 
 
 ### Green peas      
 <figure>
-	<img src="/images/peas.png" alt="Piselli" style="width:150px;height:150px;" align="right">
+	<img src="/images/peas.png" alt="Piselli" style="width:150px;height:150px;margin:10px 0px 0px 25px" align="right">
 </figure>  
 Green peas ([Pisum sativum](http://www.agraria.org/coltivazionierbacee/pisello.htm)) are a pulse used for both human and cattle feed. As food for us humans, peas are great with pasta, steamed or boiled as a side dish or in the Italian classic 'seppie e piselli' (cuttlefish and peas). 
   
