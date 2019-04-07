@@ -16,7 +16,7 @@ Il nostro piano colturale cambia ogni anno, a seconda delle esigenze del terreno
 Nella campagna 2018-2019, abbiamo in produzione: 
 
 ### Grano tenero    
-<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;margin:0px 0px 0px 50px" align="right">
+<img src="/images/wheat.png" alt="Grano" style="width:150px;height:150px;margin:0px 0px 0px 30px" align="right">
 
 Il grano tenero ([Triticum aestivum](http://www.agraria.org/coltivazionierbacee/granotenero.htm)) è il cereale comunemente utilizzato per ottenere la farina per il pane. I chicchi di grano possono anche essere usati interi per preparare minestre, insalate oppure la buonissima pastiera napoletana.  
 
@@ -27,7 +27,7 @@ Curiosità: il grano è un mostro genetico! Puoi scoprirne di più leggendo [que
 ---
 
 ### Ceci    
-<img src="/images/chickpeas.png" alt="Ceci" style="width:150px;height:150px;" align="right">    
+<img src="/images/chickpeas.png" alt="Ceci" style="width:150px;height:150px;margin:0px 0px 0px 30px" align="right">    
 
 Il cece ([Cicer arietinum](http://www.agraria.org/coltivazionierbacee/cece.htm)) è il terzo legume più coltivato nel mondo. Il cece è un ottimo alimento ed è molto versatile in cucina. Con i ceci possiamo preparare zuppe, minestre, farinate ma anche hummus, falafel e [chana masala](https://www.theguardian.com/lifeandstyle/2015/sep/24/how-to-make-the-perfect-chana-masala).  
 
@@ -39,7 +39,7 @@ Curiosità: si dice che Marco Tullio Cicerone, il famoso oratore romano, debba i
 
 ### Girasole    
 <figure>
-	<img src="/images/sunflower.png" alt="Girasole" style="width:150px;height:150px;" align="right">
+	<img src="/images/sunflower.png" alt="Girasole" style="width:140px;height:140px;margin:0px 0px 0px 30px" align="right">
 </figure>  
 Il girasole ([Helianthus annuus](http://www.agraria.org/coltivazionierbacee/girasole.htm)) è una pianta annuale che fa la caratteristica infiorescenza a petali gialli. I semi di girasole sono usati principalmente per la produzione di olio, ma sono anche consumati come snack.
   
@@ -50,7 +50,7 @@ Curiosità: il girasole alto oleico è il risultato di un esperimento di uno sci
 ---   
     
 ### Erba medica      
-<img src="/images/alfalfa.png" alt="Erba medica" style="width:150px;height:150px;" align="right">   
+<img src="/images/alfalfa.png" alt="Erba medica" style="width:150px;height:150px;margin:0px 0px 0px 30px" align="right">   
 
 L'erba medica ([Medicago sativa](http://www.agraria.org/coltivazionierbacee/erbamedica.htm)) o alfalfa è una delle più comuni piante da foraggio. L'Emilia-Romagna è un territorio particolarmente vocato per questa coltivazione. 
 
@@ -64,7 +64,7 @@ Le seguenti colture torneranno (o potrebbero tornare) in produzione nei prossimi
 
 
 ### Uva trebbiano romagnolo    
-<img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:120px;height:120px;margin:10px 0px 0px 50px" align="right">  
+<img src="/images/trebbiano.jpg" alt="Trebbiano" style="width:110px;height:110px;margin:10px 0px 0px 30px" align="right">  
 
 Il Trebbiano è un vitigno da vino a bacca bianca molto diffuso. A Ravenna il Trebbiano romagnolo può essere vinificato come ["Ravenna" Indicazione Geografica Tipica](https://agricoltura.regione.emilia-romagna.it/produzioni-agroalimentari/doc/disciplinari/produzione-vini-dop-e-igp/igt-ravenna/view).   
 
@@ -76,7 +76,7 @@ Curiosità: il nome 'Trebbiano' deriva da 'trebulanum', nome che compare per la 
 
 ### Piselli    
 <figure>
-	<img src="/images/peas.png" alt="Piselli" style="width:150px;height:150px;" align="right">
+	<img src="/images/peas.png" alt="Piselli" style="width:150px;height:150px;margin:10px 0px 0px 30px" align="right">
 </figure>  
 Il pisello ([Pisum sativum](http://www.agraria.org/coltivazionierbacee/pisello.htm)) è un legume usato sia per l'alimentazione umana che per il bestiame. Le varietà e le tecniche colturali variano a seconda dell'uso. Per quanto riguarda la nostra alimentazione, i piselli si sposano benissimo con la pasta, ma si prestano anche a tante altre diverse ricette tra cui è d'obbligo menzionare le seppie con i piselli.  
   
