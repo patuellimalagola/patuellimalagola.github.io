@@ -61,6 +61,18 @@ La varietà che coltiviamo è Wolf. Come per i ceci, conferiamo questo prodotto 
 Curiosità: i piselli erano [in gran voga alla corte del Re Sole](https://www.laterza.it/index.php?option=com_laterza&Itemid=97&task=schedalibro&isbn=9788842091011), al punto che le dame se ne facevano preparare una porzione in più da mangiare anche dopo sontuose cene, rischiando l'indigestione.  
 
 ---   
+
+### Girasole    
+<figure>
+	<img src="/images/sunflower.png" alt="Girasole" style="width:150px;height:150px;" align="right">
+</figure>  
+Il girasole ([Helianthus annuus](http://www.agraria.org/coltivazionierbacee/girasole.htm)) è una pianta annuale che fa la caratteristica infiorescenza a petali gialli. I semi di girasole sono usati per l'alimentazione umana o per la produzione di olio.
+  
+Coltiviamo girasole P64HE118, alto oleico. I semi sono conferiti al [Consorzio Agrario di Ravenna](https://www.consorzioagrarioravenna.it/).  
+
+Curiosità: il girasole alto oleico, da cui si ottiene un olio adattissimo alla frittura, è il risultato di un esperimento di uno scienziato russo. Questa storia e tante informazioni in più sono raccontate [in questo video](https://youtu.be/keea-WMvt_o).   
+
+---   
     
 ### Erba medica    
 <img src="/images/alfalfa.png" alt="Erba medica" style="width:150px;height:150px;" align="right">   
