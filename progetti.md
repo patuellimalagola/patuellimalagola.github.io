@@ -17,7 +17,7 @@ Vorremmo..
 
 ### Ospitalità rurale    
  
-.. restaurare la casa colonica di proprietà dell'azienda e creare spazi di accoglienza rurale.  
+.. creare spazi di accoglienza rurale all'interno della casa colonica del nostro podere Manzone.  
 
 ---
 
