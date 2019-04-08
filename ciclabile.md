@@ -24,6 +24,3 @@ Tornate a visitare questa pagina, che verrà sempre aggiornata sugli sviluppi di
 
 Invitiamo caldamente i residenti e gli interessati a [contattarci](/contatti) con i loro commenti!
 
-
-
-img src="IMAGE LINK" style='width:100%;' border="0" alt="Null">
