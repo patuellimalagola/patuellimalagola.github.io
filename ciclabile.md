@@ -20,7 +20,7 @@ Questo progetto è in fase di sviluppo in collaborazione con FIAB di Ravenna. Pr
 
 In questa grafica è rappresentato il progetto: 
 
-<img src="/images/mappaciclabile.jpg" alt="Mappa ciclabile San Michele" style="width:1188px;height:1700px;margin:30px 0px 0px 0px" align="middle">
+<img src="/images/mappaciclabile.jpg" alt="Mappa ciclabile San Michele" style="width:750px;height:1073px;margin:30px 0px 0px 0px" align="middle">
 
 
 
