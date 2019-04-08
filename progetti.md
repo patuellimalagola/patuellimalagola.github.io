@@ -23,9 +23,9 @@ Vorremmo..
 ---
 
 ### Mobilità sostenibile     
-
+<img src="/images/segnaleciclabile.jpg" style="width:110px;height:110px;margin:0px 20px 0px 0px" align="left"> 
 .. stimolare l'uso di mezzi di trasporto sostenibili, come la bicicletta, creando e supportando infrastrutture adeguate nel territorio. Al momento stiamo lavorando al progetto della [ciclabile di San Michele](/ciclabile).
-
+<br/><br/> 
 ---
 
 ### Vendita di prodotti    
