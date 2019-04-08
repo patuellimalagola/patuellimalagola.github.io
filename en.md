@@ -12,7 +12,7 @@ ref: home
 
 Welcome to the website of 'Società Agricola Patuelli Malagola'. 
 
-We are an agricultural estate business based in the Ravenna municipality, in Emilia-Romagna (Italy).
+We are a crop farm based in the Ravenna municipality, in Emilia-Romagna (Italy).
 
 On this website you can keep up to date with [what we produce](/products) and with our [future goals](/goals). 
 
