@@ -23,7 +23,7 @@ Vorremmo..
 
 ### Mobilità sostenibile     
 
-.. stimolare l'uso di mezzi di trasporto sostenibili, come la bicicletta, creando e supportando infrastrutture adeguate nel territorio. Al momento stiamo lavorando al progetto San Michele in bici
+.. stimolare l'uso di mezzi di trasporto sostenibili, come la bicicletta, creando e supportando infrastrutture adeguate nel territorio. Al momento stiamo lavorando al progetto della [ciclabile di San Michele](/ciclabile)
 
 ---
 
