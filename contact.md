@@ -19,9 +19,9 @@ Follow us on social media:
 
 <div class="sharethis-inline-follow-buttons"></div>        
     
-
+<br/><br/>
      
-     
+<br/><br/>
 
 If you wish to visit any of our sites, please make an appointment.
 
