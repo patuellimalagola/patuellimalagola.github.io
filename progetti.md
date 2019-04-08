@@ -16,8 +16,9 @@ Abbiamo tanti progetti per il futuro dell'azienda! In questa pagina ne sono elen
 Vorremmo..
 
 ### Ospitalità rurale    
-<img src="/images/casacolonica.jpg" style="width:150px;height:150px;margin:0px 20px 0px 0px" align="left"> 
+<img src="/images/casacolonica.jpg" style="width:110px;height:110px;margin:0px 20px 0px 0px" align="left"> 
 .. creare spazi di accoglienza rurale all'interno della casa colonica del nostro podere Manzone.  
+<br/><br/>  
 
 ---
 
