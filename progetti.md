@@ -16,14 +16,14 @@ Abbiamo tanti progetti per il futuro dell'azienda! In questa pagina ne sono elen
 Vorremmo..
 
 ### Ospitalità rurale    
-<img src="/images/casacolonica.jpg" alt="Casa colonica" style="width:100%" align="left"> 
+<img src="/images/casacolonica.jpg" style="width:150px;height:150px;margin:0px 20px 0px 0px" align="left"> 
 .. creare spazi di accoglienza rurale all'interno della casa colonica del nostro podere Manzone.  
 
 ---
 
 ### Mobilità sostenibile     
 
-.. stimolare l'uso di mezzi di trasporto sostenibili, come la bicicletta, creando e supportando infrastrutture adeguate nel territorio. Al momento stiamo lavorando al progetto della [ciclabile di San Michele](/ciclabile)
+.. stimolare l'uso di mezzi di trasporto sostenibili, come la bicicletta, creando e supportando infrastrutture adeguate nel territorio. Al momento stiamo lavorando al progetto della [ciclabile di San Michele](/ciclabile).
 
 ---
 
