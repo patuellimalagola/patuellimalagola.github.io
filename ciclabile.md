@@ -11,16 +11,15 @@ lang: it
 ref: ciclabile
 ---
 
-
 Desideriamo proporre il completamento di un collegamento ciclabile tra Ravenna e San Michele. 
 
 Questo progetto è in fase di sviluppo in collaborazione con [FIAB di Ravenna](https://www.fiabravenna.com/). Presto sarà presente una pagina dedicata al progetto anche sul sito FIAB.
 
 
-In questa grafica è rappresentato il progetto: 
+I componenti principali del progetto sono rappresentati in questa grafica: 
 
 <img src="/images/mappaciclabile.jpg" alt="Mappa ciclabile San Michele" style="width:600px;height:858px;margin:30px 0px 0px 0px" align="middle">
 
 Tornate a visitare questa pagina, che verrà sempre aggiornata sugli sviluppi di questo progetto.
 
-Per ulteriori informazioni, non esistate a [contattarci](/contatti).
+Invitiamo caldamente i residenti e gli interessati a [contattarci](/contatti) con i loro commenti!
