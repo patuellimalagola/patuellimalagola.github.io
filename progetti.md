@@ -17,7 +17,7 @@ Vorremmo..
 
 ### Ospitalità rurale    
 <img src="/images/casacolonica.jpg" style="width:110px;height:110px;margin:0px 20px 0px 0px" align="left"> 
-.. creare spazi di accoglienza rurale all'interno della casa colonica del nostro podere Manzone.  
+.. creare spazi di accoglienza rurale all'interno della casa colonica del nostro podere Manzone, a San Michele.  
 <br/><br/>  
 
 ---
@@ -31,7 +31,7 @@ Vorremmo..
 
 ### Vendita di prodotti    
 <img src="/images/sellproduce.jpg" style="width:110px;height:110px;margin:0px 20px 0px 0px" align="left"> 
-.. costruire uno spaccio aziendale per vendita dei nostri prodotti, trasformati e non, anche in collaborazione con altre aziende agricole locali.
+.. allestire uno spaccio aziendale per vendita dei nostri prodotti, trasformati e non, anche in collaborazione con altre aziende agricole locali.
 <br/><br/>  
 
 ---

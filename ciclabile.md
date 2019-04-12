@@ -11,16 +11,22 @@ lang: it
 ref: ciclabile
 ---
 
-Desideriamo proporre il completamento di un collegamento ciclabile tra Ravenna e San Michele. 
+Siamo promotori del completamento di un collegamento ciclabile tra Ravenna e San Michele. Questa pagina verrà sempre aggiornata sugli sviluppi di questo progetto.   
 
-Questo progetto è in fase di sviluppo in collaborazione con [FIAB di Ravenna](https://www.fiabravenna.com/). Presto sarà presente una pagina dedicata al progetto anche sul sito FIAB.
+### Il progetto     
 
-
-I componenti principali del progetto sono rappresentati in questa grafica: 
+Si propone un collegamento ciclabile tra San Michele e Ravenna che sfrutti la viabilità esistente di Via fosso delle oche. I componenti principali del progetto sono rappresentati in questa grafica: 
 
 <img src="/images/mappaciclabile.jpg" alt="Mappa ciclabile San Michele" style="width:100%" align="middle">
 <br/><br/>
-Tornate a visitare questa pagina, che verrà sempre aggiornata sugli sviluppi di questo progetto.
+Questo progetto è in fase di sviluppo in collaborazione con [FIAB di Ravenna](https://www.fiabravenna.com/). Presto sarà presente una pagina dedicata al progetto anche sul sito FIAB.   
 
-Invitiamo caldamente i residenti e gli interessati a [contattarci](/contatti) con i loro commenti!
+Invitiamo caldamente i residenti, le attività commerciali e tutti gli interessati a [contattarci](/contatti) con i loro commenti!
 
+
+### Cronologia 
+
+<strong> 9 Aprile 2019 </strong>    
+Confronto con i residenti in occasione dell'incontro 'Cronache dal bar' promosso dal Resto del Carlino.    
+<img src="/images/carlino.jpg" alt="Mappa ciclabile San Michele" style="width:100%" align="middle">
+<br/><br/>
