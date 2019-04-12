@@ -25,6 +25,13 @@ Invitiamo caldamente i residenti, le attività commerciali e tutti gli interessa
 
 
 ### Cronologia 
+<strong> Agosto 2018 </strong>    
+Sandra va in bicicletta dalla sede legale aziendale al podere Manzone (e ritorna con 7 kg di ceci in spalla), e inizia a chiedersi perchè non c'è un collegamento ciclabile completo per raggiungere San Michele. 
+<br/><br/>
+
+<strong> Marzo 2019 </strong>    
+Primi scambi con il gruppo FIAB di Ravenna, inizia a delinearsi il progetto.    
+<br/><br/>
 
 <strong> 9 Aprile 2019 </strong>    
 Confronto con i residenti in occasione dell'incontro 'Cronache dal bar' promosso dal Resto del Carlino.    
