@@ -11,7 +11,7 @@ lang: en
 ref: projects
 ---
 
-We have loads of ideas about the future of our business! A few a listed here. You may [contact us](/contact) if you are interested in learning more about any of these projects.     
+We have loads of ideas about the future of our business! A few are listed here. You may [contact us](/contact) if you are interested in learning more about any of these projects.     
 
 We would like to ..
 
