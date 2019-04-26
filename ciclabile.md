@@ -35,3 +35,7 @@ Primi scambi con il gruppo FIAB di Ravenna, inizia a delinearsi il progetto.
 Confronto con i residenti in occasione dell'incontro 'Cronache dal bar' promosso dal Resto del Carlino.    
 <img src="/images/carlino.jpg" alt="Mappa ciclabile San Michele" style="width:100%" align="middle">
 <br/><br/>
+<strong> 25 Aprile 2019 </strong>    
+Inizia la raccolta firme presso il Parco Primo Maggio!    
+<img src="/images/petizione.jpg" alt="" style="width:100%" align="middle">
+<br/><br/>
