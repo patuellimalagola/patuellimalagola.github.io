@@ -39,6 +39,11 @@ Confronto con i residenti in occasione dell'incontro 'Cronache dal bar' promosso
 Inizia la raccolta firme presso il Parco Primo Maggio!    
 <img src="/images/petizione.jpg" alt="" style="width:100%" align="middle">
 <br/><br/>
+<strong> 26 Aprile 2019 </strong>    
+Il presidente di FIAB Ravenna Andrea Navacchia parla della ciclabile di San Michele in un intervista per il settimanale Settesere 
+<img src="/images/settesere1.jpg" alt="" style="width:100%" align="middle">
+<img src="/images/settesere2.jpg" alt="" style="width:100%" align="middle">
+<br/><br/>
 <strong> 30 Aprile 2019 </strong>    
 Dal 30 aprile, tutti i martedì sera dalle 20,30 alle 22,30 è possibile firmare la petizione presso la sede di CittAttiva di Ravenna, in via Carducci 14 (vicino alla stazione).    
 <br/><br/>
