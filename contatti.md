@@ -22,6 +22,9 @@ Ci trovate anche sui social media:
 
 <br/><br/>
      
+Se siete in cerca di lavoro, visitate [questa pagina](/lavoraconnoi) prima di scriverci!
+
+<br/><br/>
 
 Per visitare i nostri siti, si prega di prendere un appuntamento.
 
