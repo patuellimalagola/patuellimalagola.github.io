@@ -10,6 +10,31 @@ lang: it
 ref: home
 ---
 
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000000"
+    },
+    "button": {
+      "background": "#ee741e"
+    }
+  },
+  "theme": "edgeless",
+  "position": "bottom-right",
+  "content": {
+    "message": "Questo sito utilizza cookies.",
+    "dismiss": "Va bene!",
+    "link": "Leggi l'informativa",
+    "href": "www.patuellimalagola.com/cookiepolicy"
+  }
+})});
+</script>
+
+
 <script src="//platform-api.sharethis.com/js/sharethis.js#property=5c73dd7fb073260011b18676&product=inline-follow-buttons"></script>
 
 
