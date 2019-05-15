@@ -29,7 +29,7 @@ window.cookieconsent.initialise({
     "message": "Questo sito utilizza cookies.",
     "dismiss": "Va bene!",
     "link": "Leggi l'informativa",
-    "href": "www.patuellimalagola.com/cookiepolicy"
+    "href": "/cookiepolicy"
   }
 })});
 </script>
