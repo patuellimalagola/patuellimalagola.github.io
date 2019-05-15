@@ -13,7 +13,7 @@ ref: lavoro
 
 Grazie per il vostro interesse a lavorare con noi! 
 
-### POSIIONI APERTE
+### POSIZIONI APERTE
 Al momento non abbiamo posizioni aperte. Tornate a visitare questa pagina, pubblicheremo qui le future offerte di lavoro.   
 
 ---
@@ -26,10 +26,10 @@ Per mandare una candidatura spontanea, si prega di inviare un email con oggetto 
 Per la redazione del CV si prega di seguire queste indicazioni:
 - formato pdf
 - massimo 2 pagine
-- includere: nome e cognome o pseudonimo, recapito telefonico, indirizzo email, esperienze lavorative e relative mansioni, formazione, obiettivi lavorativi
-- omettere: foto, luogo di nascita, data di nascita/età, codice fiscale, cittadinanza, indirizzo postale/residenza, stato civile, affiliazioni religiose/politiche, dati sensibili   
+- includere: nome e cognome, recapito telefonico, indirizzo email, esperienze lavorative e relative mansioni, formazione, obiettivi lavorativi
+- omettere: fototessera, luogo di nascita, data di nascita/età, codice fiscale, cittadinanza, indirizzo postale/residenza, stato civile, affiliazioni religiose/politiche, dati sensibili   
 
-Ci riserviamo di rispondere solo alle candidature spontanee che rispondono a questi requisiti.   
+Ci riserviamo di considerare solo le candidature spontanee che rispondono a questi requisiti.   
 
 ---
 
