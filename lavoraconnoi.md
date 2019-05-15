@@ -11,17 +11,30 @@ lang: it
 ref: lavoro
 ---
 
-Grazie per il vostro interesse a lavorare con noi! Al momento non abbiamo posizioni aperte. Tornate a visitare questo sito, pubblicheremo qui e sui nostri profili social le future offerte di lavoro.
+Grazie per il vostro interesse a lavorare con noi! 
 
-Per mandare una candidatura spontanea, si prega di inviare un email a info@patuellimalagola.com con 2 allegati:
+### POSIIONI APERTE
+Al momento non abbiamo posizioni aperte. Tornate a visitare questa pagina, pubblicheremo qui le future offerte di lavoro.   
+
+---
+
+### CANDIDATURE SPONTANEE
+Per mandare una candidatura spontanea, si prega di inviare un email con oggetto "candidatura spontanea" a info@patuellimalagola.com con allegati:
 - [informativa privacy](/docs/InformativaPrivacyCandidati.pdf) compilata e firmata
 - CV (Curriculum Vitae)
 
-Per la redazione del Curriculum Vitae si prega di seguire queste indicazioni:
+Per la redazione del CV si prega di seguire queste indicazioni:
 - formato pdf
 - massimo 2 pagine
-- includere: nome, recapito telefonico, indirizzo email, domicilio o altro indirizzo (opzionale), esperienze lavorative, formazione e obiettivi lavorativi
-- omettere: foto, data di nascita, codice fiscale, cittadinanza, residenza, dati sensibili   
+- includere: nome e cognome o pseudonimo, recapito telefonico, indirizzo email, esperienze lavorative e relative mansioni, formazione, obiettivi lavorativi
+- omettere: foto, luogo di nascita, data di nascita/età, codice fiscale, cittadinanza, indirizzo postale/residenza, stato civile, affiliazioni religiose/politiche, dati sensibili   
 
-Ci riserviamo di rispondere solo alle candidature spontanee che rispondono a questi requisiti.
+Ci riserviamo di rispondere solo alle candidature spontanee che rispondono a questi requisiti.   
+
+---
+
+### AZIENDE E PROFESSIONISTI
+Se siete un'azienda o un professionista con partita IVA, siete liberi di contattarci per proporre i vostri servizi.   
+
+---
 
