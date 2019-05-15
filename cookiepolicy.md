@@ -2,7 +2,7 @@
 layout: stripped
 permalink: /cookiepolicy
 title: "Cookie Policy"
-header: Cookie Policy for Società Agricola Patuelli Malagola
+header: Cookie Policy
 lang: it
 ref: cookie
 tags: [cookie]
@@ -27,7 +27,6 @@ tags: [cookie]
 <p><strong>The Cookies We Set</strong></p>
 
 <ul>
-
 
 <li>
     <p>Site preferences cookies</p>
@@ -54,7 +53,6 @@ tags: [cookie]
 <li>
     <p>From time to time we test new features and make subtle changes to the way that the site is delivered. When we are still testing new features these cookies may be used to ensure that you receive a consistent experience whilst on the site whilst ensuring we understand which optimisations our users appreciate the most.</p>
 </li>
-
 
 <li>
     <p>We also use social media buttons and/or plugins on this site that allow you to connect with your social network in various ways. For these to work the following social media sites, will set cookies through our site which may be used to enhance your profile on their site or contribute to the data they hold for various purposes outlined in their respective privacy policies.</p>
