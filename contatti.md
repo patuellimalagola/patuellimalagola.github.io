@@ -24,7 +24,7 @@ Ci trovate anche sui social media:
 
 <br/><br/>
 
-Per visitare i nostri siti, si prega di prendere un appuntamento.
+Per visitare le nostre sedi è necessario prendere appuntamento.
 
 
 La nostra sede legale è in centro a Ravenna:
