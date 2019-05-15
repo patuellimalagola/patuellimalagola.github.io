@@ -62,6 +62,4 @@ tags: [cookie]
 
 <p><strong>More Information</strong></p>
 
-<p>Hopefully that has clarified things for you and as was previously mentioned if there is something that you aren't sure whether you need or not it's usually safer to leave cookies enabled in case it does interact with one of the features you use on our site.</p>
-
-<p>However if you are still looking for more information then please contact us at info@patuellimalagola.com </p>
+<p>Hopefully that has clarified things for you, however, if you are still looking for more information then please contact us at info@patuellimalagola.com </p>
