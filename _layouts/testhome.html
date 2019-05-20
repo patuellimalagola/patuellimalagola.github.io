@@ -20,7 +20,7 @@
               <ol class="post-list">
                  <lh><h2><span class="bb">{{ page.title }}</span></h2></lh>
                   {{ content }}
-                  {% for post in site.testposts %}
+                  {% for post in site.drafts %}
                   <li>
                     <div class="deets" itemscope itemtype="https://schema.org/BlogPosting" itemprop="blogPost">
                         <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
