@@ -2,7 +2,7 @@
 layout: testhome
 permalink: /testblog
 title: "Test blog"
-header: Test blog
+header: OOOOPS
 lang: it
 ref: testblog
 tags: [test]
@@ -33,5 +33,6 @@ window.cookieconsent.initialise({
 </script>
 
 
+Questa è una pagina di test! Si prega di tornare al [blog](/blog).     
 
-Benvenuti nel nostro blog. Stiamo testando questa pagina!
+This is a testing page! Please return to the [blog](/blog-en).
