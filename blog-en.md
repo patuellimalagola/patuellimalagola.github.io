@@ -1,9 +1,9 @@
 ---
 layout: home
-permalink: /blog
+permalink: /blog-en
 title: "Blog"
 header: Blog
-lang: it
+lang: en
 ref: blog
 tags: [blog]
 ---
@@ -24,9 +24,9 @@ window.cookieconsent.initialise({
   "theme": "edgeless",
   "position": "bottom-right",
   "content": {
-    "message": "Questo sito utilizza cookies.",
-    "dismiss": "Va bene!",
-    "link": "Leggi l'informativa",
+    "message": "This website uses cookies to ensure you get the best experience.",
+    "dismiss": "Got it!",
+    "link": "Learn more",
     "href": "/cookiepolicy"
   }
 })});
@@ -34,5 +34,4 @@ window.cookieconsent.initialise({
 
 
 
-Benvenuti nella pagina che ospiterà il nostro blog! Non abbiamo ancora iniziato a pubblicare, torna presto a visitare questo pagina. Nel frattempo, se c'è un tema che ti interessa particolarmente, non esitare a [contattarci](/contatti).  
-
+Welcome on our blog! We are still to start publishing posts, please bear with us. In the meantime, feel free to [contact us](/contact).  
