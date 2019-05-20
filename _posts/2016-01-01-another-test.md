@@ -6,7 +6,7 @@ description: "Just testing."
 categories: articles
 date: 2016-01-01
 lang: it
-draft=true
+draft: true
 ---
 
 Test post 2016
