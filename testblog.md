@@ -1,11 +1,11 @@
 ---
 layout: testhome
-permalink: /blog
-title: "Blog"
-header: Blog
+permalink: /testblog
+title: "Test blog"
+header: Test blog
 lang: it
-ref: blog
-tags: [blog]
+ref: testblog
+tags: [test]
 ---
 
 <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
