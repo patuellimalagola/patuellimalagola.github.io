@@ -23,9 +23,8 @@ Si propone un collegamento ciclabile tra San Michele e Ravenna che sfrutti la vi
 <br/><br/>
 Questo progetto è in fase di sviluppo in collaborazione con [FIAB di Ravenna](https://www.fiabravenna.com/). 
 
-
-### La petizione
 <div id="petizione"></div>
+### La petizione
 È possibile firmare la petizione tutti i martedì sera dalle 20,30 alle 22,30 presso la sede di [CittAttiva di Ravenna](https://goo.gl/maps/D2RZ7GS9e2WEL2fSA), in via Carducci 14 (vicino alla stazione dei treni). La petizione sarà anche disponibile a selezionati eventi nel territorio. In alternativa, potete [contattarci](/contatti) e prendere un appuntamento.
 
 Possono firmare la petizione tutti i residenti nel Comune di Ravenna che abbiano compiuto 16 anni. Anche alcuni non residenti possono firmare la petizione, come previsto dallo [Statuto del Comune di Ravenna](http://www.comune.ra.it/Aree-Tematiche/Statuto-regolamenti-e-ordinanze/Lo-Statuto-del-Comune-di-Ravenna)
