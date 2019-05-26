@@ -26,7 +26,8 @@ Molti fabbricati rurali nelle nostre campagne sono abbandonati, perchè di diffi
 Ridurre le emissioni è essenziale per contenere il surriscaldamento globale. Vorremmo stimolare l'uso di mezzi di trasporto sostenibili, come la bicicletta, creando e supportando infrastrutture adeguate nel territorio. 
 Siamo promotori e stiamo attivamente lavorando al progetto della [ciclabile di San Michele](/ciclabile).
 Supportiamo anche il progetto di Sara, residente di San Michele, di estendere il collegamento autobus fino San Michele.
-<br/><br/> 
+<br/><br/>   
+
 ---
 
 ### Vendita di prodotti    
