@@ -14,13 +14,15 @@ window.cookieconsent.initialise({
   "theme": "edgeless",
   "position": "bottom-right",
   "content": {
-    {% if page.lang == "en" %}
-    "message": "This website uses cookies to ensure you get the best experience.",
-    {% else %}
+    {% if page.lang == "it" %}
     "message": "Questo sito utilizza cookies.",
-    {% endif %}
+    "dismiss": "Va bene!",
+    "link": "Leggi l'informativa",
+    {% else %}
+    "message": "This website uses cookies to ensure you get the best experience.",
     "dismiss": "Got it!",
     "link": "Learn more",
+    {% endif %}
     "href": "/cookiepolicy"
   }
 })});
