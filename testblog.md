@@ -8,8 +8,6 @@ ref: testblog
 tags: [test]
 ---
 
-{% include cookieconsent.html %}
-
 Questa è una pagina di test! Si prega di tornare al [blog](/blog).     
 
 This is a testing page! Please return to the [blog](/blog-en).
