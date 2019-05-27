@@ -8,7 +8,7 @@ ref: cookie
 tags: [cookie]
 ---
 
-<p>This is the Cookie Policy for Società Agricola Patuelli Malagola, accessible from www.patuellimalagola.com</p>
+<p>This is the Cookie Policy for the "Società Agricola Patuelli Malagola" website, accessible from www.patuellimalagola.com</p>
 
 <p><strong>What Are Cookies</strong></p>
 
