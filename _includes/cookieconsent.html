@@ -14,7 +14,11 @@ window.cookieconsent.initialise({
   "theme": "edgeless",
   "position": "bottom-right",
   "content": {
+    {% if page.lang == "en" %}
     "message": "This website uses cookies to ensure you get the best experience.",
+    {% else %}
+    "message": "Questo sito utilizza cookies.",
+    {% endif %}
     "dismiss": "Got it!",
     "link": "Learn more",
     "href": "/cookiepolicy"
