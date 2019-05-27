@@ -8,31 +8,5 @@ ref: blog
 tags: [blog]
 ---
 
-<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
-<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
-<script>
-window.addEventListener("load", function(){
-window.cookieconsent.initialise({
-  "palette": {
-    "popup": {
-      "background": "#000000"
-    },
-    "button": {
-      "background": "#ee741e"
-    }
-  },
-  "theme": "edgeless",
-  "position": "bottom-right",
-  "content": {
-    "message": "Questo sito utilizza cookies.",
-    "dismiss": "Va bene!",
-    "link": "Leggi l'informativa",
-    "href": "/cookiepolicy"
-  }
-})});
-</script>
-
-
-
 Benvenuti nella pagina che ospiterà il nostro blog! Non abbiamo ancora iniziato a pubblicare, torna presto a visitare questo pagina. Nel frattempo, se c'è un tema che ti interessa particolarmente, non esitare a [contattarci](/contatti).  
 
