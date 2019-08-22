@@ -25,7 +25,8 @@ Molti fabbricati rurali nelle nostre campagne sono abbandonati, perchè di diffi
 <img src="/images/segnaleciclabile.jpg" style="width:110px;height:110px;margin:0px 20px 0px 0px" align="left"> 
 Ridurre le emissioni è essenziale per contenere il surriscaldamento globale. Vorremmo stimolare l'uso di mezzi di trasporto sostenibili, come la bicicletta, creando e supportando infrastrutture adeguate nel territorio. 
 Siamo promotori e stiamo attivamente lavorando al progetto della [ciclabile di San Michele](/ciclabile).
-Supportiamo anche il progetto di Sara, residente di San Michele, di estendere il collegamento autobus fino San Michele.
+Supportiamo anche il progetto di Sara, residente di San Michele, di estendere il collegamento di autobus urbano fino San Michele.   
+
 <br/><br/>   
 
 ---
