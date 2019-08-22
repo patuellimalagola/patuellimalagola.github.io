@@ -13,7 +13,17 @@ ref: ciclabile
 
 Siamo promotori del completamento di un collegamento ciclabile tra Ravenna e San Michele. Scopri di più su questo progetto e su come firmare la <a href="#petizione">petizione</a>.   
 
-Invitiamo caldamente i residenti, le attività commerciali e tutti gli interessati a [contattarci](/contatti) con i loro commenti!
+Invitiamo caldamente i residenti, le associazioni, le attività commerciali e tutti gli interessati a [contattarci](/contatti) con i loro commenti!
+
+### Eventi in programma
+
+DOMENICA 22 SETTEMBRE *SAVE THE DATE* - Biciclettata da Russi a Ravenna, con tappe a Godo e San Michele
+Una bella escursione in bici, aperta a tutti, per scoprire questo percorso ancora poco battuto. Ci sarà l'occasione di vedere il percorso della ciclabile di San Michele, farci sapere la vostra opinione e, per chi vuole, firmare la petizione.
+
+Orari e dettagli in fase di definizione! Saranno pubblicati su questa pagina. 
+
+Questo evento è organizzato in collaborazione con [FIAB di Ravenna](https://www.fiabravenna.com/). Le associazioni e comitati locali sono invitati a contattarci entro il 7 settembre se interessati a partecipare all'evento!
+
 
 ### Il progetto     
 
