@@ -14,7 +14,7 @@ ref: ciclabile
 Siamo promotori del completamento di un collegamento ciclabile tra Ravenna e San Michele. Scopri di più su questo progetto e su come firmare la <a href="#petizione">petizione</a>.   
 
 Invitiamo caldamente i residenti, le associazioni, le attività commerciali e tutti gli interessati a [contattarci](/contatti) con i loro commenti!    
-
+<div id="eventi"></div>
 ### Eventi in programma    
 
 *DOMENICA 22 SETTEMBRE* - Biciclettata da Russi a Ravenna, con tappe a Godo e San Michele.    
@@ -35,7 +35,12 @@ Questo progetto è in fase di sviluppo in collaborazione con [FIAB di Ravenna](h
 
 <div id="petizione"></div>
 ### La petizione
-È possibile firmare la petizione tutti i martedì sera dalle 20,30 alle 22,30 presso la sede di [CittAttiva di Ravenna](https://goo.gl/maps/D2RZ7GS9e2WEL2fSA), in via Carducci 14 (vicino alla stazione dei treni). La petizione sarà anche disponibile a selezionati eventi nel territorio. In alternativa, potete [contattarci](/contatti) e prendere un appuntamento.
+È possibile firmare la petizione presso:    
+- la sede di [CittAttiva di Ravenna](https://goo.gl/maps/D2RZ7GS9e2WEL2fSA), in via Carducci 14 (vicino alla stazione dei treni) tutti i martedì sera dalle 20,30 alle 22,30     
+- [Bar Gelateria La Meta](https://goo.gl/maps/bKy9v27dhJhYzFcWA), in centro a Piangipane   
+- <a href="#eventi">eventi</a> del territorio    
+ 
+In alternativa, potete [contattarci](/contatti) e prendere un appuntamento.
 
 Possono firmare la petizione tutti i residenti nel Comune di Ravenna che abbiano compiuto 16 anni. Anche alcuni non residenti possono firmare la petizione, come previsto dallo [Statuto del Comune di Ravenna](http://www.comune.ra.it/Aree-Tematiche/Statuto-regolamenti-e-ordinanze/Lo-Statuto-del-Comune-di-Ravenna)
 
