@@ -6,7 +6,7 @@ header: Una ciclabile per San Michele
 description: Scopri il nostro progetto di completare il collegamento ciclabile Ravenna - San Michele.
 tags: [territorio, mobilità, sostenibile, sostenibilità, bicicletta, ciclabili, ambiente, azienda, agricola, Ravenna, San Michele, Romagna, Emilia-Romagna, sanmicheleinbici]
 image:
-  feature: ciclabile.jpg
+  feature: bici.jpg
 lang: it
 ref: ciclabile
 ---
