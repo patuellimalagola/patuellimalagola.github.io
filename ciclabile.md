@@ -17,7 +17,8 @@ Invitiamo caldamente i residenti, le associazioni, le attività commerciali e tu
 <div id="eventi"></div>
 ### Eventi in programma    
 
-*DOMENICA 22 SETTEMBRE* - Biciclettata da Russi a Ravenna, con tappe a Godo e San Michele.    
+<strong>*DOMENICA 22 SETTEMBRE*</strong>    
+Biciclettata da Russi a Ravenna, con tappe a Godo e San Michele.    
 Una bella escursione in bici, aperta a tutti, per scoprire questo percorso ancora poco battuto. Ci sarà l'occasione di vedere la porzione esistente della ciclabile di San Michele, farci sapere la vostra opinione sul progetto e, per chi vuole, firmare la petizione.
 
 Orari e dettagli in fase di definizione! Saranno pubblicati su questa pagina. 
