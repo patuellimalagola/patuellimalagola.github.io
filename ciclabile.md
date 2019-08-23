@@ -17,13 +17,15 @@ Invitiamo caldamente i residenti, le associazioni, le attività commerciali e tu
 <div id="eventi"></div>
 ### Eventi in programma    
 
-<strong>*DOMENICA 22 SETTEMBRE*</strong>    
+<strong>*Domenica 22 Settembre 2019*</strong>    
 Biciclettata da Russi a Ravenna, con tappe a Godo e San Michele.    
-Una bella escursione in bici, aperta a tutti, per scoprire questo percorso ancora poco battuto. Ci sarà l'occasione di vedere la porzione esistente della ciclabile di San Michele, farci sapere la vostra opinione sul progetto e, per chi vuole, firmare la petizione.
+Una bella escursione in bicicletta, aperta a tutti, per scoprire questo percorso ancora poco battuto. Ci sarà l'occasione di vedere la porzione esistente della ciclabile di San Michele, esprimere la vostra opinione sul progetto e, per chi vuole, firmare la petizione.
 
-Orari e dettagli in fase di definizione! Saranno pubblicati su questa pagina. 
+Orari e dettagli in fase di definizione!    
 
-Questo evento è organizzato in collaborazione con [FIAB di Ravenna](https://www.fiabravenna.com/). Le associazioni e comitati locali sono invitati a contattarci entro il 7 settembre se interessati a partecipare all'evento!
+Questo evento è organizzato in collaborazione con [FIAB di Ravenna](https://www.fiabravenna.com/). Le associazioni e comitati locali interessati a prtecipare sono invitati a contattarci entro il 7 settembre!
+
+Questa giornata coincide anche la conclusione della [settimana europea della mobilità sostenibile](http://www.mobilityweek.eu/), a cui noi aderiamo, quindi quale migliore occasione per una escursione in bici?     
 
 
 ### Il progetto     
