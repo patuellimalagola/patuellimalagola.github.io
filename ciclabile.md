@@ -23,7 +23,7 @@ Una bella escursione in bicicletta, aperta a tutti, per scoprire questo percorso
 
 Orari e dettagli in fase di definizione!    
 
-Questo evento è organizzato in collaborazione con [FIAB di Ravenna](https://www.fiabravenna.com/). Le associazioni e comitati locali interessati a prtecipare sono invitati a contattarci entro il 7 settembre!
+Questo evento è organizzato in collaborazione con [FIAB di Ravenna](https://www.fiabravenna.com/). Le associazioni e comitati locali interessati a partecipare sono invitati a contattarci entro il 7 settembre!
 
 Questa giornata coincide anche la conclusione della [settimana europea della mobilità sostenibile](http://www.mobilityweek.eu/), a cui noi aderiamo, quindi quale migliore occasione per una escursione in bici?     
 
