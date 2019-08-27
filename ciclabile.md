@@ -39,7 +39,7 @@ Questo progetto è in fase di sviluppo in collaborazione con [FIAB di Ravenna](h
 <div id="petizione"></div>
 ### La petizione    
 È possibile firmare la petizione presso:    
-- [Bar Circolo Arci di San Michele](https://goo.gl/maps/16di1gTEre2G5o5V7), su Via Faentina, angolo Via bacchetta, a San Michele       
+- [Bar Circolo Arci di San Michele](https://goo.gl/maps/S6WgLUdQ8jMRhRNe6), su Via Faentina, angolo Via bacchetta, a San Michele     
 - [Bar Gelateria La Meta](https://goo.gl/maps/bKy9v27dhJhYzFcWA), in centro a Piangipane    
 - la sede di [CittAttiva di Ravenna](https://goo.gl/maps/D2RZ7GS9e2WEL2fSA), in Via Carducci 14 (vicino alla stazione dei treni) tutti i martedì sera dalle 20,30 alle 22,30      
 - <a href="#eventi">eventi</a> nel territorio    
