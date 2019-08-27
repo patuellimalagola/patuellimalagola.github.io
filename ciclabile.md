@@ -37,15 +37,16 @@ Si propone un collegamento ciclabile tra San Michele e Ravenna che sfrutti la vi
 Questo progetto è in fase di sviluppo in collaborazione con [FIAB di Ravenna](https://www.fiabravenna.com/). 
 
 <div id="petizione"></div>
-### La petizione
+### La petizione    
 È possibile firmare la petizione presso:    
-- la sede di [CittAttiva di Ravenna](https://goo.gl/maps/D2RZ7GS9e2WEL2fSA), in via Carducci 14 (vicino alla stazione dei treni) tutti i martedì sera dalle 20,30 alle 22,30     
-- [Bar Gelateria La Meta](https://goo.gl/maps/bKy9v27dhJhYzFcWA), in centro a Piangipane   
-- <a href="#eventi">eventi</a> del territorio    
+- [Bar Circolo Arci di San Michele](https://goo.gl/maps/16di1gTEre2G5o5V7), su Via Faentina, angolo Via bacchetta, a San Michele       
+- [Bar Gelateria La Meta](https://goo.gl/maps/bKy9v27dhJhYzFcWA), in centro a Piangipane    
+- la sede di [CittAttiva di Ravenna](https://goo.gl/maps/D2RZ7GS9e2WEL2fSA), in Via Carducci 14 (vicino alla stazione dei treni) tutti i martedì sera dalle 20,30 alle 22,30      
+- <a href="#eventi">eventi</a> nel territorio    
  
-In alternativa, potete [contattarci](/contatti) e prendere un appuntamento.
+In alternativa, potete [contattarci](/contatti) e prendere un appuntamento.    
 
-Possono firmare la petizione tutti i residenti nel Comune di Ravenna che abbiano compiuto 16 anni. Anche alcuni non residenti possono firmare la petizione, come previsto dallo [Statuto del Comune di Ravenna](http://www.comune.ra.it/Aree-Tematiche/Statuto-regolamenti-e-ordinanze/Lo-Statuto-del-Comune-di-Ravenna)
+Possono firmare la petizione tutti i residenti nel Comune di Ravenna che abbiano compiuto 16 anni. Anche alcuni non residenti possono firmare la petizione, come previsto dallo [Statuto del Comune di Ravenna](http://www.comune.ra.it/Aree-Tematiche/Statuto-regolamenti-e-ordinanze/Lo-Statuto-del-Comune-di-Ravenna).     
 
 
 ### Cronologia 
