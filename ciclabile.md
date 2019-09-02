@@ -18,19 +18,20 @@ Invitiamo caldamente i residenti, le associazioni, le attività commerciali e tu
 ### Eventi in programma    
 
 <strong>*Domenica 22 Settembre 2019*</strong>    
-Biciclettata da Russi a Ravenna, con tappe a Godo, San Michele e Fornace Zarattini. Si può partire da Russi o unirsi a Godo o San Michele o Fornace Zarattini.    
+Biciclettata da Russi a Ravenna, con tappe a Godo, San Michele e Fornace Zarattini. Si può partire da Russi o unirsi a Godo o San Michele.    
 Una bella escursione in bicicletta, aperta a tutti, per scoprire questo percorso ancora poco battuto. Ci sarà l'occasione di vedere la porzione esistente della ciclabile di San Michele, esprimere la vostra opinione sul progetto e firmare la petizione.
 
 
-h 10 partenza dalla stazione FS di Russi   
-h 10.30 ritrovo al Bar 200 di Godo   
-h 11.00 ritrovo al Circolo Endas di San Michele - rinfresco offerto dal Comitato Promotore per San Michele   
-h 11.30 ritrovo al Bar Via Vai di Fornace Zarattini   
-h 12 arrivo in Piazza del Popolo a Ravenna    
+h 10 partenza dalla [stazione FS di Russi](https://goo.gl/maps/28gTRTQ9e3JjTfsv8)   
+h 10.30 ritrovo al [Bar 200](https://goo.gl/maps/jCK35dCcxXNnZkEFA) di Godo   
+h 11.00 ritrovo al [Circolo Endas](https://goo.gl/maps/gkGexPRdgkbUDMfx7) di San Michele - rinfresco offerto dal [Comitato Promotore per San Michele](http://www.comune.ra.it/Aree-Tematiche/Decentramento/Area-di-Piangipane/Organismi-di-Partecipazione)   
+h 11.30 ritrovo al [Bar Via Vai](https://goo.gl/maps/ZhGZFoDRKeBxcifW7) di Fornace Zarattini   
+h 12 arrivo in [Piazza del Popolo](https://goo.gl/maps/X6JRgPyb6EM8PyKAA) a Ravenna    
 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=159XQ1WK6bAphcqrkgYGdfGaE5Nr1oUfH" width="640" height="480"></iframe>
 
+Per chi volesse tornare a Russi in treno con la bici c'è un treno ogni ora da Ravenna dalle 12.45 alle 21.45. Per informazioni visitare il [sito Trenitalia](https://www.trenitalia.com/).   
 
 Questo evento è organizzato in collaborazione con [FIAB di Ravenna](https://www.fiabravenna.com/).   
 
