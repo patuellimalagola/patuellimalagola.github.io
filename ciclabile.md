@@ -31,9 +31,9 @@ h 12 arrivo in [Piazza del Popolo](https://goo.gl/maps/X6JRgPyb6EM8PyKAA) a Rave
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=159XQ1WK6bAphcqrkgYGdfGaE5Nr1oUfH" width="640" height="480"></iframe>
 
-Nulla vieta di farsi anche il ritorno in bici - Ma per chi vuole, c'è possibilità di prendere un treno regionale con la propria bicicletta per raggiungere la partenza o per tornare a casa al termine dell'evento. Si consiglia di consultare il [sito Trenitalia](https://www.trenitalia.com/) per gli orari aggiornati e rivolgersi in biglietteria per tempo per acquistare il supplemento per la bicicletta. 
+Nulla vieta di farsi anche il ritorno in bici - Ma per chi vuole, c'è possibilità di prendere un treno regionale con la propria bicicletta per raggiungere la partenza o per tornare a casa al termine dell'evento. Si consiglia di consultare il [sito Trenitalia](https://www.trenitalia.com/) per gli orari aggiornati. Il supplemento bici si può acquistare anche alle biglietterie automatiche e vale per tutto il giorno, ma se si fa solo una tratta conviene prendere un altro biglietto singolo invece del supplemento.
 - Per i ravennati che volessero raggiungere la partenza: c'è un treno che parte alle 9.45 e arriva a Russi alle 9.58.    
-- Per i russiani che volessero tornare a casa: c'è un treno ogni ora da Ravenna dalle 12.45 alle 21.45 (perché non approfittarne e farsi un giretto a Ravenna?).    
+- Per i russiani che volessero tornare a casa dopo l'evento: c'è un treno ogni ora da Ravenna dalle 12.45 alle 21.45 (perché non approfittarne e farsi un giretto a Ravenna?).    
 - Per Godo: c'è solo il servizio in partenza da Ravenna alle 14.43, con arrivo a Godo alle 14.51.    
 
 Questo evento è organizzato in collaborazione con [FIAB di Ravenna](https://www.fiabravenna.com/).   
