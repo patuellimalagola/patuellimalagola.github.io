@@ -2,7 +2,7 @@
 layout: page
 permalink: /ciclabile
 title: Società Agricola Patuelli Malagola | Ciclabile San Michele
-header: Una ciclabile per San Michele
+header: San Michele in bici
 description: Scopri il nostro progetto di completare il collegamento ciclabile Ravenna - San Michele.
 tags: [territorio, mobilità, sostenibile, sostenibilità, bicicletta, ciclabili, ambiente, azienda, agricola, Ravenna, San Michele, Romagna, Emilia-Romagna, sanmicheleinbici]
 image:
