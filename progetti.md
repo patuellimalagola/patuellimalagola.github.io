@@ -24,7 +24,8 @@ Molti fabbricati rurali nelle nostre campagne sono abbandonati, perchè di diffi
 ### Mobilità sostenibile     
 <img src="/images/segnaleciclabile.jpg" style="width:110px;height:110px;margin:0px 20px 0px 0px" align="left"> 
 Ridurre le emissioni è essenziale per contenere il surriscaldamento globale. Vorremmo stimolare l'uso di mezzi di trasporto sostenibili, come la bicicletta, creando e supportando infrastrutture adeguate nel territorio. 
-Siamo promotori e stiamo attivamente lavorando al progetto della [ciclabile di San Michele](/ciclabile).
+Siamo promotori e stiamo attivamente lavorando al progetto ["San Michele in bici"](/ciclabile).   
+Abbiamo partecipato al tavolo sulla mobilità sostenibile della Camera di Commercio di Ravenna e partecipiamo all'iniziativa ["È tempo di muoversi"](https://www.ra.camcom.gov.it/news-eventi/20-09-2019-e-tempo-di-muoversi) per la promozione degli spostamenti sostenibili casa-lavoro del 20 settembre 2019, in occasione della [Settimana Europea della Mobilità](http://www.mobilityweek.eu/).
 Supportiamo anche il progetto di Sara, residente di San Michele, di estendere il collegamento di autobus urbano fino San Michele.   
 
 <br/><br/>   
