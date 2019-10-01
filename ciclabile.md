@@ -17,13 +17,14 @@ Invitiamo caldamente i residenti, le associazioni, le attività commerciali e tu
 <div id="eventi"></div>
 ### Eventi in programma    
 
-<strong>*PROSSIMI EVENTI A OTTOBRE 2019*</strong>    
-Stiamo ancora definendo i dettagli dei prossimi eventi nel territorio, torna a visitare questa pagina!    
+<strong>*DOMENICA 27 OTTOBRE*</strong>    
+Segnati la data! Save the date!   
+Saremo alla Sagra di San Michele, stiamo definendo i dettagli, torna a visitare questa pagina per il programma completo!    
 
 <div id="progetto"></div>
 ### Il progetto     
 
-Si propone un collegamento ciclabile tra San Michele e Ravenna che sfrutti la viabilità esistente di Via fosso delle oche. I componenti principali del progetto sono rappresentati in questa grafica: 
+Si propone un collegamento ciclabile tra San Michele e Ravenna che sfrutti la viabilità esistente di Via Fosso delle oche. I componenti principali del progetto sono rappresentati in questa grafica: 
 
 <img src="/images/mappaciclabile.jpg" alt="Mappa ciclabile San Michele" style="width:100%" align="middle">
 <br/><br/>
@@ -31,7 +32,7 @@ Stiamo lavorando a questo progetto in collaborazione con [FIAB di Ravenna](https
 
 <div id="petizione"></div>
 ### La petizione    
-Stiamo raccogliendo firme per il completamento del percorso ciclabile Ravenna - San Michele.    
+Stiamo raccogliendo firme per il completamento del percorso ciclabile Ravenna - San Michele. Il nostro obiettivo sono 400 firme entro la fine del 2019.    
 È possibile firmare la petizione presso:    
 - [Bar Circolo Arci di San Michele](https://goo.gl/maps/S6WgLUdQ8jMRhRNe6), su Via Faentina, angolo Via bacchetta        
 - [Circolo Endas di San Michele](https://goo.gl/maps/GScWo2FvyxvhRnaK9), su via Faentina, angolo Via casona        
