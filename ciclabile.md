@@ -26,7 +26,7 @@ Stiamo definendo i dettagli, torna a visitare questa pagina per il programma com
 <div id="progetto"></div>
 ### Il progetto     
 
-Si propone un collegamento ciclabile tra San Michele e Ravenna che sfrutti la viabilità esistente di Via Fosso delle oche. I componenti principali del progetto sono rappresentati in questa grafica: 
+Proponiamo un collegamento ciclabile tra San Michele e Ravenna che sfrutti la viabilità esistente di Via Fosso delle oche. I componenti principali del progetto sono rappresentati in questa grafica: 
 
 <img src="/images/mappaciclabile.jpg" alt="Mappa ciclabile San Michele" style="width:100%" align="middle">
 <br/><br/>
