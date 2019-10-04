@@ -18,8 +18,10 @@ Invitiamo caldamente i residenti, le associazioni, le attività commerciali e tu
 ### Eventi in programma    
 
 <strong>*DOMENICA 27 OTTOBRE*</strong>    
-Segnati la data! Save the date!   
-Saremo alla Sagra di San Michele, stiamo definendo i dettagli, torna a visitare questa pagina per il programma completo!    
+Andiamo alla Sagra di San Michele!    
+Pedalata da Ravenna a San Michele con pranzo alla Sagra. Aperta a tutti.   
+Partenza h 11 da Piazza del Popolo con Fiab Ravenna. Ritorno libero.     
+Stiamo definendo i dettagli, torna a visitare questa pagina per il programma completo!    
 
 <div id="progetto"></div>
 ### Il progetto     
