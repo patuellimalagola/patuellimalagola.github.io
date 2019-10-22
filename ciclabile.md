@@ -58,7 +58,7 @@ Possono firmare la petizione tutti i residenti nel Comune di Ravenna che abbiano
 Sandra va in bicicletta dalla sede legale aziendale al podere Manzone (e ritorna con 7 kg di ceci in spalla), e inizia a chiedersi perchè non c'è un collegamento ciclabile completo per raggiungere San Michele.
 <br/><br/>
 <strong> Marzo 2019 </strong>    
-Primi scambi con il gruppo FIAB di Ravenna, inizia a delinearsi il progetto.
+Primi scambi con il gruppo FIAB di Ravenna, inizia a delinearsi il progetto. Si prendono in esame le cartografie e i progetti precedenti di viabilità ciclabile per San Michele.
 <br/><br/>
 <strong> 9 Aprile 2019 </strong>    
 Confronto con i residenti in occasione dell'incontro 'Cronache dal bar' promosso dal Resto del Carlino.    
