@@ -105,7 +105,7 @@ Biciclettata dimostrativa da Russi a Ravenna, con fermate a Godo, San Michele e 
 In questa occasione 20 persone hanno firmato la petizione. Questo evento è stato registrato tra le iniziative della [settimana europea della mobilità sostenibile](http://www.mobilityweek.eu/).
 <img src="/images/biciclettata.png" alt="" style="width:100%" align="middle">
 <br/><br/>
-<strong> 27 ottobre 2019 </strong> 
+<strong> 27 ottobre 2019 </strong>     
 Andiamo in bici alla Sagra di San Michele! Biciclettata da Ravenna a San Michele, con pranzo alla sagra.      
 <img src="/images/sagrasanmichele.png" alt="Locandina evento Sagra San Michele" style="width:100%" align="middle">
 <br/><br/>
