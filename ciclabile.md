@@ -13,21 +13,14 @@ ref: ciclabile
 
 Siamo promotori del completamento di un collegamento ciclabile tra Ravenna e San Michele. Scopri di più su questo <a href="#progetto">progetto</a> e su come firmare la <a href="#petizione">petizione</a>.   
 
-Invitiamo caldamente i residenti, le associazioni, le attività commerciali e tutti gli interessati a [contattarci](/contatti) con i loro commenti!    
+Invitiamo caldamente i residenti, le associazioni, le attività commerciali e tutti gli interessati a [contattarci](/contatti) con i loro commenti! Tutti i suggerimenti costruttivi sono i benvenuti.    
+
+
 <div id="eventi"></div>
 ### Eventi in programma    
 
-<strong>*DOMENICA 27 OTTOBRE*</strong>    
-Andiamo in bici alla Sagra di San Michele! Evento aperto a tutti. Famiglie con bambini sono le benvenute.       
-
-<img src="/images/sagrasanmichele.png" alt="Locandina evento Sagra San Michele" style="width:100%" align="middle">
-<br/><br/>
-Possibilità per i partecipanti di aderire a menù convenzionato per il pranzo alla sagra! Cappelletti, piadina, acqua, vino, dolce.   
-
-Tragitto in bicicletta di poco meno di 9 km, su strada e sterrato. Il percorso:     
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BKCfiNvRe5cKtTMh80Prswh0zIMEQVX1" width="640" height="480"></iframe>   
-<br/><br/>
-
+<strong>*PROSSIMO EVENTO - DATA DA DEFINIRSI*</strong>    
+Torna a controllare questa pagina per i prossimi eventi in programma. Se hai un evento in programma a novembre o dicembre 2019 in zona San Michele, Fornace Zarattini o Ravenna, puoi contattarci per discutere di collaborazioni!    
 
 <div id="progetto"></div>
 ### Il progetto     
@@ -38,9 +31,35 @@ Proponiamo un collegamento ciclabile tra San Michele e Ravenna che sfrutti la vi
 <br/><br/>
 Stiamo lavorando a questo progetto in collaborazione con [FIAB di Ravenna](https://www.fiabravenna.com/). 
 
+<div id="motivazioni"></div>
+### Motivazioni e approfondimenti
+
+Al momento il tragitto San Michele - Ravenna non è praticabile in bicicletta. O meglio, lo è ma non è sicuro. È necessario percorrere tratti sulla via Faentina, che è molto trafficata. I flussi medi di veicoli nel 2018 sono di 15,000 veicoli al giorno, inclusi molti mezzi pesanti (i dati aggiornati e dettagliati sono verificabili a [questo sito](https://servizissiir.regione.emilia-romagna.it/FlussiMTS/) (postazione numero 655). Punti particolarmente critici per la sicurezza del ciclista sono gli imbocchi dell'autostrada, la rotonda di San Michele e i vari imbocchi della zona di Fornace Zarattini.  
+
+Abbiamo impostato il progetto come indicato sopra tenendo a mente queste priorità:
+- garantire la sicurezza dei ciclisti e pedoni
+- limitare esposizione a inquinamento dell'aria (gas di scarico) e inquinamento acustico
+- sfruttare la viabilità esistente
+- ridurre impermeabilizzazione suoli verdi
+- ridurre i costi di realizzazione
+- limitare la necessità di espropri o concessioni, soprattutto da parte di privati
+- limitare l'impatto negativo su privati
+- sfruttare infrastrutture esistenti, anche quelle che al momento risultano poco utilizzate (es. sottopasso di San Michele)
+- collegarsi alle piste ciclabili già esistenti e in progetto, anche nei comuni limitrofi
+- venire incontro alle esigenze dei residenti
+
+Ogni scelta fatta ha, ovviamente, i suoi vantaggi e svantaggi. Le critiche costruttive sono ben accette!
+
+Ad oggi, la quasi totalità dei residenti con cui abbiamo parlato si è espressa positivamente riguardo il progetto proposto.
+
+Un residente di San Michele ha invece espresso la volontà di proporre la realizzazione di una pista ciclabile sulla via Faentina, ulteriori informazioni a [questo link](https://www.facebook.com/ciclabileasmichele/).
+
+Siamo anche a conoscenza che nel 2016 era stata avviata una raccolta firme per un progetto che prevedeva la realizzazione di una pista ciclabile per San Michele lungo la via Faentina. Siamo stati informati che questo progetto non è stato approvato dall'amministrazione comunale. Invitiamo chi fosse stato coinvolto in questa iniziativa, o chi volesse riproporla, a contattarci. Possiamo dare visibilità e lo scambio di informazioni è sempre utile. Tutte le iniziative sono sintomo che l'attenzione su questo tema della mobilità ciclabile c'è!
+
+
 <div id="petizione"></div>
 ### La petizione    
-Stiamo raccogliendo firme per il completamento del percorso ciclabile Ravenna - San Michele. Il nostro obiettivo sono 400 firme entro la fine del 2019.    
+Stiamo raccogliendo firme per il completamento del percorso ciclabile Ravenna - San Michele secondo il progetto indicato sopra. Il nostro obiettivo sono 400 firme entro la fine del 2019.    
 È possibile firmare la petizione presso:    
 - [Bar Circolo Arci di San Michele](https://goo.gl/maps/S6WgLUdQ8jMRhRNe6), su Via Faentina, angolo Via bacchetta        
 - [Circolo Endas di San Michele](https://goo.gl/maps/GScWo2FvyxvhRnaK9), su via Faentina, angolo Via casona        
@@ -51,7 +70,6 @@ Stiamo raccogliendo firme per il completamento del percorso ciclabile Ravenna - 
 In alternativa, potete [contattarci](/contatti) e prendere un appuntamento.    
 
 Possono firmare la petizione tutti i residenti nel Comune di Ravenna che abbiano compiuto 16 anni. Anche alcuni non residenti possono firmare la petizione, come previsto dallo [Statuto del Comune di Ravenna](http://www.comune.ra.it/Aree-Tematiche/Statuto-regolamenti-e-ordinanze/Lo-Statuto-del-Comune-di-Ravenna).     
-
 
 ### Cronologia 
 <strong> Agosto 2018 </strong>    
@@ -87,4 +105,9 @@ Biciclettata dimostrativa da Russi a Ravenna, con fermate a Godo, San Michele e 
 In questa occasione 20 persone hanno firmato la petizione. Questo evento è stato registrato tra le iniziative della [settimana europea della mobilità sostenibile](http://www.mobilityweek.eu/).
 <img src="/images/biciclettata.png" alt="" style="width:100%" align="middle">
 <br/><br/>
+<strong> 27 ottobre 2019 </strong> 
+Andiamo in bici alla Sagra di San Michele! Biciclettata da Ravenna a San Michele, con pranzo alla sagra.      
+<img src="/images/sagrasanmichele.png" alt="Locandina evento Sagra San Michele" style="width:100%" align="middle">
+<br/><br/>
+In questa occasione 111 persone hanno firmato la petizione! Grazie alla collaborazione del Comitato Promotore per San Michele, in particolare Gian Piero Vallone.  
 
