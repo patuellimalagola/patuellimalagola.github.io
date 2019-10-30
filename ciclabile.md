@@ -34,27 +34,29 @@ Stiamo lavorando a questo progetto in collaborazione con [FIAB di Ravenna](https
 <div id="motivazioni"></div>
 ### Motivazioni e approfondimenti
 
-Al momento il tragitto San Michele - Ravenna non è praticabile in bicicletta. O meglio, lo è ma non è sicuro. È necessario percorrere tratti sulla via Faentina, che è molto trafficata. I flussi medi di veicoli nel 2018 sono di 15,000 veicoli al giorno, inclusi molti mezzi pesanti (i dati aggiornati e dettagliati sono verificabili a [questo sito](https://servizissiir.regione.emilia-romagna.it/FlussiMTS/) (postazione numero 655). Punti particolarmente critici per la sicurezza del ciclista sono gli imbocchi dell'autostrada, la rotonda di San Michele e i vari imbocchi della zona di Fornace Zarattini.  
+Al momento il tragitto San Michele - Ravenna non è praticabile in bicicletta. O meglio, lo è, ma non è sicuro. È necessario percorrere tratti sulla via Faentina, che è molto trafficata. I flussi medi di veicoli nel 2018 sono stati di 15,000 veicoli al giorno, inclusi molti mezzi pesanti - i dati aggiornati e dettagliati sono verificabili a [questo sito](https://servizissiir.regione.emilia-romagna.it/FlussiMTS/) (postazione numero 655). Punti particolarmente critici per la sicurezza del ciclista sono lo sbocco dell'autostrada, la rotonda di San Michele e i vari incroci e attraversamenti della zona di Fornace Zarattini.  
 
-Abbiamo impostato il progetto come indicato sopra tenendo a mente queste priorità:
+Abbiamo impostato il progetto tenendo a mente queste priorità:
 - garantire la sicurezza dei ciclisti e pedoni
-- limitare esposizione a inquinamento dell'aria (gas di scarico) e inquinamento acustico
-- sfruttare la viabilità esistente
-- ridurre impermeabilizzazione suoli verdi
+- limitare per quanto possibile l'esposizione a inquinamento dell'aria (da gas di scarico) e inquinamento acustico
+- sfruttare la viabilità pubblica già esistente
+- limitare l'impermeabilizzazione del suolo
 - ridurre i costi di realizzazione
 - limitare la necessità di espropri o concessioni, soprattutto da parte di privati
-- limitare l'impatto negativo su privati
-- sfruttare infrastrutture esistenti, anche quelle che al momento risultano poco utilizzate (es. sottopasso di San Michele)
-- collegarsi alle piste ciclabili già esistenti e in progetto, anche nei comuni limitrofi
-- venire incontro alle esigenze dei residenti
+- sfruttare le infrastrutture esistenti, anche quelle che al momento risultano poco utilizzate (tra cui il sottopasso ciclopedonale di San Michele)
+- collegarsi alle piste ciclabili già esistenti e in progetto, anche nel vicino Comune di Russi
+- privilegiare le soluzioni ad elevata fattibilità
+- rispondere puntualmente ed efficacemente ad una esigenza molto sentita dai residenti
 
-Ogni scelta fatta ha, ovviamente, i suoi vantaggi e svantaggi. Le critiche costruttive sono ben accette!
+Su queste basi abbiamo impostato il progetto, come indicato <a href="#progetto">sopra</a>. Ogni scelta fatta ha, ovviamente, i suoi vantaggi e svantaggi. Per chi volesse approfondire gli aspetti tecnici del progetto, invitiamo a contattarci.
 
-Ad oggi, la quasi totalità dei residenti con cui abbiamo parlato si è espressa positivamente riguardo il progetto proposto.
+Ad oggi, la quasi totalità dei residenti di San Michele con cui abbiamo parlato si è espressa positivamente riguardo il progetto proposto. Anche diversi residenti e associazioni di Russi, il Comune limitrofo, si sono espressi positivamente.
 
-Un residente di San Michele ha invece espresso la volontà di proporre la realizzazione di una pista ciclabile sulla via Faentina, ulteriori informazioni a [questo link](https://www.facebook.com/ciclabileasmichele/).
+Un residente di San Michele, Tiziano, ha invece espresso la volontà di voler realizzare una pista ciclabile sulla via Faentina, ulteriori informazioni a [questo link](https://www.facebook.com/ciclabileasmichele/).
 
-Siamo anche a conoscenza che nel 2016 era stata avviata una raccolta firme per un progetto che prevedeva la realizzazione di una pista ciclabile per San Michele lungo la via Faentina. Siamo stati informati che questo progetto non è stato approvato dall'amministrazione comunale. Invitiamo chi fosse stato coinvolto in questa iniziativa, o chi volesse riproporla, a contattarci. Possiamo dare visibilità e lo scambio di informazioni è sempre utile. Tutte le iniziative sono sintomo che l'attenzione su questo tema della mobilità ciclabile c'è!
+Siamo anche a conoscenza che nel 2016 era stata avviata una raccolta firme per un progetto che prevedeva la realizzazione di una pista ciclabile per San Michele proseguendo la ciclabile di Fornace Zarattini lungo la via Faentina. Siamo in contatto con Nicoletta, prima firmataria di questa petizione, che ci ha gentilmente informato sulla natura di questa iniziativa e le premesse da cui era partita. Questa petizione è stata consegnata a suo tempo ma la richiesta non è stato accolta dall'amministrazione comunale e quindi, a quanto ci risulta, non è mai stata inserita in progetto. Invitiamo chi altri fosse stato coinvolto in questa iniziativa, o chi volesse riproporla, a contattarci. Possiamo dare visibilità e lo scambio di informazioni è sempre utile. 
+
+Ben vengano tutte le iniziative in questo senso - sono sintomo che l'attenzione è alta sul tema della mobilità ciclabile!
 
 
 <div id="petizione"></div>
