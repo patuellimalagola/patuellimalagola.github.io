@@ -34,7 +34,7 @@ Stiamo lavorando a questo progetto in collaborazione con [FIAB di Ravenna](https
 <div id="motivazioni"></div>
 ### Motivazioni e approfondimenti
 
-Al momento il tragitto San Michele - Ravenna non è praticabile in bicicletta. O meglio, lo è, ma non è sicuro. È necessario percorrere tratti sulla via Faentina, che è molto trafficata. I flussi medi di veicoli nel 2018 sono stati di 15,000 veicoli al giorno, inclusi molti mezzi pesanti - i dati aggiornati e dettagliati sono verificabili a [questo sito](https://servizissiir.regione.emilia-romagna.it/FlussiMTS/) (postazione numero 655). Punti particolarmente critici per la sicurezza del ciclista sono lo sbocco dell'autostrada, la rotonda di San Michele e i vari incroci e attraversamenti della zona di Fornace Zarattini.  
+Al momento il tragitto San Michele - Ravenna non è praticabile in bicicletta. O meglio, lo è, ma non è sicuro. È necessario percorrere tratti sulla via Faentina, che è molto trafficata. I flussi medi di veicoli nel 2018 sono stati di 15,000 veicoli al giorno, inclusi molti mezzi pesanti - i dati aggiornati e dettagliati sono verificabili a [questo sito](https://servizissiir.regione.emilia-romagna.it/FlussiMTS/) (postazione numero 655). Punti particolarmente critici per la sicurezza del ciclista sono lo sbocco dell'autostrada, la rotonda di San Michele e i vari incroci e attraversamenti in prossimità di Fornace Zarattini.  
 
 Abbiamo impostato il progetto tenendo a mente queste priorità:
 - garantire la sicurezza dei ciclisti e pedoni
@@ -50,18 +50,18 @@ Abbiamo impostato il progetto tenendo a mente queste priorità:
 
 Su queste basi abbiamo impostato il progetto, come indicato <a href="#progetto">sopra</a>. Ogni scelta fatta ha, ovviamente, i suoi vantaggi e svantaggi. Per chi volesse approfondire gli aspetti tecnici del progetto, invitiamo a contattarci.
 
-Ad oggi, la quasi totalità dei residenti di San Michele con cui abbiamo parlato si è espressa positivamente riguardo il progetto proposto. Anche diversi residenti e associazioni di Russi, il Comune limitrofo, si sono espressi positivamente.
+Ad oggi, la quasi totalità dei residenti di San Michele con cui abbiamo parlato si è espressa positivamente riguardo il progetto proposto. Anche diversi residenti e associazioni di Russi, il Comune limitrofo, si sono dimostrati molto interessati al progetto, visto che permetterebbe loro di raggiungere Ravenna, e ai ravennati di raggiungere Godo/Russi.
 
 Un residente di San Michele, Tiziano, ha invece espresso la volontà di voler realizzare una pista ciclabile sulla via Faentina, ulteriori informazioni a [questo link](https://www.facebook.com/ciclabileasmichele/).
 
-Siamo anche a conoscenza che nel 2016 era stata avviata una raccolta firme per un progetto che prevedeva la realizzazione di una pista ciclabile per San Michele proseguendo la ciclabile di Fornace Zarattini lungo la via Faentina. Siamo in contatto con Nicoletta, prima firmataria di questa petizione, che ci ha gentilmente informato sulla natura di questa iniziativa e le premesse da cui era partita. Questa petizione è stata consegnata a suo tempo ma la richiesta non è stato accolta dall'amministrazione comunale e quindi, a quanto ci risulta, non è mai stata inserita in progetto. Invitiamo chi altri fosse stato coinvolto in questa iniziativa, o chi volesse riproporla, a contattarci. Possiamo dare visibilità e lo scambio di informazioni è sempre utile. 
+Siamo anche a conoscenza che nel 2016 era stata avviata una raccolta firme per un progetto che prevedeva la realizzazione di una pista ciclabile per San Michele proseguendo la ciclabile di Fornace Zarattini, lungo la via Faentina. Siamo in contatto con Nicoletta, prima firmataria di questa petizione, che ci ha gentilmente informato sulla natura di questa iniziativa e le premesse da cui era partita. Questa petizione è stata consegnata a suo tempo ma la richiesta non è stato accolta dall'amministrazione comunale e quindi, a quanto ci risulta, non è mai stata inserita in progetto. Invitiamo chi altri fosse stato coinvolto in questa iniziativa, o chi volesse riproporla, a contattarci. Possiamo dare visibilità e lo scambio di informazioni è sempre utile. 
 
 Ben vengano tutte le iniziative in questo senso - sono sintomo che l'attenzione è alta sul tema della mobilità ciclabile!
 
 
 <div id="petizione"></div>
 ### La petizione    
-Stiamo raccogliendo firme per il completamento del percorso ciclabile Ravenna - San Michele secondo il progetto indicato sopra. Il nostro obiettivo sono 400 firme entro la fine del 2019.    
+Stiamo raccogliendo firme per il completamento del percorso ciclabile Ravenna - San Michele secondo il progetto indicato sopra. A novembre 2019 abbiamo già superato le 400 firme, che rappresentava il nostro obiettivo iniziale. Entro la fine del 2019 vogliamo raggiungere 500 firme e chiudere la raccolta firme, se non hai ancora firmato aiutaci a raggiungere questo traguardo!       
 È possibile firmare la petizione presso:    
 - [Bar Circolo Arci di San Michele](https://goo.gl/maps/S6WgLUdQ8jMRhRNe6), su Via Faentina, angolo Via bacchetta        
 - [Circolo Endas di San Michele](https://goo.gl/maps/GScWo2FvyxvhRnaK9), su via Faentina, angolo Via casona        
@@ -112,4 +112,6 @@ Andiamo in bici alla Sagra di San Michele! Biciclettata da Ravenna a San Michele
 <img src="/images/sagrasanmichele.png" alt="Locandina evento Sagra San Michele" style="width:100%" align="middle">
 <br/><br/>
 In questa occasione 111 persone hanno firmato la petizione! Grazie alla collaborazione del Comitato Promotore per San Michele, in particolare Gian Piero Vallone.  
-
+<br/><br/>
+<strong> 14 novembre 2019 </strong>     
+Abbiamo superato le 400 firme! Il nuovo obiettivo è stabilito a 500 firme entro la fine del 2019.   
