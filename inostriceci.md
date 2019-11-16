@@ -35,6 +35,6 @@ Prendi la quantità che vuoi, anche solo 100 g per 50 centesimi se li vuoi prova
 
 Se vuoi rispettare l'ambiente, porta una borsina in tessuto o un contenitore di vetro per trasportare i tuoi ceci.   
 
-*Fino ad esaurimento scorte! Controlla questo sito o il nostro profilo Instagram per aggiornamenti su date/orari.*
+*Fino ad esaurimento scorte! Controlla questo sito o il nostro [profilo Instagram](https://www.instagram.com/patuellimalagola/) per aggiornamenti su date/orari.*
 
 
