@@ -15,8 +15,7 @@ Vieni ad acquistare i nostri ceci! Sono belli, buoni, raccolti a luglio 2019, co
 
 Ore 10 - 16    
 
-- Domenica 17 Novembre (in anteprima!)    
-- Sabato 23 Novembre   
+- Domenica 17 Novembre (in anteprima!)      
 - Sabato 30 Novembre   
 - Sabato 7 Dicembre   
 - Sabato 14 Dicembre   
