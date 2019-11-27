@@ -33,14 +33,14 @@ Supportiamo anche il progetto di Sara, residente di San Michele, di estendere il
 
 ### Vendita di prodotti    
 <img src="/images/sellproduce.jpg" style="width:110px;height:110px;margin:0px 20px 0px 0px" align="left"> 
-La grande distribuzione ha creato tanti vantaggi, ma ha anche creato un distacco tra il consumatore e il produttore. Vorremmo allestire uno spaccio aziendale per la vendita diretta dei nostri prodotti, trasformati e non, in collaborazione con altri produttori locali.
+La grande distribuzione ha creato tanti vantaggi, ma ha anche creato un distacco tra il consumatore e il produttore. Abbiamo iniziato a fare [vendita diretta](/venditadiretta) dei nostri prodotti. In futuro vorremmo allestire uno spaccio aziendale per la vendita di prodotti, trasformati e non, anche in collaborazione con altri produttori locali.  
 <br/><br/>  
 
 ---
 
 ### Divulgazione   
 <img src="/images/semina.jpg" style="width:110px;height:110px;margin:0px 20px 0px 0px" align="left"> 
-Siamo tutti bombardati di informazioni, spesso contrastanti, su ciò che mangiamo. Per chi non è del mestiere può essere difficile districare l'informazione dalla disinformazione. Vorremmo lanciare un [blog](/blog) per fare divulgazione su temi del mondo agricolo di interesse sia per i consumatori sia per chi si sta approcciando al mestiere.
+Siamo tutti bombardati di informazioni, spesso contrastanti, su ciò che mangiamo. Per chi non è del mestiere può essere difficile districare l'informazione dalla disinformazione. Abbiamo iniziato a fare divulgazione agricola per il consumatore sul nostro canale [Instagram](https://www.instagram.com/patuellimalagola/). Vorremmo anche lanciare un [blog](/blog) per fare approfondimenti più mirati.
 <br/><br/> 
 
 ---
