@@ -41,7 +41,8 @@ Grano o Erba Medica - un campione in omaggio con l'acquisto di ceci, in alternat
 
 Pagamento?   
 
-Contanti oppure [PayPal](https://www.paypal.me/patuellimalagola) oppure [Satispay](https://tag.satispay.com/patuellimalagola)   
+Contanti oppure [PayPal](https://www.paypal.me/patuellimalagola) oppure [Satispay](https://tag.satispay.com/patuellimalagola).    
+All'acquisto viene emessa regolare ricevuta fiscale.     
 
 È tutto?    
 
