@@ -38,7 +38,7 @@ Presso il nostro 'Podere Manzone', a circa 6 km da Ravenna, tra Fornace Zarattin
 Prezzi?    
 
 Ceci - 5 euro/kg    
-Grano o Erba Medica - un campione in omaggio con l'acquisto di ceci, in alternativa 2 euro/kg   
+Grano o Erba Medica - un campione in omaggio con l'acquisto di ceci, in alternativa 3 euro/kg   
 
 Pagamento?   
 
