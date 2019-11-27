@@ -16,9 +16,10 @@ Vieni ad acquistare i nostri ceci! Sono belli, buoni, raccolti a luglio 2019, co
 Ore 10 - 16    
 
 - Domenica 17 Novembre (in anteprima!)      
-- Sabato 30 Novembre   
 - Sabato 7 Dicembre   
+- Domenica 8 Dicembre
 - Sabato 14 Dicembre   
+- Domenica 15 Dicembre   
 
 
 Presso il nostro 'Podere Manzone', a circa 6 km da Ravenna, tra Fornace Zarattini e San Michele (ingresso da via Faentina):

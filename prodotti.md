@@ -11,7 +11,9 @@ lang: it
 ref: products
 ---
 
-Il nostro piano colturale cambia ogni anno, a seconda delle esigenze del terreno e della richiesta del mercato. I nostri prodotti vengono tutti conferiti a cooperative, ma abbiamo in progetto di sviluppare la vendita diretta al pubblico sia di prodotti grezzi che trasformati.   
+Se sei interessato all'acquisto di prodotti, visita [questa pagina](/venditadiretta).   
+
+Il nostro piano colturale cambia ogni anno, a seconda delle esigenze del terreno e della richiesta del mercato. I nostri prodotti al momento vengono tutti conferiti a cooperative, ma abbiamo iniziato a sviluppare la vendita diretta al pubblico.    
 
 Nella campagna 2018-2019, abbiamo in produzione: 
 
@@ -55,7 +57,7 @@ L'erba medica ([Medicago sativa](http://www.agraria.org/coltivazionierbacee/erba
 
 Coltiviamo la varietà Gea. Il seme viene conferito a [Continental Semences](http://www.continentalsemences.com/).
 
-Curiosità: l'erba medica non è tradizionalmente usata per l'alimentazione umana, ma c'è chi non resiste e [si mangia i suoi germogli](https://alivebynature.com/the-right-way-to-eat-alfalfa-sprouts/).
+Curiosità: l'erba medica non è tradizionalmente usata per l'alimentazione umana, ma [i germogli si possono mangiare e sono molto salutari](https://alivebynature.com/the-right-way-to-eat-alfalfa-sprouts/)!
   
 ---   
 
