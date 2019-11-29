@@ -19,8 +19,9 @@ Invitiamo caldamente i residenti, le associazioni, le attività commerciali e tu
 <div id="eventi"></div>
 ### Eventi in programma    
 
-<strong>*PROSSIMO EVENTO - DATA DA DEFINIRSI*</strong>    
-Torna a controllare questa pagina per i prossimi eventi in programma. Se hai un evento in programma a novembre o dicembre 2019 in zona San Michele, Fornace Zarattini o Ravenna, puoi contattarci per discutere di collaborazioni!    
+<strong>*DOMENICA 15 DICEMBRE*</strong>    
+Evento di conclusione raccolta firme.   
+Segnati la data, dettagli a breve!  
 
 <div id="progetto"></div>
 ### Il progetto     
@@ -67,7 +68,8 @@ Stiamo raccogliendo firme per il completamento del percorso ciclabile Ravenna - 
 - [Circolo Endas di San Michele](https://goo.gl/maps/GScWo2FvyxvhRnaK9), su via Faentina, angolo Via casona        
 - [Bar Gelateria La Meta](https://goo.gl/maps/bKy9v27dhJhYzFcWA), in centro a Piangipane    
 - la sede di [CittAttiva di Ravenna](https://goo.gl/maps/D2RZ7GS9e2WEL2fSA), in Via Carducci 14 (vicino alla stazione dei treni) tutti i martedì sera dalle 20,30 alle 22,30      
-- <a href="#eventi">eventi</a> nel territorio    
+- <a href="#eventi">eventi</a> nel territorio  
+- il nostro Podere Manzone nelle giornate dedicate alla [vendita diretta](/venditadiretta)  
  
 In alternativa, potete [contattarci](/contatti) e prendere un appuntamento.    
 
