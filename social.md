@@ -2,7 +2,7 @@
 layout: page
 permalink: /social
 title: Società Agricola Patuelli Malagola | Benvenuti sul nostro sito
-header: Benvenuti sul sito
+header: Benvenuti sul nostro sito
 description:
 tags: [social, sito]
 image:
