@@ -15,7 +15,7 @@ Avete mai provato a fare i germogli in casa? È semplicissimo!
 
 Ecco qui il procedimento base:   
 
-<img src="/images/fareigermogli.png" alt="Come fare i germogli" style="width:100%" align="middle">
+<img src="/images/fareigermogli.jpg" alt="Come fare i germogli" style="width:100%" align="middle">
 <br/><br/>
 
 Questo metodo può essere applicato a tutti i germogli, inclusa l'erba medica.    
