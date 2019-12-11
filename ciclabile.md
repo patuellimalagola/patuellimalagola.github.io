@@ -20,8 +20,11 @@ Invitiamo caldamente i residenti, le associazioni, le attività commerciali e tu
 ### Eventi in programma    
 
 <strong>*DOMENICA 15 DICEMBRE*</strong>    
-Evento di conclusione raccolta firme.   
-Segnati la data, dettagli a breve!  
+Evento di conclusione della raccolta firme. Tutti i nostri clienti e collaboratori sono cordialmente invitati! Vieni a scoprire se abbiamo raggiunto le 500 firme! Verrà anche inaugurato l'ingresso ciclabile al podere. Seguirà un rinfresco e sarà occasione di farci gli Auguri di Buone Feste.
+
+PER EVITARE SPRECHI DI CIBO CONFERMA LA TUA PARTECIPAZIONE AL RINFRESCO ENTRO VENERDI 13 DICEMBRE!    
+<img src="/images/aperitivonatale.png" alt="Aperitivo" style="width:100%" align="middle">
+<br/><br/>
 
 <div id="progetto"></div>
 ### Il progetto     
