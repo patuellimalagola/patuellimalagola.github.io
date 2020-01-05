@@ -14,9 +14,9 @@ ref: social
 Buongiorno, benvenuto sul nostro sito! Hello there English-speaking friend!
 
 
-Italiano:     
+Italiano:      
 
-- Vieni ad [acquistare i nostri prodotti](/venditadiretta).      
+- Segui la crescita dei nostri alberi su [Treedom](https://www.treedom.net/it/organization/patuellimalagola)   
 
 - Scopri il progetto [#sanmicheleinbici](/ciclabile)     
 
@@ -26,6 +26,8 @@ Italiano:
 English:     
 
 - Browse freely our [English website](/en)    
+
+- Follow our trees' development on [Treedom](https://www.treedom.net/en/organization/patuellimalagola)
 
 - Learn more about [our future projects](/goals)
 
