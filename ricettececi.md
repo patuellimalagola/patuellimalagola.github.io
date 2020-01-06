@@ -47,7 +47,7 @@ Consigli:
 - l'ammollo è importante, non va saltato!   
 
 <br/><br/>
-<div id="ceci croccanti al forno"></div>
+<div id="cecicroccanti"></div>
 ### Ceci croccanti al forno     
 <img src="/images/cecicroccanti.jpg" style="width:110px;height:110px;margin:0px 20px 0px 0px" align="left"> 
 I ceci croccanti al forno sono uno spuntino molto sfizioso, e che crea dipendenza! Si conservano bene, ma uno tira l'altro. Potete personalizzarli con le spezie che vi piacciono di più, ottimi con il peperoncino se vi piace il sapore piccante.    
