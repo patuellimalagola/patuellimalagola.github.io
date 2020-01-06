@@ -19,26 +19,26 @@ In questa pagina troverete le ricette per i ceci. Scopri i trucchi per la <a hre
 
 Qui il procedimento per cucinare i ceci secchi alla perfezione! Consigliamo l'uso della pentola a pressione per avere risultati migliori e in tempi molto più ridotti, ma se non l'avete seguite la variante in pentola normale.      
 
-1. Ammollo   
+Ammollo:      
 - pesare i ceci secchi (70-80 grammi a testa)   
 - lavare i ceci in uno scolapasta o colino    
 - lasciare in ammollo in abbondante acqua per tutta la notte    
 - scolare e risciacquare    
 
-2a. Variante con pentola a pressione   
+Cottura con pentola a pressione:       
 - mettere i ceci in pentola a pressione con il doppio di acqua      
 - portare a pressione e cuocere 15 minuti dal fischio    
 - spegnere il fuoco e lasciare riposare per 10 minuti   
 - aprire e assaggiare    
 - scolare quando hanno la consistenza desiderata, tenendo l'acqua di cottura      
 
-2b. Variante senza pentola a pressione
+Cottura in pentola normale:    
 - mettere i ceci in pentola con più del doppio d'acqua   
 - cuocere con coperchio, a fuoco medio-basso per almeno 1,5-2 ore    
 - rabboccare l'acqua se necessario    
 - scolare quando hanno la consistenza desiderata, tenendo l'acqua di cottura    
 
-Consigli:
+Consigli vari:   
 - i ceci cotti si conservano in frigorifero in un contenitore chiuso per qualche giorno, per un periodo più lungo possono essere congelati    
 - tenete i ceci più 'al dente' per ricette come i ceci croccanti al forno o la pasta e ceci, mentre un po' più cotti se volete mangiarli così o per fare l'hummus      
 - non aggiungete né sale ne bicarbonato all'acqua di ammollo o cottura. Potete aggiungere un pezzetto di alga Kombu/Kelp all'acqua di ammollo e all'acqua di cottura per aiutare ad ammorbidire i ceci   
@@ -69,7 +69,7 @@ Procedimento:
 - mescolare con una spatola ogni 15 minuti    
 - sfornare dopo 30-35 minuti e salare    
 
-Consigli:   
+Consigli veri:   
 - potete aggiungere un po' di rosmarino prima di infornare   
 - il tempo di cottura dipenderà molto dal tipo di forno e da quanto i ceci sono asciutti   
 - si conservano fino a una settimana in un contenitore chiuso   
