@@ -6,7 +6,7 @@ header: Come preparare i ceci
 description: Cottura e preparazione ceci
 tags: [ceci, chickpea, chickpeas, ricette, ricetta, legumi]
 image:
-  feature: germogli.png
+  feature: ceciammollo.jpg
 lang: it
 ref: ricettececi
 ---
