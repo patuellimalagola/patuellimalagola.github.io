@@ -40,8 +40,9 @@ Cottura in pentola normale:
 
 Consigli vari:   
 - i ceci cotti si conservano in frigorifero in un contenitore chiuso per qualche giorno, per un periodo più lungo possono essere congelati    
-- tenete i ceci più 'al dente' per ricette come i ceci croccanti al forno o la pasta e ceci, mentre un po' più cotti se volete mangiarli così o per fare l'hummus      
-- non aggiungete né sale ne bicarbonato all'acqua di ammollo o cottura. Potete aggiungere un pezzetto di alga Kombu/Kelp all'acqua di ammollo e all'acqua di cottura per aiutare ad ammorbidire i ceci   
+- tenete i ceci più 'al dente' per ricette come i ceci croccanti al forno o la pasta e ceci, mentre un po' più cotti se volete mangiarli così o per fare l'hummus   
+- il tempo di cottura è infulenzato dalla durezza dell'acqua e dalla freschezza dei ceci; se i vostri ceci sembrano non cucinarsi mai, può essere che siano un po' vecchi o conservati male        
+- non aggiungete né sale ne bicarbonato all'acqua di ammollo o cottura; potete aggiungere un pezzetto di alga Kombu/Kelp all'acqua di ammollo e all'acqua di cottura per aiutare ad ammorbidire i ceci   
 - aggiungete eventuali aromi o sale solo verso fine cottura   
 - l'acqua di cottura è ottima per la pasta e ceci e per zuppe in generale, inoltre può essere utilizzata come sostituto del bianco d'uovo per fare dolci vegani    
 - l'ammollo è importante, non va saltato!   
