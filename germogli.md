@@ -6,7 +6,7 @@ header: Come fare i germogli in casa
 description: Informazioni sui germogli
 tags: [germogli, grano, erbamedica, prodottiagricoli, vendita, veditadiretta]
 image:
-  feature: germogli.jpg
+  feature: germogli.png
 lang: it
 ref: germogli
 ---
@@ -18,8 +18,8 @@ Ecco qui il procedimento base:
 <img src="/images/fareigermogli.jpg" alt="Come fare i germogli" style="width:100%" align="middle">
 <br/><br/>
 
-Questo metodo può essere applicato a tutti i germogli, inclusa l'erba medica.    
+Questo metodo può essere applicato a tutti i germogli, inclusa l'erba medica.  
 
-Presto pubblicheremo altre informazioni e suggerimenti per fare i germogli in casa.    
+Per scaricare un pdf da stampare con queste istruzioni, [clicca qui](/docs/germogligrano.pdf).   
 
-Nel frattempo, avete visto le nostre [storie su Instagram](https://www.instagram.com/patuellimalagola/) sui germogli?
+Hai dubbi? Curiosità? Guarda le nostre [storie su Instagram](https://www.instagram.com/patuellimalagola/) sui germogli! Se hai altre domande, facci sapere e aggiungeremo le informazioni mancanti.   
