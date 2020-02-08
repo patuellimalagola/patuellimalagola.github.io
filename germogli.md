@@ -6,7 +6,7 @@ header: Come fare i germogli in casa
 description: Informazioni sui germogli
 tags: [germogli, grano, erbamedica, prodottiagricoli, vendita, veditadiretta]
 image:
-  feature: germogli.png
+  feature: germogli.jpg
 lang: it
 ref: germogli
 ---
