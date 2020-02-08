@@ -16,11 +16,13 @@ Buongiorno, benvenuto sul nostro sito! Hello there English-speaking friend!
 
 Italiano:      
 
-- Segui la crescita dei nostri alberi su [Treedom](https://www.treedom.net/it/organization/patuellimalagola)   
+- Impara a fare i [germogli in casa](/germogli)  
 
 - Scopri il progetto [#sanmicheleinbici](/ciclabile)     
 
 - Segui i nostri contenuti divulgativi su [Instagram](https://www.instagram.com/patuellimalagola/)    
+
+- Segui la crescita dei nostri alberi su [Treedom](https://www.treedom.net/it/organization/patuellimalagola)     
 
 
 English:     
