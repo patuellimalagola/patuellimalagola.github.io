@@ -20,9 +20,9 @@ Italiano:
 
 - Scopri il progetto [#sanmicheleinbici](/ciclabile)     
 
-- Segui i nostri contenuti divulgativi su [Instagram](https://www.instagram.com/patuellimalagola/)    
+- Segui i nostri contenuti divulgativi su [Instagram](https://www.instagram.com/patuellimalagola/)     
 
-- Segui la crescita dei nostri alberi su [Treedom](https://www.treedom.net/it/organization/patuellimalagola)     
+- Cerchi lavoro? [Segui queste istruzioni](/lavoraconnoi)      
 
 
 English:     
