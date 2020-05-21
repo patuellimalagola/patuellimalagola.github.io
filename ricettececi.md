@@ -61,7 +61,7 @@ Occorrente:
 - sale   
 
 Procedimento:   
-- asciugare 500 g di ceci con un canovaccio o con carta da cucina   
+- asciugare 500 g di ceci cotti con un canovaccio o con carta da cucina   
 - aggiungere 2 cucchiai rasi di farina   
 - aggiungere un cucchiaio di paprika o misto paprika e peperoncino (o altre spezie a piacere)   
 - aggiungere 2 cucchiai d'olio   

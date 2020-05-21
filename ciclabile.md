@@ -20,7 +20,7 @@ Invitiamo caldamente i residenti, le associazioni, le attività commerciali e tu
 ### Eventi in programma    
 
 <strong>*DOMENICA 15 DICEMBRE*</strong>    
-Evento di conclusione della raccolta firme. Tutti i nostri clienti e collaboratori sono cordialmente invitati! Vieni a scoprire se abbiamo raggiunto le 500 firme! Verrà anche inaugurato l'ingresso ciclabile al podere. Seguirà un rinfresco e sarà occasione di farci gli Auguri di Buone Feste.
+Evento di conclusione della raccolta firme. Tutti i nostri clienti e collaboratori sono cordialmente invitati! Vieni a scoprire se abbiamo raggiunto le 500 firme! Verrà anche inaugurato l'ingresso ciclabile al podere. Seguirà un rinfresco informale e sarà occasione di farci gli auguri di Buone Feste.
 
 PER EVITARE SPRECHI DI CIBO CONFERMA LA TUA PARTECIPAZIONE AL RINFRESCO ENTRO VENERDI 13 DICEMBRE!    
 <img src="/images/aperitivonatale.png" alt="Aperitivo" style="width:100%" align="middle">
@@ -65,8 +65,8 @@ Ben vengano tutte le iniziative in questo senso - sono sintomo che l'attenzione 
 
 <div id="petizione"></div>
 ### La petizione    
-Stiamo raccogliendo firme per il completamento del percorso ciclabile Ravenna - San Michele secondo il progetto indicato sopra. A novembre 2019 abbiamo già superato le 400 firme, che rappresentava il nostro obiettivo iniziale. Entro la fine del 2019 vogliamo raggiungere 500 firme e chiudere la raccolta firme, se non hai ancora firmato aiutaci a raggiungere questo traguardo!       
-È possibile firmare la petizione presso:    
+Stiamo raccogliendo firme per il completamento del percorso ciclabile Ravenna - San Michele secondo il progetto indicato sopra. A novembre 2019 abbiamo già superato le 400 firme, che rappresentava il nostro obiettivo iniziale. Vorremmo ora raggiungere 500 firme entro il 15 dicembre. Se non hai ancora firmato affrettati per aiutarci a raggiungere questo traguardo!       
+È possibile firmare la petizione (entro il 13 dicembre) presso:    
 - [Bar Circolo Arci di San Michele](https://goo.gl/maps/S6WgLUdQ8jMRhRNe6), su Via Faentina, angolo Via bacchetta        
 - [Circolo Endas di San Michele](https://goo.gl/maps/GScWo2FvyxvhRnaK9), su via Faentina, angolo Via casona        
 - [Bar Gelateria La Meta](https://goo.gl/maps/bKy9v27dhJhYzFcWA), in centro a Piangipane    
@@ -119,4 +119,4 @@ Andiamo in bici alla Sagra di San Michele! Biciclettata da Ravenna a San Michele
 In questa occasione 111 persone hanno firmato la petizione! Grazie alla collaborazione del Comitato Promotore per San Michele, in particolare Gian Piero Vallone.  
 <br/><br/>
 <strong> 14 novembre 2019 </strong>     
-Abbiamo superato le 400 firme! Il nuovo obiettivo è stabilito a 500 firme entro la fine del 2019.   
+Abbiamo superato le 400 firme! Il nuovo obiettivo è ora fissato a 500 firme entro la fine del 2019.   
