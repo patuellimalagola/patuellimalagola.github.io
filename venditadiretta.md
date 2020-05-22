@@ -15,5 +15,3 @@ ref: venditadiretta
 La vendita diretta dei prodotti si è chiusa a dicembre 2019!    
 
 Se sei un commerciante e ti interessa acquistare dei ceci, [contattaci](/contatti). 
-
-*Fino ad esaurimento scorte!*

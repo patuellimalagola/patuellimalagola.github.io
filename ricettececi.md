@@ -42,7 +42,8 @@ Consigli vari:
 - i ceci cotti si conservano in frigorifero in un contenitore chiuso per qualche giorno, per un periodo più lungo possono essere congelati    
 - tenete i ceci più 'al dente' per ricette come i ceci croccanti al forno o la pasta e ceci, mentre un po' più cotti se volete mangiarli così o per fare l'hummus   
 - il tempo di cottura è influenzato dalla durezza dell'acqua e dalla freschezza dei ceci; se i vostri ceci sembrano non cucinarsi mai, può essere che siano un po' vecchi o conservati male        
-- non aggiungete né sale né bicarbonato all'acqua di ammollo o cottura; potete aggiungere un pezzetto di alga Kombu/Kelp all'acqua di ammollo e all'acqua di cottura per aiutare ad ammorbidire i ceci   
+- per aiutare a ammorbidire i ceci potete aggiungere un pezzetto di alga Kombu/Kelp all'acqua di ammollo e all'acqua di cottura per aiutare ad ammorbidire i ceci
+- per ridurre i tempi di cottura se avete fretta potete aggiungere un pizzico di bicarbonato alla sola acqua di ammollo, risciacquando bene prima di cucinarli (il bicarbonato potrebbe però farli sfaldare un po' e modificare un po' il sapore)   
 - aggiungete eventuali aromi o sale solo verso fine cottura   
 - l'acqua di cottura è ottima per la pasta e ceci e per zuppe in generale, inoltre può essere utilizzata come sostituto del bianco d'uovo per fare dolci vegani    
 - l'ammollo è importante, non va saltato!   
@@ -70,7 +71,7 @@ Procedimento:
 - mescolare con una spatola ogni 15 minuti    
 - sfornare dopo 30-35 minuti e salare    
 
-Consigli veri:   
+Consigli vari:   
 - potete aggiungere un po' di rosmarino prima di infornare   
 - il tempo di cottura dipenderà molto dal tipo di forno e da quanto i ceci sono asciutti   
 - i ceci croccanti si conservano fino a una settimana in un contenitore chiuso   
