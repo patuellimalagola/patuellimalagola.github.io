@@ -11,7 +11,7 @@ lang: it
 ref: lavoro
 ---
 
-Grazie per il vostro interesse a lavorare con noi! 
+Grazie per il vostro interesse a lavorare con noi! Promuoviamo la diversità e l'inclusività, i candidati verranno valutati solo sulla base delle loro capacità e motivazione.   
 
 ### POSIZIONI APERTE
 Al momento non abbiamo posizioni aperte. Tornate a visitare questa pagina, pubblicheremo qui le future offerte di lavoro.   
