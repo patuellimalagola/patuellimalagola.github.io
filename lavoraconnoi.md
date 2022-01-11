@@ -6,7 +6,7 @@ header: Cerchi lavoro?
 description: Se cerchi lavoro, consulta prima questa pagina.
 tags: [azienda, agricola, Ravenna, Emilia-Romagna, San Michele, Santerno, operai, impiegati, lavoro, cv, curriculum, privacy, candidatura]
 image:
-  feature: lavoro.jpg
+  feature: lavorare.jpg
 lang: it
 ref: lavoro
 ---
