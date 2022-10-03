@@ -15,8 +15,8 @@ Grazie per il vostro interesse a lavorare con noi! Promuoviamo la diversità e l
 
 ---
 
-### POTATORI VITI (URGENTE) 
-Cerchiamo urgentemente 1-2 potatori per viti periodo gennaio-marzo 2022. Impianto di Trebbiano a Guyot, in allevamento (impianto del 2020), 3 ettari, nel nostro Podere Manzone (nei pressi di San Michele, Ravenna). Contratto da operaio agricolo a tempo determinato secondo CCNL, tariffa oraria 8,37 euro (livello 1), con possibilità di aumento fino a 12,44 euro (livello 6) per potatori esperti. Orari previsti 39 ore a settimana (7 ore dal lunedì al sabato, 4 ore il sabato mattina), salvo maltempo.      
+### POTATORI VITI 2023
+Cerchiamo 1-2 potatori per viti periodo dicembre 2022-marzo 2023. Impianto di Trebbiano a Guyot, in allevamento (impianto del 2020), 3 ettari, nel nostro Podere Manzone (nei pressi di San Michele, Ravenna). Contratto da operaio agricolo a tempo determinato secondo CCNL, tariffa oraria 8,37 euro (livello 1), con possibilità di aumento fino a 12,44 euro (livello 6) per potatori esperti. Orari previsti 39 ore a settimana (7 ore dal lunedì al sabato, 4 ore il sabato mattina), salvo maltempo.      
 
 Mansioni:   
 - potatura
@@ -25,18 +25,16 @@ Mansioni:
 
 Requisiti se POTATORE ESPERTO:   
 - esperienza di potatura viti allevate a Guyot, inclusi impianti in allevamento (minimo 2 campagne)
-- preferibile formazione metodo Simonit&Sirch (corsi di Dinamica o analogo)
-- Green Pass
-- disponibilità continuativa di minimo 15 giorni lavorativi
+- preferibile formazione metodo Simonit&Sirch (corsi di Dinamica o analogo)  
+- disponibilità continuativa di minimo 20 giorni lavorativi
 - possibilità di recarsi in azienda con proprio mezzo
 
 Requisiti se POTATORE PRINCIPIANTE
-- tanta voglia di imparare questo mestiere e a sottoporsi a formazione
-- Green Pass
-- disponibilità immediata (entro 20 gennaio) e di minimo 30 giorni (inclusa formazione)
+- tanta voglia di imparare questo mestiere e a sottoporsi a formazione   
+- disponibilità entro 1 dicembre e di minimo 30 giorni (inclusa formazione)
 - possibilità di recarsi in azienda con proprio mezzo
 
-Per mandare una candidatura per questa posizione, si prega di inviare un email con oggetto "candidatura potatore esperto 2022" oppure "candidatura potatore principiante 2022" a info@patuellimalagola.com con allegati:
+Per mandare una candidatura per questa posizione, si prega di inviare un email con oggetto "candidatura potatore esperto 2023" oppure "candidatura potatore principiante 2023" a info@patuellimalagola.com con allegati:
 - [informativa privacy](/docs/InformativaPrivacyCandidati.pdf) compilata e firmata
 - CV (Curriculum Vitae). 
 
