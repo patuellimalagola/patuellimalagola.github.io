@@ -15,8 +15,8 @@ Grazie per il vostro interesse a lavorare con noi! Promuoviamo la diversità e l
 
 ---
 
-### POTATORI VITI 2024
-Cerchiamo 1-2 potatori per viti periodo gennaio 2024-marzo 2024. Impianto di Trebbiano a Guyot, 3 ettari, nel nostro Podere Manzone (nei pressi di San Michele, Ravenna). Contratto da operaio agricolo a tempo determinato secondo CCNL. Orari previsti 39 ore a settimana (7 ore dal lunedì al sabato, 4 ore il sabato mattina), salvo maltempo.      
+### POTATORI VITI
+Normalmente cerchiamo potatori per le viti per il periodo dicembre-marzo. Impianto di Trebbiano a Guyot, 3 ettari, nel nostro Podere Manzone (nei pressi di San Michele, Ravenna). Contratto da operaio agricolo a tempo determinato secondo CCNL. Orari previsti 39 ore a settimana (7 ore dal lunedì al sabato, 4 ore il sabato mattina), salvo maltempo.      
 
 Mansioni:   
 - potatura
@@ -26,13 +26,11 @@ Mansioni:
 Requisiti se POTATORE ESPERTO:   
 - esperienza di potatura viti allevate a Guyot, inclusi impianti in allevamento (minimo 2 campagne)
 - preferibile formazione metodo Simonit&Sirch (corsi di Dinamica o analogo)  
-- disponibilità continuativa di minimo 20 giorni lavorativi
-- possibilità di recarsi in azienda con proprio mezzo
+- disponibilità continuativa di minimo 20 giorni lavorativi   
 
 Requisiti se POTATORE PRINCIPIANTE
 - tanta voglia di imparare questo mestiere e a sottoporsi a formazione   
-- disponibilità entro 1 dicembre e di minimo 30 giorni (inclusa formazione)
-- possibilità di recarsi in azienda con proprio mezzo
+- disponibilità entro 1 dicembre e di minimo 30 giorni (inclusa formazione)   
 
 Per mandare una candidatura per questa posizione, si prega di inviare un email con oggetto "candidatura potatore 2024" a info@patuellimalagola.com con allegati:
 - [informativa privacy](/docs/InformativaPrivacyCandidati.pdf) compilata e firmata
