@@ -18,12 +18,15 @@ Contattateci a questo indirizzo email: info@patuellimalagola.com
 
 Se siete in cerca di lavoro, visitate [questa pagina](/lavoraconnoi) prima di scriverci!    
 
+
+<!---
 Ci trovate anche sui social media:    
 
 <div class="sharethis-inline-follow-buttons"></div>    
 
 <br/><br/>
 
+--->
 Per visitare le nostre sedi è necessario prendere appuntamento.
 
 
