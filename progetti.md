@@ -29,7 +29,9 @@ Abbiamo partecipato al tavolo sulla mobilità sostenibile della Camera di Commer
 Supportiamo anche il progetto di Sara, residente di San Michele, di estendere il collegamento di autobus urbano fino San Michele.
 <br/><br/>   
 
+<!---
 ---
+
 
 ### Vendita di prodotti    
 <img src="/images/sellproduce.jpg" style="width:110px;height:110px;margin:0px 20px 0px 0px" align="left"> 
@@ -44,3 +46,4 @@ Siamo tutti bombardati di informazioni, spesso contrastanti, su ciò che mangiam
 <br/><br/> 
 
 ---
+--->
